@@ -1,0 +1,218 @@
+:root {
+  --primary-gradient: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+  --accent-color: #3b82f6;
+  --accent-hover: #2563eb;
+  --bg-subtle: #f8fafc;
+  --card-border: #e2e8f0;
+  --text-dark: #0f172a;
+  --text-muted: #64748b;
+  
+  --risk-high: #ef4444;
+  --risk-high-bg: #fee2e2;
+  --risk-medium: #f59e0b;
+  --risk-medium-bg: #fef3c7;
+  --risk-low: #10b981;
+  --risk-low-bg: #d1fae5;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background-color: var(--bg-subtle);
+  color: var(--text-dark);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Navbar */
+.navbar-brand-custom {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.brand-badge {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  background: linear-gradient(135deg, #3b82f6, #6366f1);
+  color: #fff;
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-weight: 700;
+}
+
+/* Cards & Glassmorphism */
+.kpi-card {
+  border: 1px solid var(--card-border);
+  border-radius: 14px;
+  background: #ffffff;
+  padding: 1.25rem 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.kpi-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.06), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+}
+
+.kpi-icon {
+  width: 46px;
+  height: 46px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+}
+
+.kpi-val {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+}
+
+.kpi-lbl {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+}
+
+/* Risk Badges */
+.badge-risk-high {
+  background-color: var(--risk-high-bg);
+  color: #991b1b;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 20px;
+}
+
+.badge-risk-medium {
+  background-color: var(--risk-medium-bg);
+  color: #92400e;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 20px;
+}
+
+.badge-risk-low {
+  background-color: var(--risk-low-bg);
+  color: #065f46;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 20px;
+}
+
+/* Risk Score Circle Gauge */
+.risk-gauge-circle {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  font-weight: 800;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+.risk-gauge-high {
+  background: radial-gradient(circle, #fff 55%, var(--risk-high-bg) 60%);
+  border: 5px solid var(--risk-high);
+  color: #b91c1c;
+}
+
+.risk-gauge-medium {
+  background: radial-gradient(circle, #fff 55%, var(--risk-medium-bg) 60%);
+  border: 5px solid var(--risk-medium);
+  color: #b45309;
+}
+
+.risk-gauge-low {
+  background: radial-gradient(circle, #fff 55%, var(--risk-low-bg) 60%);
+  border: 5px solid var(--risk-low);
+  color: #047857;
+}
+
+/* XAI Factor Cards */
+.xai-factor-card {
+  border-left: 4px solid var(--accent-color);
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 10px;
+  transition: all 0.2s ease;
+  border-top: 1px solid #f1f5f9;
+  border-right: 1px solid #f1f5f9;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.xai-factor-card.factor-critical {
+  border-left-color: #dc2626;
+  background: #fff8f8;
+}
+
+.xai-factor-card.factor-high {
+  border-left-color: #ea580c;
+  background: #fffaf0;
+}
+
+.xai-factor-card.factor-moderate {
+  border-left-color: #d97706;
+}
+
+.xai-factor-card.factor-positive {
+  border-left-color: #10b981;
+  background: #f0fdf4;
+}
+
+/* Recommendation Checklist Items */
+.rec-item {
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 14px 18px;
+  background: #ffffff;
+  margin-bottom: 12px;
+  transition: transform 0.15s ease;
+}
+
+.rec-item:hover {
+  transform: translateX(4px);
+  border-color: #cbd5e1;
+}
+
+/* Table Styling */
+.table-custom {
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.table-custom th {
+  background-color: #f8fafc;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #64748b;
+  font-weight: 700;
+  padding: 12px 16px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.table-custom td {
+  padding: 14px 16px;
+  vertical-align: middle;
+  border-bottom: 1px solid #f1f5f9;
+}

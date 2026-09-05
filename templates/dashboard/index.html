@@ -1,0 +1,345 @@
+{% extends 'base.html' %}
+
+{% block title %}Executive Risk Dashboard | LandRisk AI{% endblock %}
+
+{% block content %}
+<!-- Dashboard Header -->
+<div class="d-flex justify-content-between align-items-center mb-4 flex-wrap gap-2">
+    <div>
+        <h3 class="fw-bold mb-1 text-dark">Executive Risk & Delay Intelligence Dashboard</h3>
+        <p class="text-muted small mb-0">Predictive oversight of land acquisition cases, bottleneck stages, and early-warning interventions.</p>
+    </div>
+    <div class="d-flex gap-2">
+        <a href="{% url 'case_create' %}" class="btn btn-primary px-3 fw-semibold">
+            <i class="bi bi-plus-circle me-1"></i> Register New Case
+        </a>
+        <a href="{% url 'case_list' %}" class="btn btn-outline-secondary px-3">
+            <i class="bi bi-folder me-1"></i> View All Cases
+        </a>
+    </div>
+</div>
+
+<!-- 6 Core KPI Cards Grid -->
+<div class="row g-3 mb-4">
+    <!-- Total Projects -->
+    <div class="col-xl-2 col-md-4 col-6">
+        <div class="kpi-card h-100">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+                <span class="kpi-lbl">Total Cases</span>
+                <div class="kpi-icon bg-primary bg-opacity-10 text-primary">
+                    <i class="bi bi-layers-fill"></i>
+                </div>
+            </div>
+            <div class="kpi-val text-dark">{{ total_cases }}</div>
+            <div class="text-muted small mt-1">Across all sectors</div>
+        </div>
+    </div>
+
+    <!-- Ongoing Cases -->
+    <div class="col-xl-2 col-md-4 col-6">
+        <div class="kpi-card h-100">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+                <span class="kpi-lbl">Ongoing</span>
+                <div class="kpi-icon bg-info bg-opacity-10 text-info">
+                    <i class="bi bi-activity"></i>
+                </div>
+            </div>
+            <div class="kpi-val text-dark">{{ ongoing_cases }}</div>
+            <div class="text-muted small mt-1">Active pipelines</div>
+        </div>
+    </div>
+
+    <!-- Delayed Cases -->
+    <div class="col-xl-2 col-md-4 col-6">
+        <div class="kpi-card h-100">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+                <span class="kpi-lbl">Delayed</span>
+                <div class="kpi-icon bg-danger bg-opacity-10 text-danger">
+                    <i class="bi bi-clock-history"></i>
+                </div>
+            </div>
+            <div class="kpi-val text-danger">{{ delayed_cases }}</div>
+            <div class="text-muted small mt-1">Breached timeline</div>
+        </div>
+    </div>
+
+    <!-- High-Risk Cases -->
+    <div class="col-xl-2 col-md-4 col-6">
+        <div class="kpi-card h-100" style="border-bottom: 3px solid var(--risk-high);">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+                <span class="kpi-lbl text-danger">High Risk</span>
+                <div class="kpi-icon bg-danger bg-opacity-10 text-danger">
+                    <i class="bi bi-shield-fill-x"></i>
+                </div>
+            </div>
+            <div class="kpi-val text-danger">{{ high_risk_cases }}</div>
+            <div class="text-muted small mt-1">&gt; 70% delay risk</div>
+        </div>
+    </div>
+
+    <!-- Medium-Risk Cases -->
+    <div class="col-xl-2 col-md-4 col-6">
+        <div class="kpi-card h-100" style="border-bottom: 3px solid var(--risk-medium);">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+                <span class="kpi-lbl text-warning">Medium Risk</span>
+                <div class="kpi-icon bg-warning bg-opacity-10 text-warning">
+                    <i class="bi bi-shield-fill-exclamation"></i>
+                </div>
+            </div>
+            <div class="kpi-val text-warning">{{ medium_risk_cases }}</div>
+            <div class="text-muted small mt-1">35% - 70% delay risk</div>
+        </div>
+    </div>
+
+    <!-- Low-Risk Cases -->
+    <div class="col-xl-2 col-md-4 col-6">
+        <div class="kpi-card h-100" style="border-bottom: 3px solid var(--risk-low);">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+                <span class="kpi-lbl text-success">Low Risk</span>
+                <div class="kpi-icon bg-success bg-opacity-10 text-success">
+                    <i class="bi bi-shield-fill-check"></i>
+                </div>
+            </div>
+            <div class="kpi-val text-success">{{ low_risk_cases }}</div>
+            <div class="text-muted small mt-1">&lt; 35% delay risk</div>
+        </div>
+    </div>
+</div>
+
+<!-- Chart.js Predictive Analytics Row -->
+<div class="row g-3 mb-4">
+    <!-- Chart 1: Risk Distribution (Doughnut) -->
+    <div class="col-lg-4 col-md-6">
+        <div class="card border-0 shadow-sm rounded-4 h-100 p-3">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <span class="fw-bold text-dark small text-uppercase">Delay Risk Distribution</span>
+                <span class="badge bg-light text-secondary border">AI Classified</span>
+            </div>
+            <div class="chart-container position-relative" style="height: 250px;">
+                <canvas id="riskDonutChart"></canvas>
+            </div>
+            <div class="row text-center mt-3 pt-2 border-top small">
+                <div class="col-4">
+                    <span class="text-danger fw-bold">&bull; High: {{ high_risk_cases }}</span>
+                </div>
+                <div class="col-4">
+                    <span class="text-warning fw-bold">&bull; Med: {{ medium_risk_cases }}</span>
+                </div>
+                <div class="col-4">
+                    <span class="text-success fw-bold">&bull; Low: {{ low_risk_cases }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chart 2: Predicted Bottleneck Stages (Bar) -->
+    <div class="col-lg-4 col-md-6">
+        <div class="card border-0 shadow-sm rounded-4 h-100 p-3">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <span class="fw-bold text-dark small text-uppercase">Vulnerable Bottleneck Stages</span>
+                <span class="badge bg-light text-secondary border">Predicted Node</span>
+            </div>
+            <div class="chart-container position-relative" style="height: 250px;">
+                <canvas id="stageBarChart"></canvas>
+            </div>
+            <p class="text-muted small text-center mb-0 mt-3 pt-2 border-top">
+                Identifies milestones where cases are projected to experience prolonged friction.
+            </p>
+        </div>
+    </div>
+
+    <!-- Chart 3: Sector Risk Breakdown -->
+    <div class="col-lg-4 col-md-12">
+        <div class="card border-0 shadow-sm rounded-4 h-100 p-3">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <span class="fw-bold text-dark small text-uppercase">Risk by Infrastructure Sector</span>
+                <span class="badge bg-light text-secondary border">Average Score</span>
+            </div>
+            <div class="chart-container position-relative" style="height: 250px;">
+                <canvas id="sectorChart"></canvas>
+            </div>
+            <p class="text-muted small text-center mb-0 mt-3 pt-2 border-top">
+                Sector-wise risk comparison highlighting exposure to litigations & clearances.
+            </p>
+        </div>
+    </div>
+</div>
+
+<!-- Early Warning Intervention Watchlist Table -->
+<div class="card border-0 shadow-sm rounded-4 overflow-hidden mb-4">
+    <div class="card-header bg-white py-3 border-bottom d-flex justify-content-between align-items-center">
+        <div>
+            <span class="fw-bold text-dark"><i class="bi bi-shield-exclamation text-danger me-2"></i>Early Warning Priority Watchlist</span>
+            <span class="text-muted small d-none d-md-inline ms-2">&bull; Cases requiring prompt administrative mediation</span>
+        </div>
+        <a href="{% url 'case_list' %}?risk_level=High" class="btn btn-outline-danger btn-sm">
+            View All High-Risk Cases
+        </a>
+    </div>
+    <div class="table-responsive">
+        <table class="table table-hover table-custom align-middle mb-0">
+            <thead>
+                <tr>
+                    <th>Project Name & Case ID</th>
+                    <th>Sector</th>
+                    <th>Warning Severity</th>
+                    <th>Risk Score</th>
+                    <th>Bottleneck Stage</th>
+                    <th>Top Actionable Intervention</th>
+                    <th class="text-end">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for case in intervention_watchlist %}
+                <tr>
+                    <td>
+                        <div class="fw-bold text-dark">
+                            <a href="{% url 'case_detail' case.pk %}" class="text-decoration-none text-dark">
+                                {{ case.project_name }}
+                            </a>
+                        </div>
+                        <div class="text-muted small"><code>{{ case.case_number }}</code> &bull; {{ case.district }}</div>
+                    </td>
+                    <td>
+                        <span class="badge bg-secondary-subtle text-secondary-emphasis">{{ case.sector }}</span>
+                    </td>
+                    <td>
+                        {% if case.warning_severity == 'CRITICAL' %}
+                            <span class="badge bg-danger text-white"><i class="bi bi-fire me-1"></i> CRITICAL</span>
+                        {% elif case.warning_severity == 'HIGH' %}
+                            <span class="badge bg-warning text-dark"><i class="bi bi-exclamation-triangle me-1"></i> HIGH</span>
+                        {% else %}
+                            <span class="badge bg-info-subtle text-info-emphasis">MODERATE</span>
+                        {% endif %}
+                    </td>
+                    <td>
+                        <span class="fw-bold fs-6 {% if case.risk_score >= 70 %}text-danger{% elif case.risk_score >= 35 %}text-warning{% else %}text-success{% endif %}">
+                            {{ case.risk_score }}/100
+                        </span>
+                        <div class="text-muted small">{{ case.delay_probability }}% Prob.</div>
+                    </td>
+                    <td>
+                        <span class="badge bg-light text-dark border">
+                            <i class="bi bi-signpost-split text-primary me-1"></i> {{ case.predicted_delay_stage }}
+                        </span>
+                    </td>
+                    <td style="max-width: 320px;">
+                        {% if case.recommendations %}
+                            <div class="small fw-semibold text-truncate" title="{{ case.recommendations.0.action }}">
+                                {{ case.recommendations.0.action }}
+                            </div>
+                            <div class="text-muted small">Authority: {{ case.recommendations.0.authority }}</div>
+                        {% else %}
+                            <span class="text-muted small">Standard monitoring</span>
+                        {% endif %}
+                    </td>
+                    <td class="text-end">
+                        <a href="{% url 'case_detail' case.pk %}" class="btn btn-primary btn-sm px-3">
+                            <i class="bi bi-cpu me-1"></i> Inspect
+                        </a>
+                    </td>
+                </tr>
+                {% empty %}
+                <tr>
+                    <td colspan="7" class="text-center py-4 text-muted">
+                        <i class="bi bi-check-circle-fill text-success fs-3 d-block mb-1"></i>
+                        No critical high-risk cases detected. All pipelines operating within safe thresholds.
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    fetch("{% url 'dashboard_charts_api' %}")
+        .then(response => response.json())
+        .then(data => {
+            // 1. Risk Donut Chart
+            const ctxDonut = document.getElementById('riskDonutChart').getContext('2d');
+            new Chart(ctxDonut, {
+                type: 'doughnut',
+                data: {
+                    labels: data.risk_distribution.labels,
+                    datasets: [{
+                        data: data.risk_distribution.data,
+                        backgroundColor: ['#10b981', '#f59e0b', '#ef4444'],
+                        borderWidth: 2,
+                        borderColor: '#ffffff'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { position: 'bottom' }
+                    },
+                    cutout: '70%'
+                }
+            });
+
+            // 2. Stage Bottleneck Bar Chart
+            const ctxStage = document.getElementById('stageBarChart').getContext('2d');
+            new Chart(ctxStage, {
+                type: 'bar',
+                data: {
+                    labels: data.stage_breakdown.labels,
+                    datasets: [{
+                        label: 'Cases at Risk',
+                        data: data.stage_breakdown.data,
+                        backgroundColor: '#3b82f6',
+                        borderRadius: 6
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            ticks: { precision: 0 }
+                        }
+                    }
+                }
+            });
+
+            // 3. Sector Analytics Chart
+            const ctxSector = document.getElementById('sectorChart').getContext('2d');
+            new Chart(ctxSector, {
+                type: 'bar',
+                data: {
+                    labels: data.sector_analytics.labels,
+                    datasets: [{
+                        label: 'Average Risk Score',
+                        data: data.sector_analytics.avg_risk,
+                        backgroundColor: '#6366f1',
+                        borderRadius: 6
+                    }]
+                },
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false }
+                    },
+                    scales: {
+                        x: {
+                            beginAtZero: true,
+                            max: 100
+                        }
+                    }
+                }
+            });
+        })
+        .catch(err => console.error("Error loading dashboard chart data:", err));
+});
+</script>
+{% endblock %}

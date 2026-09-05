@@ -1,0 +1,5 @@
+django
+pandas
+scikit-learn
+joblib
+numpy

@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %}Confirm Deletion | LandRisk AI{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center pt-5">
+    <div class="col-md-6">
+        <div class="card border-0 shadow-sm rounded-4 text-center p-4">
+            <div class="card-body">
+                <div class="bg-danger bg-opacity-10 text-danger rounded-circle d-inline-flex align-items-center justify-content-center p-3 mb-3" style="width: 64px; height: 64px;">
+                    <i class="bi bi-trash3-fill fs-2"></i>
+                </div>
+                <h4 class="fw-bold mb-2">Delete Case Record?</h4>
+                <p class="text-muted small mb-4">
+                    Are you sure you want to permanently delete <strong>"{{ object.project_name }}"</strong> (<code>{{ object.case_number }}</code>)?
+                    This will remove all associated risk intelligence, audit logs, and predictions.
+                </p>
+                <form method="POST">
+                    {% csrf_token %}
+                    <div class="d-flex justify-content-center gap-3">
+                        <a href="{% url 'case_detail' object.pk %}" class="btn btn-light px-4">Cancel</a>
+                        <button type="submit" class="btn btn-danger px-4">Yes, Delete Case</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

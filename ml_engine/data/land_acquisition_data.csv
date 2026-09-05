@@ -1,0 +1,1501 @@
+sector,land_type,total_area_hectares,affected_landowners_count,plots_count,current_stage,days_in_current_stage,env_forest_clearance_status,litigation_cases_count,public_objections_count,compensation_disparity_ratio,sia_completed,rr_plan_approved,risk_score,is_delayed,delay_stage
+Industrial,Agricultural,25.63,39,83,R&R Implementation,57,Pending,0,4,0.91,1,1,20.3,0,Approval
+Urban Infrastructure,Agricultural,76.79,133,163,Preliminary Notification (Sec 11),20,Approved,0,0,0.88,1,1,8.9,0,Compensation
+Railways,Government/Barren,80.32,35,56,Declaration of Acquisition (Sec 19),196,Approved,2,4,0.79,1,1,51.9,1,Legal
+Urban Infrastructure,Agricultural,70.73,120,242,Award & Compensation (Sec 23),47,Approved,0,1,0.72,1,1,23.1,0,Compensation
+Railways,Residential,174.91,847,1387,Physical Possession,81,Approved,1,3,0.79,1,1,26.5,0,Documentation/Survey
+Railways,Forest,219.57,73,145,Survey & Demarcation,69,Approved,1,2,0.98,1,1,19.5,0,Legal
+Highways,Government/Barren,194.97,54,95,Award & Compensation (Sec 23),79,Approved,0,1,0.93,1,1,5.0,0,Compensation
+Energy,Agricultural,58.09,75,89,Survey & Demarcation,95,Approved,0,1,0.98,1,1,5.0,0,Documentation/Survey
+Irrigation,Government/Barren,353.01,195,241,Survey & Demarcation,19,Approved,0,0,0.89,1,1,22.1,0,Documentation/Survey
+Railways,Agricultural,128.12,330,779,Declaration of Acquisition (Sec 19),99,Approved,1,5,1.0,1,1,25.1,0,Legal
+Highways,Residential,26.78,118,281,Survey & Demarcation,67,Approved,0,0,0.91,0,1,5.0,0,Documentation/Survey
+Irrigation,Agricultural,471.08,572,1126,Physical Possession,76,Approved,0,5,0.88,1,0,30.3,0,Rehabilitation & Resettlement
+Industrial,Commercial,74.88,230,535,Hearing of Objections (Sec 15),33,Approved,0,0,0.71,1,0,35.2,0,Rehabilitation & Resettlement
+Industrial,Government/Barren,60.59,25,42,Preliminary Notification (Sec 11),329,Approved,5,0,0.82,0,1,82.8,1,Legal
+Highways,Agricultural,222.77,412,811,Award & Compensation (Sec 23),34,Approved,0,0,0.75,1,1,21.9,0,Documentation/Survey
+Railways,Agricultural,60.39,104,240,R&R Implementation,19,Not Applicable,0,1,0.92,1,0,24.4,0,Rehabilitation & Resettlement
+Irrigation,Residential,102.04,605,826,Award & Compensation (Sec 23),50,Approved,1,4,0.98,1,1,6.7,0,Documentation/Survey
+Energy,Agricultural,54.87,99,212,Declaration of Acquisition (Sec 19),160,Approved,0,0,0.69,1,1,31.8,0,Compensation
+Urban Infrastructure,Forest,51.44,13,31,R&R Implementation,21,Pending,0,0,0.64,1,1,61.7,1,Approval
+Highways,Commercial,56.33,346,631,Preliminary Notification (Sec 11),405,Approved,1,1,0.72,1,1,55.6,1,Documentation/Survey
+Railways,Residential,120.77,652,1483,Declaration of Acquisition (Sec 19),15,Approved,0,5,0.7,1,1,30.5,0,Compensation
+Highways,Agricultural,106.53,259,627,Declaration of Acquisition (Sec 19),26,Approved,0,3,0.89,1,1,15.4,0,Documentation/Survey
+Irrigation,Agricultural,350.99,869,1836,Hearing of Objections (Sec 15),48,Not Applicable,0,2,0.62,1,0,44.4,0,Rehabilitation & Resettlement
+Irrigation,Agricultural,261.64,627,735,Survey & Demarcation,50,Not Applicable,4,7,0.54,0,1,80.9,1,Legal
+Industrial,Residential,66.45,410,513,Physical Possession,25,Approved,0,5,0.83,1,1,18.0,0,Compensation
+Energy,Residential,68.72,388,484,Survey & Demarcation,141,Not Applicable,0,2,0.73,1,1,31.5,0,Compensation
+Highways,Agricultural,72.31,140,273,Declaration of Acquisition (Sec 19),38,Approved,0,0,0.91,1,1,5.0,0,Possession
+Industrial,Forest,6.29,2,3,Physical Possession,45,Pending,0,6,0.89,1,1,62.9,1,Approval
+Industrial,Forest,49.22,23,44,R&R Implementation,215,Rejected,0,4,0.74,1,1,94.9,1,Compensation
+Urban Infrastructure,Agricultural,23.94,61,76,Survey & Demarcation,38,Approved,0,2,0.65,1,0,39.6,0,Compensation
+Irrigation,Agricultural,495.51,836,1646,Award & Compensation (Sec 23),65,Pending,0,0,1.0,1,0,35.6,0,Approval
+Railways,Government/Barren,200.94,86,191,Physical Possession,168,Approved,1,3,0.87,1,1,39.2,0,Legal
+Urban Infrastructure,Forest,37.83,16,37,Declaration of Acquisition (Sec 19),52,Approved,0,7,0.63,1,1,60.3,1,Compensation
+Irrigation,Residential,486.07,2134,3567,Declaration of Acquisition (Sec 19),76,Approved,1,2,0.77,1,0,38.1,0,Rehabilitation & Resettlement
+Highways,Residential,123.56,357,651,Award & Compensation (Sec 23),19,Pending,2,3,0.82,1,1,68.9,1,Legal
+Highways,Forest,167.21,48,115,Survey & Demarcation,115,Pending,0,6,0.85,0,1,75.3,1,Approval
+Energy,Agricultural,26.21,43,82,Survey & Demarcation,23,Not Applicable,0,3,0.83,1,1,16.9,0,Documentation/Survey
+Irrigation,Agricultural,406.58,912,1197,R&R Implementation,95,Not Applicable,1,1,0.94,1,1,28.2,0,Documentation/Survey
+Industrial,Agricultural,68.88,176,405,Survey & Demarcation,79,Approved,0,1,0.53,1,1,33.8,0,Compensation
+Urban Infrastructure,Agricultural,15.92,32,60,Declaration of Acquisition (Sec 19),38,Pending,1,4,0.99,1,1,40.1,0,Approval
+Railways,Agricultural,247.1,414,1012,Hearing of Objections (Sec 15),25,Pending,3,4,0.76,1,0,93.4,1,Legal
+Urban Infrastructure,Commercial,50.53,200,398,Preliminary Notification (Sec 11),219,Pending,0,2,1.0,0,1,52.6,1,Approval
+Railways,Agricultural,220.97,394,710,Award & Compensation (Sec 23),222,Approved,2,1,0.94,1,0,56.7,1,Legal
+Highways,Forest,191.02,61,99,R&R Implementation,131,Approved,0,5,0.8,1,1,28.3,0,Possession
+Highways,Agricultural,46.88,90,183,Award & Compensation (Sec 23),220,Pending,0,2,0.84,1,1,54.6,1,Approval
+Industrial,Agricultural,25.69,70,170,Declaration of Acquisition (Sec 19),98,Not Applicable,0,2,1.02,1,1,16.5,0,Compensation
+Railways,Commercial,15.67,90,117,Award & Compensation (Sec 23),30,Approved,3,6,1.05,1,0,50.8,1,Legal
+Highways,Forest,237.17,60,131,Preliminary Notification (Sec 11),90,Approved,0,2,0.77,1,0,27.5,0,Compensation
+Urban Infrastructure,Agricultural,44.79,86,167,Award & Compensation (Sec 23),40,Approved,0,2,0.83,1,0,12.5,0,Rehabilitation & Resettlement
+Industrial,Residential,14.76,43,104,Physical Possession,340,Approved,0,2,0.93,1,1,21.5,0,Compensation
+Irrigation,Commercial,418.29,2053,4105,Physical Possession,59,Approved,0,1,0.56,1,0,50.5,1,Compensation
+Irrigation,Agricultural,190.24,327,790,Hearing of Objections (Sec 15),215,Approved,0,5,0.72,1,0,69.7,1,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,78.83,101,140,Declaration of Acquisition (Sec 19),130,Not Applicable,0,1,0.71,1,1,27.5,0,Compensation
+Urban Infrastructure,Forest,35.33,15,22,Award & Compensation (Sec 23),44,Pending,0,1,0.9,1,1,36.0,0,Approval
+Industrial,Agricultural,19.54,47,74,Award & Compensation (Sec 23),32,Not Applicable,0,4,0.83,1,1,20.7,0,Compensation
+Energy,Agricultural,28.71,54,94,R&R Implementation,252,Pending,0,1,0.85,1,0,53.9,1,Approval
+Industrial,Government/Barren,73.18,30,40,Declaration of Acquisition (Sec 19),65,Pending,0,1,0.76,1,1,38.1,0,Approval
+Urban Infrastructure,Residential,64.19,322,383,Survey & Demarcation,321,Approved,0,6,0.72,1,1,66.4,1,Compensation
+Highways,Agricultural,166.22,286,365,Declaration of Acquisition (Sec 19),88,Pending,0,2,0.7,1,1,47.4,0,Compensation
+Energy,Commercial,7.83,30,65,Award & Compensation (Sec 23),262,Approved,2,7,0.93,1,1,66.6,1,Legal
+Irrigation,Government/Barren,215.53,117,289,Preliminary Notification (Sec 11),55,Approved,0,2,0.91,1,0,13.2,0,Rehabilitation & Resettlement
+Irrigation,Government/Barren,423.97,114,270,Preliminary Notification (Sec 11),46,Not Applicable,0,1,0.76,1,0,32.6,0,Rehabilitation & Resettlement
+Irrigation,Residential,391.48,1718,3369,Preliminary Notification (Sec 11),164,Not Applicable,4,7,0.7,1,0,98.0,1,Legal
+Industrial,Forest,58.89,19,20,Preliminary Notification (Sec 11),92,Pending,0,1,0.91,1,1,47.6,0,Approval
+Industrial,Agricultural,10.07,15,30,Physical Possession,85,Approved,0,0,0.58,1,1,28.7,0,Compensation
+Urban Infrastructure,Forest,45.73,14,30,Physical Possession,45,Pending,0,2,0.84,1,1,48.3,0,Approval
+Highways,Residential,116.19,729,986,Survey & Demarcation,95,Approved,0,2,0.72,1,1,35.4,0,Compensation
+Irrigation,Agricultural,387.45,564,644,Physical Possession,27,Not Applicable,0,4,0.68,1,0,35.1,0,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,25.9,70,79,R&R Implementation,19,Approved,0,0,0.8,1,1,11.4,0,Compensation
+Urban Infrastructure,Residential,9.87,45,105,R&R Implementation,83,Not Applicable,0,2,0.84,1,1,14.1,0,Compensation
+Highways,Agricultural,249.9,587,1077,Declaration of Acquisition (Sec 19),85,Pending,0,6,0.87,1,1,58.4,1,Compensation
+Urban Infrastructure,Government/Barren,30.95,16,37,Preliminary Notification (Sec 11),67,Not Applicable,0,2,0.75,1,1,25.8,0,Compensation
+Highways,Commercial,34.09,208,453,Survey & Demarcation,22,Approved,0,5,0.82,0,1,9.4,0,Documentation/Survey
+Industrial,Agricultural,30.9,56,121,Physical Possession,40,Approved,3,6,0.86,1,1,67.1,1,Legal
+Railways,Commercial,249.05,1090,2540,Declaration of Acquisition (Sec 19),142,Approved,0,1,0.8,1,1,27.1,0,Documentation/Survey
+Irrigation,Agricultural,73.02,153,245,Declaration of Acquisition (Sec 19),18,Approved,0,4,0.81,1,0,25.8,0,Rehabilitation & Resettlement
+Irrigation,Forest,67.51,31,68,Survey & Demarcation,72,Pending,1,0,0.91,1,1,43.2,0,Approval
+Irrigation,Forest,454.45,235,465,Physical Possession,60,Approved,2,5,0.77,1,1,58.0,1,Legal
+Irrigation,Agricultural,235.83,359,647,Preliminary Notification (Sec 11),21,Pending,1,2,0.79,1,1,48.8,0,Approval
+Industrial,Agricultural,19.42,30,56,Declaration of Acquisition (Sec 19),94,Approved,0,7,0.72,1,1,57.3,1,Compensation
+Urban Infrastructure,Government/Barren,15.99,4,9,Physical Possession,307,Approved,0,2,0.82,1,1,27.0,0,Compensation
+Industrial,Forest,62.81,15,28,R&R Implementation,227,Rejected,0,1,0.79,1,1,79.6,1,Approval
+Railways,Government/Barren,249.34,91,163,Survey & Demarcation,34,Not Applicable,0,0,0.73,1,1,22.4,0,Compensation
+Irrigation,Residential,133.79,716,1580,R&R Implementation,21,Approved,0,1,0.82,1,1,12.4,0,Documentation/Survey
+Urban Infrastructure,Government/Barren,48.68,20,29,Hearing of Objections (Sec 15),23,Approved,1,1,0.79,1,1,34.2,0,Legal
+Energy,Agricultural,46.19,90,166,R&R Implementation,49,Pending,1,4,1.01,1,0,43.5,0,Approval
+Urban Infrastructure,Government/Barren,13.72,4,7,Declaration of Acquisition (Sec 19),203,Approved,0,1,0.71,1,1,49.8,0,Compensation
+Highways,Government/Barren,246.74,96,144,Survey & Demarcation,134,Approved,2,2,0.73,1,1,61.5,1,Legal
+Energy,Agricultural,67.61,162,400,Preliminary Notification (Sec 11),139,Approved,0,8,0.82,0,1,58.1,1,Compensation
+Energy,Agricultural,55.4,143,206,Award & Compensation (Sec 23),140,Approved,0,0,0.83,1,1,21.7,0,Compensation
+Irrigation,Agricultural,300.52,645,1373,Survey & Demarcation,141,Approved,0,4,0.62,1,1,33.5,0,Compensation
+Irrigation,Government/Barren,235.7,87,160,Award & Compensation (Sec 23),218,Approved,0,0,1.04,1,0,20.3,0,Rehabilitation & Resettlement
+Energy,Agricultural,70.21,121,295,Preliminary Notification (Sec 11),59,Approved,0,0,0.83,0,0,45.8,0,Rehabilitation & Resettlement
+Industrial,Forest,29.02,8,12,Physical Possession,15,Pending,0,0,0.75,1,1,55.5,1,Approval
+Irrigation,Government/Barren,382.82,148,314,R&R Implementation,227,Approved,0,0,1.03,1,1,18.5,0,Documentation/Survey
+Energy,Residential,73.46,372,417,Award & Compensation (Sec 23),49,Approved,4,6,0.94,1,1,44.9,0,Legal
+Urban Infrastructure,Commercial,64.62,192,469,Hearing of Objections (Sec 15),76,Approved,0,4,0.95,1,0,14.0,0,Rehabilitation & Resettlement
+Urban Infrastructure,Forest,78.04,41,97,Physical Possession,28,Pending,0,3,0.91,1,1,38.7,0,Approval
+Highways,Agricultural,71.51,181,297,Award & Compensation (Sec 23),123,Not Applicable,0,0,1.02,1,0,27.2,0,Rehabilitation & Resettlement
+Irrigation,Forest,298.87,107,145,Hearing of Objections (Sec 15),21,Approved,0,1,1.02,1,1,14.0,0,Possession
+Urban Infrastructure,Agricultural,19.05,36,67,Survey & Demarcation,170,Approved,1,0,0.88,1,1,38.7,0,Legal
+Railways,Agricultural,85.44,209,335,Declaration of Acquisition (Sec 19),22,Not Applicable,0,8,0.89,1,1,33.8,0,Compensation
+Energy,Government/Barren,40.93,12,19,Preliminary Notification (Sec 11),150,Approved,0,2,0.96,1,1,14.3,0,Compensation
+Urban Infrastructure,Commercial,66.42,369,617,Survey & Demarcation,88,Approved,0,4,0.9,1,1,16.3,0,Documentation/Survey
+Highways,Agricultural,169.54,299,599,Preliminary Notification (Sec 11),71,Approved,0,1,0.81,1,1,9.3,0,Documentation/Survey
+Irrigation,Government/Barren,102.23,55,71,Survey & Demarcation,26,Approved,0,7,0.85,1,0,33.2,0,Documentation/Survey
+Industrial,Agricultural,46.39,80,135,Preliminary Notification (Sec 11),312,Approved,0,0,1.03,0,1,27.0,0,Approval
+Railways,Agricultural,122.52,198,456,Preliminary Notification (Sec 11),16,Approved,0,5,0.9,1,1,5.0,0,Documentation/Survey
+Urban Infrastructure,Agricultural,57.01,115,193,Hearing of Objections (Sec 15),87,Approved,0,8,0.82,1,1,36.8,0,Compensation
+Energy,Forest,35.69,14,29,Declaration of Acquisition (Sec 19),44,Pending,4,3,1.05,1,1,74.4,1,Legal
+Energy,Commercial,45.65,247,534,Hearing of Objections (Sec 15),22,Approved,4,8,0.96,1,0,74.4,1,Legal
+Industrial,Residential,17.45,55,76,Declaration of Acquisition (Sec 19),257,Approved,1,1,0.84,1,1,42.4,0,Legal
+Industrial,Agricultural,14.95,21,32,Physical Possession,17,Approved,0,0,0.88,1,1,19.0,0,Compensation
+Industrial,Agricultural,52.61,121,277,Declaration of Acquisition (Sec 19),57,Pending,0,0,0.9,1,1,27.3,0,Approval
+Highways,Agricultural,52.13,100,248,Physical Possession,164,Approved,0,2,0.83,1,1,29.6,0,Compensation
+Highways,Agricultural,137.07,262,291,Preliminary Notification (Sec 11),407,Approved,0,2,0.77,0,0,67.2,1,Rehabilitation & Resettlement
+Railways,Agricultural,16.99,38,65,Award & Compensation (Sec 23),96,Pending,0,6,0.96,1,1,52.2,1,Approval
+Industrial,Agricultural,54.38,91,166,Physical Possession,20,Approved,0,10,0.83,1,1,33.0,0,Compensation
+Urban Infrastructure,Forest,62.2,33,71,Preliminary Notification (Sec 11),292,Pending,1,3,0.87,1,1,85.4,1,Approval
+Energy,Agricultural,52.57,133,273,Award & Compensation (Sec 23),115,Approved,0,0,0.79,1,1,26.1,0,Compensation
+Industrial,Agricultural,14.52,35,51,Hearing of Objections (Sec 15),81,Not Applicable,0,7,1.03,1,1,13.0,0,Compensation
+Industrial,Agricultural,43.16,54,124,R&R Implementation,17,Approved,0,0,0.97,1,1,5.0,0,Documentation/Survey
+Highways,Forest,57.15,28,69,Survey & Demarcation,141,Rejected,2,1,0.84,0,1,95.1,1,Approval
+Energy,Commercial,16.29,98,111,Preliminary Notification (Sec 11),53,Approved,0,0,0.8,1,0,12.3,0,Rehabilitation & Resettlement
+Energy,Agricultural,39.38,94,179,Hearing of Objections (Sec 15),95,Approved,0,2,0.92,1,1,8.6,0,Rehabilitation & Resettlement
+Railways,Agricultural,110.53,227,556,Hearing of Objections (Sec 15),59,Approved,2,6,0.66,1,0,80.6,1,Legal
+Industrial,Agricultural,79.3,99,164,Physical Possession,250,Approved,0,5,0.71,1,1,41.1,0,Compensation
+Industrial,Agricultural,11.9,30,66,Preliminary Notification (Sec 11),105,Approved,0,1,0.92,1,1,14.1,0,Compensation
+Irrigation,Agricultural,265.56,355,580,Award & Compensation (Sec 23),27,Approved,0,0,0.76,1,1,8.5,0,Documentation/Survey
+Urban Infrastructure,Agricultural,44.71,108,269,Declaration of Acquisition (Sec 19),27,Not Applicable,0,1,0.77,1,1,12.4,0,Compensation
+Urban Infrastructure,Commercial,31.91,154,321,R&R Implementation,28,Approved,1,4,0.89,1,0,45.7,0,Rehabilitation & Resettlement
+Urban Infrastructure,Residential,68.32,264,298,Physical Possession,34,Approved,0,2,0.96,1,0,18.4,0,Rehabilitation & Resettlement
+Industrial,Agricultural,77.66,179,429,R&R Implementation,18,Pending,1,1,0.69,1,1,68.7,1,Legal
+Railways,Residential,235.12,753,1614,Survey & Demarcation,26,Approved,0,3,0.95,0,0,16.4,0,Rehabilitation & Resettlement
+Irrigation,Government/Barren,295.71,80,141,Hearing of Objections (Sec 15),120,Not Applicable,0,0,0.9,1,1,10.0,0,Compensation
+Irrigation,Government/Barren,323.29,122,143,Preliminary Notification (Sec 11),18,Approved,0,2,0.95,0,0,34.7,0,Rehabilitation & Resettlement
+Industrial,Residential,19.98,55,73,Declaration of Acquisition (Sec 19),159,Approved,1,1,0.86,1,1,35.6,0,Legal
+Highways,Agricultural,204.92,381,822,Hearing of Objections (Sec 15),201,Approved,1,4,0.78,1,0,63.4,1,Rehabilitation & Resettlement
+Energy,Residential,16.06,98,169,Award & Compensation (Sec 23),56,Not Applicable,2,2,0.93,1,1,28.0,0,Legal
+Urban Infrastructure,Forest,5.93,2,3,Physical Possession,41,Approved,4,3,0.98,1,1,52.4,1,Legal
+Railways,Agricultural,160.29,366,608,Preliminary Notification (Sec 11),57,Approved,0,1,0.75,1,1,10.4,0,Compensation
+Urban Infrastructure,Agricultural,50.37,67,115,Declaration of Acquisition (Sec 19),36,Not Applicable,0,2,0.93,1,1,8.9,0,Compensation
+Highways,Agricultural,26.88,47,64,Declaration of Acquisition (Sec 19),50,Approved,0,0,0.88,1,1,9.6,0,Compensation
+Energy,Commercial,69.28,348,712,Preliminary Notification (Sec 11),26,Approved,4,4,1.07,1,1,33.5,0,Legal
+Irrigation,Government/Barren,206.92,66,115,Physical Possession,27,Pending,0,0,0.56,1,1,47.5,0,Approval
+Railways,Agricultural,71.47,92,211,Physical Possession,45,Not Applicable,0,0,0.91,1,1,5.0,0,Possession
+Industrial,Agricultural,68.41,174,404,Hearing of Objections (Sec 15),55,Approved,2,3,0.69,1,0,74.0,1,Legal
+Highways,Forest,164.08,69,135,Physical Possession,29,Pending,1,2,0.9,1,1,50.5,1,Approval
+Railways,Commercial,93.17,582,895,Declaration of Acquisition (Sec 19),219,Approved,0,4,0.99,1,0,31.2,0,Rehabilitation & Resettlement
+Urban Infrastructure,Commercial,19.29,99,195,Award & Compensation (Sec 23),329,Approved,0,0,0.78,1,1,34.1,0,Compensation
+Irrigation,Agricultural,124.2,329,735,Preliminary Notification (Sec 11),195,Approved,2,0,0.98,1,0,62.7,1,Legal
+Industrial,Agricultural,33.52,69,121,Declaration of Acquisition (Sec 19),114,Approved,0,1,0.81,1,1,20.3,0,Compensation
+Energy,Agricultural,67.36,185,296,Hearing of Objections (Sec 15),253,Approved,2,4,0.95,1,0,65.0,1,Legal
+Industrial,Agricultural,24.81,31,69,Hearing of Objections (Sec 15),39,Not Applicable,0,2,0.94,1,1,5.0,0,Possession
+Highways,Agricultural,57.97,106,259,Hearing of Objections (Sec 15),25,Approved,0,1,0.99,1,1,5.0,0,Compensation
+Highways,Government/Barren,185.91,97,172,Physical Possession,99,Approved,0,0,0.71,1,1,41.4,0,Compensation
+Highways,Agricultural,73.42,128,261,R&R Implementation,45,Approved,0,2,0.8,1,1,19.2,0,Compensation
+Railways,Agricultural,203.3,389,894,Declaration of Acquisition (Sec 19),93,Approved,0,2,0.89,1,0,43.6,0,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,66.24,168,262,Survey & Demarcation,51,Pending,0,1,0.8,1,1,42.1,0,Approval
+Industrial,Agricultural,50.81,76,182,Hearing of Objections (Sec 15),27,Approved,0,2,0.99,1,0,5.0,0,Documentation/Survey
+Industrial,Agricultural,67.91,133,240,Declaration of Acquisition (Sec 19),20,Not Applicable,3,2,0.92,1,1,33.7,0,Legal
+Industrial,Forest,57.61,29,60,Physical Possession,117,Rejected,0,8,0.91,1,1,77.5,1,Approval
+Irrigation,Forest,369.56,168,395,R&R Implementation,133,Pending,0,2,0.98,1,1,43.9,0,Approval
+Energy,Government/Barren,47.14,14,28,R&R Implementation,136,Approved,0,2,0.57,1,1,34.4,0,Compensation
+Industrial,Residential,32.58,156,332,R&R Implementation,91,Approved,0,4,0.98,1,0,30.9,0,Rehabilitation & Resettlement
+Highways,Agricultural,155.27,378,746,Hearing of Objections (Sec 15),31,Not Applicable,3,2,0.86,1,0,68.0,1,Legal
+Urban Infrastructure,Agricultural,21.38,51,93,Hearing of Objections (Sec 15),203,Not Applicable,0,0,0.81,1,0,42.1,0,Compensation
+Energy,Commercial,43.57,197,350,Hearing of Objections (Sec 15),59,Approved,0,5,0.69,1,1,30.6,0,Compensation
+Industrial,Commercial,66.26,196,403,R&R Implementation,77,Approved,0,6,0.78,1,1,24.4,0,Compensation
+Highways,Commercial,25.7,147,235,Award & Compensation (Sec 23),267,Approved,2,2,0.72,1,1,73.0,1,Legal
+Railways,Agricultural,218.78,489,1193,Physical Possession,157,Approved,0,5,0.69,1,0,54.6,1,Compensation
+Urban Infrastructure,Agricultural,55.32,116,136,Preliminary Notification (Sec 11),40,Pending,0,2,1.0,1,1,16.0,0,Approval
+Urban Infrastructure,Forest,51.23,17,32,Hearing of Objections (Sec 15),137,Approved,0,2,0.9,1,1,22.4,0,Compensation
+Railways,Residential,212.82,1232,1596,Survey & Demarcation,203,Approved,2,0,0.76,1,1,53.7,1,Legal
+Industrial,Commercial,34.44,203,390,Hearing of Objections (Sec 15),183,Not Applicable,0,3,0.51,1,1,47.9,0,Compensation
+Highways,Agricultural,69.46,112,159,Declaration of Acquisition (Sec 19),130,Pending,0,1,1.0,1,1,35.3,0,Approval
+Industrial,Agricultural,54.0,136,247,Award & Compensation (Sec 23),129,Approved,0,1,0.82,1,1,19.6,0,Compensation
+Industrial,Agricultural,29.77,41,83,Physical Possession,107,Approved,0,1,0.81,1,1,24.3,0,Compensation
+Industrial,Residential,26.26,79,136,Physical Possession,121,Not Applicable,0,3,0.82,1,1,22.3,0,Compensation
+Railways,Forest,175.83,88,171,Award & Compensation (Sec 23),230,Pending,0,4,0.89,1,0,76.0,1,Approval
+Irrigation,Agricultural,266.96,648,1030,Physical Possession,94,Not Applicable,0,2,0.72,1,0,58.7,1,Rehabilitation & Resettlement
+Industrial,Agricultural,28.69,51,67,Physical Possession,78,Pending,0,1,0.94,1,0,20.4,0,Approval
+Railways,Government/Barren,42.99,13,28,R&R Implementation,100,Not Applicable,0,1,0.94,1,1,5.0,0,Possession
+Irrigation,Residential,178.91,1103,1302,Award & Compensation (Sec 23),200,Pending,5,7,0.69,1,1,98.0,1,Legal
+Urban Infrastructure,Commercial,55.22,229,316,Hearing of Objections (Sec 15),392,Approved,0,2,0.75,1,1,31.6,0,Documentation/Survey
+Energy,Commercial,23.76,102,166,Award & Compensation (Sec 23),179,Approved,0,1,0.74,1,1,42.1,0,Compensation
+Energy,Agricultural,24.75,41,67,Physical Possession,243,Pending,0,0,0.93,1,1,43.1,0,Approval
+Energy,Agricultural,45.61,57,101,Physical Possession,198,Pending,0,2,0.98,1,0,45.6,0,Approval
+Railways,Forest,179.09,69,142,Survey & Demarcation,80,Pending,2,2,0.87,0,1,70.4,1,Approval
+Railways,Forest,176.21,88,185,Award & Compensation (Sec 23),51,Approved,0,0,0.87,1,1,22.9,0,Compensation
+Energy,Government/Barren,34.88,16,18,Survey & Demarcation,60,Not Applicable,0,1,0.93,1,1,5.0,0,Documentation/Survey
+Urban Infrastructure,Agricultural,43.28,105,181,R&R Implementation,84,Approved,0,0,0.9,1,0,20.4,0,Rehabilitation & Resettlement
+Irrigation,Commercial,386.55,1768,3059,Hearing of Objections (Sec 15),242,Approved,0,4,0.69,1,1,55.7,1,Documentation/Survey
+Energy,Agricultural,74.87,136,193,R&R Implementation,69,Pending,0,2,1.02,1,1,30.6,0,Approval
+Energy,Agricultural,39.24,94,218,Award & Compensation (Sec 23),63,Approved,0,1,0.97,1,0,6.1,0,Rehabilitation & Resettlement
+Irrigation,Agricultural,243.7,406,578,Physical Possession,236,Approved,2,0,0.95,1,1,42.4,0,Legal
+Industrial,Agricultural,60.72,151,253,R&R Implementation,113,Not Applicable,2,3,0.93,1,0,56.9,1,Legal
+Railways,Agricultural,95.35,161,357,Preliminary Notification (Sec 11),96,Not Applicable,0,1,0.83,1,1,24.9,0,Compensation
+Industrial,Agricultural,78.12,124,309,Physical Possession,21,Approved,0,4,0.9,1,0,16.9,0,Rehabilitation & Resettlement
+Industrial,Agricultural,22.7,43,48,Survey & Demarcation,18,Pending,0,0,0.88,0,1,29.8,0,Approval
+Industrial,Agricultural,64.36,90,128,Award & Compensation (Sec 23),72,Not Applicable,0,1,0.89,1,1,8.4,0,Compensation
+Energy,Agricultural,16.63,27,39,Award & Compensation (Sec 23),89,Approved,0,1,0.86,1,1,12.5,0,Compensation
+Railways,Residential,111.3,429,529,Hearing of Objections (Sec 15),149,Pending,2,0,0.81,1,1,69.8,1,Legal
+Highways,Forest,29.26,12,28,R&R Implementation,61,Pending,0,2,0.95,1,1,32.3,0,Approval
+Industrial,Government/Barren,61.19,22,27,Award & Compensation (Sec 23),88,Pending,0,2,0.72,1,1,45.4,0,Approval
+Industrial,Agricultural,29.26,46,85,R&R Implementation,30,Approved,0,1,0.81,1,1,12.6,0,Compensation
+Energy,Forest,74.44,21,24,Award & Compensation (Sec 23),33,Pending,3,2,0.88,1,1,85.8,1,Legal
+Industrial,Commercial,10.89,31,67,Declaration of Acquisition (Sec 19),30,Approved,0,0,1.06,1,1,5.0,0,Rehabilitation & Resettlement
+Industrial,Government/Barren,61.46,26,31,Declaration of Acquisition (Sec 19),128,Approved,0,1,0.72,1,1,29.9,0,Compensation
+Industrial,Forest,10.37,5,7,Preliminary Notification (Sec 11),37,Rejected,1,1,0.87,0,1,96.1,1,Approval
+Railways,Agricultural,51.66,122,148,Hearing of Objections (Sec 15),159,Pending,1,0,1.07,1,1,48.4,0,Approval
+Railways,Residential,19.32,92,186,R&R Implementation,39,Approved,0,6,1.03,1,1,15.5,0,Compensation
+Industrial,Agricultural,43.14,100,236,Declaration of Acquisition (Sec 19),46,Approved,0,1,0.74,1,1,26.0,0,Compensation
+Energy,Agricultural,51.93,135,316,Survey & Demarcation,23,Not Applicable,1,1,0.8,1,1,31.5,0,Legal
+Urban Infrastructure,Government/Barren,38.69,10,20,Hearing of Objections (Sec 15),33,Approved,0,5,0.58,1,1,28.9,0,Compensation
+Railways,Residential,89.89,557,1362,Physical Possession,57,Approved,0,2,0.72,1,0,38.8,0,Rehabilitation & Resettlement
+Energy,Forest,33.05,16,28,R&R Implementation,95,Pending,2,5,0.7,1,1,98.0,1,Legal
+Highways,Residential,104.39,399,780,Physical Possession,197,Pending,3,1,0.93,1,0,88.6,1,Legal
+Industrial,Government/Barren,26.84,9,13,Preliminary Notification (Sec 11),85,Not Applicable,0,2,0.92,1,1,5.0,0,Compensation
+Railways,Government/Barren,73.77,34,80,Survey & Demarcation,105,Pending,0,4,0.76,1,1,41.6,0,Approval
+Energy,Government/Barren,16.26,8,10,Physical Possession,31,Pending,0,1,0.62,1,1,57.8,1,Approval
+Irrigation,Agricultural,320.55,388,905,Survey & Demarcation,43,Approved,0,0,0.62,1,1,28.4,0,Compensation
+Industrial,Agricultural,56.86,122,268,R&R Implementation,16,Approved,0,0,0.75,1,1,10.0,0,Compensation
+Energy,Agricultural,59.73,131,325,Award & Compensation (Sec 23),236,Approved,0,2,0.84,1,1,30.7,0,Documentation/Survey
+Energy,Agricultural,78.44,94,106,Hearing of Objections (Sec 15),26,Pending,1,2,0.9,1,0,31.6,0,Rehabilitation & Resettlement
+Railways,Agricultural,94.42,214,509,Physical Possession,87,Pending,0,3,0.85,1,1,37.8,0,Approval
+Railways,Forest,202.89,106,169,Hearing of Objections (Sec 15),28,Rejected,0,7,0.95,1,1,68.3,1,Approval
+Railways,Forest,41.37,20,43,Preliminary Notification (Sec 11),58,Rejected,0,2,0.93,1,1,47.8,0,Approval
+Railways,Agricultural,122.95,287,525,Survey & Demarcation,135,Approved,0,2,0.87,1,1,20.5,0,Documentation/Survey
+Irrigation,Residential,117.19,431,483,Hearing of Objections (Sec 15),59,Pending,1,7,0.93,1,0,77.6,1,Rehabilitation & Resettlement
+Industrial,Agricultural,9.03,16,21,Declaration of Acquisition (Sec 19),17,Approved,0,2,0.88,1,1,24.0,0,Compensation
+Urban Infrastructure,Residential,62.49,274,664,R&R Implementation,42,Approved,0,2,0.81,1,1,19.4,0,Documentation/Survey
+Industrial,Commercial,46.71,138,210,Hearing of Objections (Sec 15),96,Approved,2,4,0.78,1,1,34.3,0,Legal
+Industrial,Forest,13.57,5,7,Declaration of Acquisition (Sec 19),40,Pending,0,6,0.76,1,1,70.9,1,Approval
+Highways,Commercial,50.07,230,378,R&R Implementation,239,Approved,0,7,0.93,1,1,42.9,0,Possession
+Irrigation,Residential,222.26,905,1686,R&R Implementation,121,Pending,2,3,0.94,1,1,59.6,1,Legal
+Irrigation,Government/Barren,321.99,121,163,R&R Implementation,125,Approved,0,1,1.04,1,1,7.6,0,Possession
+Industrial,Agricultural,59.85,166,411,R&R Implementation,248,Pending,0,3,0.79,1,0,85.3,1,Rehabilitation & Resettlement
+Irrigation,Agricultural,182.58,268,555,Physical Possession,122,Approved,4,1,0.8,1,1,55.1,1,Legal
+Urban Infrastructure,Agricultural,50.29,133,283,Survey & Demarcation,193,Pending,0,3,0.98,0,1,39.1,0,Approval
+Irrigation,Agricultural,376.7,552,1053,Declaration of Acquisition (Sec 19),96,Not Applicable,1,2,0.84,1,0,51.0,1,Rehabilitation & Resettlement
+Urban Infrastructure,Government/Barren,76.69,20,36,R&R Implementation,131,Approved,0,2,0.98,1,1,5.0,0,Compensation
+Industrial,Government/Barren,46.07,20,45,Hearing of Objections (Sec 15),21,Approved,2,5,0.89,1,1,44.8,0,Legal
+Railways,Agricultural,226.48,476,1168,Physical Possession,198,Not Applicable,0,2,0.79,1,1,29.2,0,Compensation
+Irrigation,Agricultural,166.21,415,559,Survey & Demarcation,266,Approved,0,9,0.95,1,1,42.2,0,Documentation/Survey
+Irrigation,Agricultural,50.39,63,103,R&R Implementation,63,Approved,0,0,0.84,1,1,17.3,0,Compensation
+Energy,Forest,30.01,10,11,Hearing of Objections (Sec 15),64,Rejected,0,3,0.81,1,1,53.7,1,Approval
+Industrial,Agricultural,15.5,23,48,Preliminary Notification (Sec 11),45,Approved,0,2,0.84,1,1,9.6,0,Compensation
+Industrial,Forest,70.27,28,59,R&R Implementation,16,Pending,2,1,0.81,1,1,70.9,1,Legal
+Energy,Agricultural,20.2,35,79,Physical Possession,117,Pending,0,3,0.93,1,1,41.3,0,Approval
+Railways,Agricultural,24.56,33,75,Award & Compensation (Sec 23),63,Pending,0,6,0.93,1,1,31.2,0,Approval
+Railways,Residential,155.12,819,1602,Survey & Demarcation,272,Approved,0,4,0.92,1,1,22.6,0,Documentation/Survey
+Highways,Agricultural,50.07,127,301,Physical Possession,37,Approved,1,0,0.89,1,1,33.9,0,Legal
+Industrial,Agricultural,29.45,44,90,Award & Compensation (Sec 23),53,Approved,0,0,0.87,1,1,16.2,0,Compensation
+Irrigation,Residential,211.37,775,1216,R&R Implementation,20,Approved,4,5,0.74,1,0,85.9,1,Legal
+Energy,Forest,49.37,25,37,Preliminary Notification (Sec 11),37,Approved,0,3,0.92,0,1,34.4,0,Approval
+Industrial,Commercial,42.15,126,271,Declaration of Acquisition (Sec 19),203,Pending,1,7,0.75,1,1,73.7,1,Approval
+Industrial,Residential,52.05,212,438,Physical Possession,56,Approved,2,2,1.02,1,0,35.1,0,Legal
+Urban Infrastructure,Agricultural,46.91,61,127,R&R Implementation,22,Approved,0,2,0.64,1,0,26.3,0,Compensation
+Industrial,Commercial,38.9,156,318,Hearing of Objections (Sec 15),186,Pending,0,0,0.77,1,0,70.4,1,Approval
+Industrial,Forest,40.54,15,31,Preliminary Notification (Sec 11),76,Pending,3,10,0.9,1,1,92.3,1,Legal
+Urban Infrastructure,Agricultural,22.01,39,58,Hearing of Objections (Sec 15),117,Not Applicable,2,4,0.86,1,1,41.4,0,Legal
+Urban Infrastructure,Agricultural,58.04,131,323,Award & Compensation (Sec 23),51,Approved,0,2,0.82,1,1,13.8,0,Compensation
+Energy,Residential,47.39,282,484,Physical Possession,137,Pending,0,0,1.04,1,1,33.4,0,Approval
+Railways,Agricultural,214.62,490,1195,Award & Compensation (Sec 23),30,Not Applicable,3,5,1.01,1,1,30.6,0,Legal
+Irrigation,Residential,411.66,1539,3428,Declaration of Acquisition (Sec 19),84,Not Applicable,1,0,1.0,1,1,14.2,0,Legal
+Urban Infrastructure,Agricultural,39.66,83,197,Award & Compensation (Sec 23),143,Approved,0,5,0.89,1,1,24.4,0,Possession
+Urban Infrastructure,Agricultural,73.01,162,184,Declaration of Acquisition (Sec 19),264,Pending,0,2,0.88,1,1,64.7,1,Approval
+Highways,Agricultural,221.4,313,415,Declaration of Acquisition (Sec 19),119,Approved,0,1,0.63,1,1,37.6,0,Documentation/Survey
+Industrial,Residential,45.08,178,231,Survey & Demarcation,47,Approved,1,1,0.95,0,0,23.3,0,Rehabilitation & Resettlement
+Highways,Agricultural,42.39,59,66,Survey & Demarcation,93,Approved,0,2,0.82,0,0,22.9,0,Approval
+Irrigation,Residential,100.27,277,492,Physical Possession,199,Approved,3,2,0.88,1,0,82.5,1,Legal
+Industrial,Agricultural,15.92,38,56,Survey & Demarcation,50,Approved,0,2,1.0,1,1,5.0,0,Documentation/Survey
+Industrial,Forest,49.2,18,43,R&R Implementation,75,Pending,0,6,0.91,1,1,38.4,0,Approval
+Highways,Agricultural,156.09,265,653,Declaration of Acquisition (Sec 19),31,Approved,2,3,0.7,1,1,49.6,0,Legal
+Highways,Residential,30.21,187,294,Preliminary Notification (Sec 11),286,Approved,0,4,0.97,1,0,36.1,0,Rehabilitation & Resettlement
+Irrigation,Forest,395.6,108,156,Preliminary Notification (Sec 11),60,Pending,0,5,0.9,1,1,34.8,0,Approval
+Railways,Agricultural,130.21,210,332,Declaration of Acquisition (Sec 19),17,Not Applicable,3,0,0.6,1,0,78.4,1,Legal
+Irrigation,Forest,305.98,121,226,Survey & Demarcation,325,Pending,0,7,0.82,1,1,85.9,1,Compensation
+Industrial,Agricultural,37.11,103,172,Survey & Demarcation,17,Approved,4,3,0.73,0,0,76.9,1,Legal
+Highways,Residential,20.23,77,146,Award & Compensation (Sec 23),75,Approved,0,2,0.88,1,1,10.5,0,Compensation
+Highways,Agricultural,109.48,170,363,Award & Compensation (Sec 23),93,Approved,0,4,0.69,1,1,41.1,0,Compensation
+Irrigation,Agricultural,253.95,614,830,Award & Compensation (Sec 23),21,Approved,0,2,0.72,1,1,31.5,0,Compensation
+Railways,Agricultural,194.9,497,832,R&R Implementation,59,Not Applicable,0,6,0.72,1,0,51.9,1,Compensation
+Highways,Agricultural,47.06,75,166,Hearing of Objections (Sec 15),73,Pending,0,2,0.8,1,1,33.2,0,Approval
+Highways,Forest,151.4,73,133,Physical Possession,39,Pending,1,4,0.79,1,1,67.5,1,Approval
+Energy,Agricultural,33.1,89,137,Award & Compensation (Sec 23),50,Approved,0,0,0.68,1,1,28.9,0,Compensation
+Railways,Government/Barren,16.85,9,21,Declaration of Acquisition (Sec 19),80,Not Applicable,0,0,0.91,1,1,5.0,0,Compensation
+Industrial,Agricultural,29.95,56,133,Physical Possession,23,Approved,1,2,0.61,1,1,40.5,0,Compensation
+Energy,Agricultural,23.72,55,119,Preliminary Notification (Sec 11),90,Pending,2,1,0.91,1,1,40.9,0,Legal
+Energy,Agricultural,74.23,165,326,Survey & Demarcation,31,Not Applicable,0,3,0.91,1,0,9.8,0,Rehabilitation & Resettlement
+Highways,Agricultural,59.78,154,338,Preliminary Notification (Sec 11),262,Approved,0,3,0.88,1,0,58.9,1,Rehabilitation & Resettlement
+Irrigation,Agricultural,109.94,188,389,Declaration of Acquisition (Sec 19),127,Pending,0,2,0.84,1,1,42.8,0,Approval
+Irrigation,Agricultural,352.07,496,1165,Declaration of Acquisition (Sec 19),160,Approved,2,7,0.85,1,1,69.9,1,Legal
+Urban Infrastructure,Government/Barren,72.71,23,52,Hearing of Objections (Sec 15),20,Not Applicable,0,0,0.66,1,1,30.1,0,Compensation
+Highways,Agricultural,146.8,283,355,R&R Implementation,40,Pending,0,4,0.64,1,1,54.9,1,Approval
+Highways,Agricultural,174.07,456,518,Declaration of Acquisition (Sec 19),155,Pending,0,8,0.99,1,1,59.5,1,Approval
+Industrial,Government/Barren,47.69,14,16,Physical Possession,117,Pending,0,1,0.73,1,1,59.1,1,Approval
+Industrial,Agricultural,41.81,79,176,Hearing of Objections (Sec 15),41,Approved,0,6,0.87,1,1,24.2,0,Compensation
+Urban Infrastructure,Government/Barren,21.82,10,13,R&R Implementation,410,Approved,0,1,0.72,1,1,44.0,0,Compensation
+Energy,Agricultural,35.98,69,145,Declaration of Acquisition (Sec 19),18,Not Applicable,0,2,0.62,1,0,21.3,0,Compensation
+Railways,Agricultural,190.55,412,955,Survey & Demarcation,196,Approved,3,6,0.73,1,1,98.0,1,Legal
+Industrial,Residential,27.7,87,97,Physical Possession,102,Approved,2,0,0.71,1,1,62.5,1,Legal
+Irrigation,Forest,252.28,80,121,Physical Possession,128,Approved,0,4,0.73,1,1,52.9,1,Compensation
+Industrial,Government/Barren,41.59,19,34,Physical Possession,188,Approved,0,5,0.89,1,1,34.1,0,Possession
+Industrial,Agricultural,67.48,153,325,Declaration of Acquisition (Sec 19),95,Pending,0,2,0.93,1,0,61.8,1,Approval
+Highways,Agricultural,98.91,143,323,Hearing of Objections (Sec 15),31,Not Applicable,2,5,0.95,1,0,41.1,0,Legal
+Industrial,Agricultural,64.92,177,381,Declaration of Acquisition (Sec 19),39,Not Applicable,0,1,0.95,1,1,5.0,0,Documentation/Survey
+Urban Infrastructure,Agricultural,14.22,21,51,Preliminary Notification (Sec 11),81,Pending,2,1,0.96,1,1,46.5,0,Legal
+Irrigation,Government/Barren,407.57,145,165,Award & Compensation (Sec 23),40,Approved,2,0,0.9,1,1,21.5,0,Legal
+Urban Infrastructure,Agricultural,57.56,149,314,R&R Implementation,31,Approved,0,2,0.89,1,1,10.0,0,Documentation/Survey
+Energy,Agricultural,58.92,153,279,R&R Implementation,18,Approved,4,3,0.87,1,1,45.3,0,Legal
+Industrial,Government/Barren,27.35,13,22,Declaration of Acquisition (Sec 19),43,Not Applicable,0,2,0.84,1,1,9.4,0,Compensation
+Railways,Commercial,121.76,392,664,Hearing of Objections (Sec 15),20,Approved,2,3,0.91,1,1,16.0,0,Legal
+Irrigation,Residential,420.72,1354,1730,Declaration of Acquisition (Sec 19),78,Pending,0,2,0.73,1,1,58.5,1,Approval
+Urban Infrastructure,Agricultural,7.1,10,21,Declaration of Acquisition (Sec 19),29,Approved,0,1,0.77,1,1,12.0,0,Compensation
+Industrial,Commercial,62.15,280,488,Preliminary Notification (Sec 11),403,Approved,1,1,0.67,1,0,83.1,1,Rehabilitation & Resettlement
+Industrial,Agricultural,14.28,29,39,R&R Implementation,287,Pending,0,6,0.86,1,1,73.1,1,Approval
+Irrigation,Agricultural,323.08,595,691,Award & Compensation (Sec 23),17,Not Applicable,2,4,0.87,1,0,57.4,1,Legal
+Urban Infrastructure,Agricultural,9.39,17,26,R&R Implementation,197,Approved,0,0,0.64,1,1,48.4,0,Compensation
+Industrial,Agricultural,25.19,69,141,Survey & Demarcation,32,Approved,0,1,0.72,1,0,25.1,0,Compensation
+Energy,Agricultural,5.04,13,23,Preliminary Notification (Sec 11),121,Approved,0,1,1.0,0,1,23.2,0,Approval
+Energy,Government/Barren,71.29,38,75,Hearing of Objections (Sec 15),178,Not Applicable,0,6,0.95,1,1,31.5,0,Possession
+Irrigation,Commercial,86.52,506,1017,Award & Compensation (Sec 23),255,Approved,0,1,0.77,1,0,58.4,1,Rehabilitation & Resettlement
+Railways,Residential,81.07,487,779,Physical Possession,120,Approved,0,5,0.89,1,1,22.1,0,Documentation/Survey
+Energy,Agricultural,47.43,108,204,R&R Implementation,111,Approved,1,8,0.87,1,0,69.7,1,Rehabilitation & Resettlement
+Irrigation,Agricultural,338.43,916,1074,Declaration of Acquisition (Sec 19),114,Not Applicable,5,1,0.73,1,1,82.7,1,Legal
+Industrial,Agricultural,36.79,48,69,R&R Implementation,85,Approved,0,0,0.91,1,1,5.0,0,Rehabilitation & Resettlement
+Railways,Government/Barren,155.99,59,72,Physical Possession,15,Approved,1,0,0.75,1,1,32.5,0,Legal
+Energy,Commercial,69.84,386,761,Preliminary Notification (Sec 11),60,Approved,2,3,0.82,0,1,55.3,1,Legal
+Energy,Agricultural,24.22,45,95,Award & Compensation (Sec 23),98,Approved,3,0,0.72,1,1,69.3,1,Legal
+Railways,Agricultural,207.51,434,510,Award & Compensation (Sec 23),194,Approved,0,2,0.87,1,1,31.3,0,Documentation/Survey
+Highways,Forest,228.98,91,217,Physical Possession,52,Approved,0,6,0.67,1,1,47.4,0,Compensation
+Industrial,Forest,31.99,17,23,Physical Possession,128,Pending,1,1,0.83,1,1,76.5,1,Approval
+Railways,Agricultural,101.87,182,243,Preliminary Notification (Sec 11),108,Approved,0,3,0.95,0,0,34.5,0,Rehabilitation & Resettlement
+Energy,Agricultural,29.58,38,84,Preliminary Notification (Sec 11),260,Not Applicable,0,1,0.77,0,1,45.4,0,Compensation
+Urban Infrastructure,Forest,58.67,23,33,Declaration of Acquisition (Sec 19),53,Pending,0,2,0.76,1,1,55.0,1,Approval
+Urban Infrastructure,Agricultural,39.89,87,147,Survey & Demarcation,45,Approved,0,1,0.8,0,1,9.8,0,Documentation/Survey
+Highways,Agricultural,143.32,248,507,Survey & Demarcation,48,Approved,0,1,0.89,1,1,13.4,0,Documentation/Survey
+Highways,Forest,247.48,134,309,Award & Compensation (Sec 23),161,Pending,0,5,0.75,1,0,85.6,1,Rehabilitation & Resettlement
+Energy,Agricultural,48.31,67,162,Preliminary Notification (Sec 11),26,Approved,0,1,0.68,1,0,22.5,0,Compensation
+Energy,Forest,78.51,23,37,Declaration of Acquisition (Sec 19),32,Pending,1,4,0.98,1,1,44.6,0,Approval
+Industrial,Forest,9.31,3,4,Declaration of Acquisition (Sec 19),311,Approved,0,3,0.72,1,1,60.3,1,Compensation
+Energy,Residential,25.66,69,89,Declaration of Acquisition (Sec 19),105,Approved,4,2,0.8,1,0,60.5,1,Legal
+Railways,Agricultural,226.49,537,934,Preliminary Notification (Sec 11),36,Not Applicable,4,4,0.9,1,1,32.1,0,Legal
+Urban Infrastructure,Agricultural,42.83,104,174,Survey & Demarcation,114,Approved,0,5,0.59,1,1,47.8,0,Compensation
+Irrigation,Forest,87.15,39,81,Survey & Demarcation,36,Pending,0,1,0.71,0,1,67.7,1,Approval
+Energy,Agricultural,8.58,19,34,R&R Implementation,107,Pending,0,4,0.85,1,1,53.5,1,Approval
+Railways,Residential,66.83,392,868,Survey & Demarcation,76,Not Applicable,1,6,0.87,0,0,47.6,0,Rehabilitation & Resettlement
+Irrigation,Agricultural,79.71,199,399,Preliminary Notification (Sec 11),24,Approved,2,1,0.78,1,0,52.9,1,Legal
+Industrial,Agricultural,52.65,137,211,Preliminary Notification (Sec 11),217,Not Applicable,0,2,0.84,0,0,65.1,1,Rehabilitation & Resettlement
+Railways,Agricultural,165.88,262,554,Preliminary Notification (Sec 11),34,Not Applicable,1,0,0.69,1,1,37.4,0,Legal
+Industrial,Government/Barren,56.55,26,50,Physical Possession,54,Approved,0,0,0.83,1,1,15.7,0,Compensation
+Urban Infrastructure,Agricultural,77.58,118,272,Declaration of Acquisition (Sec 19),21,Approved,0,1,0.74,1,1,33.7,0,Compensation
+Energy,Forest,59.5,19,33,Award & Compensation (Sec 23),80,Pending,0,2,0.7,1,1,56.0,1,Approval
+Industrial,Government/Barren,35.66,9,21,Survey & Demarcation,84,Approved,0,7,0.82,1,1,31.5,0,Compensation
+Industrial,Residential,57.31,287,420,Survey & Demarcation,88,Approved,0,3,0.77,1,1,5.0,0,Documentation/Survey
+Energy,Residential,48.96,261,562,Declaration of Acquisition (Sec 19),299,Not Applicable,0,3,0.94,1,0,30.5,0,Rehabilitation & Resettlement
+Urban Infrastructure,Residential,18.23,61,78,Preliminary Notification (Sec 11),24,Approved,2,5,0.94,1,0,34.1,0,Legal
+Highways,Agricultural,21.97,34,60,Hearing of Objections (Sec 15),455,Pending,4,2,0.8,1,1,89.9,1,Legal
+Urban Infrastructure,Commercial,54.88,222,261,Hearing of Objections (Sec 15),172,Approved,2,3,0.75,1,1,49.8,0,Legal
+Irrigation,Residential,493.78,3035,6791,Survey & Demarcation,263,Approved,2,7,0.92,1,1,56.5,1,Legal
+Highways,Residential,157.69,829,1921,Hearing of Objections (Sec 15),255,Not Applicable,0,0,0.79,1,1,34.7,0,Documentation/Survey
+Highways,Agricultural,21.87,58,90,R&R Implementation,26,Approved,0,2,0.96,1,1,5.0,0,Compensation
+Industrial,Agricultural,60.72,143,288,R&R Implementation,168,Pending,0,0,0.93,1,1,32.9,0,Approval
+Energy,Agricultural,78.49,134,215,Declaration of Acquisition (Sec 19),58,Pending,0,2,1.06,1,1,21.5,0,Approval
+Industrial,Agricultural,28.17,78,99,Hearing of Objections (Sec 15),204,Not Applicable,0,0,0.87,1,1,34.0,0,Compensation
+Irrigation,Agricultural,346.66,886,2203,Physical Possession,197,Approved,3,3,0.88,1,1,74.9,1,Legal
+Industrial,Agricultural,17.28,24,49,R&R Implementation,349,Approved,2,6,1.07,1,1,59.8,1,Legal
+Railways,Government/Barren,245.37,109,210,Survey & Demarcation,60,Not Applicable,0,0,0.79,0,1,13.8,0,Documentation/Survey
+Irrigation,Agricultural,250.3,305,385,R&R Implementation,29,Approved,0,0,0.61,1,1,30.4,0,Compensation
+Energy,Agricultural,57.56,105,235,Physical Possession,56,Pending,0,1,0.82,1,0,61.2,1,Approval
+Urban Infrastructure,Agricultural,48.13,108,132,Preliminary Notification (Sec 11),28,Approved,0,6,0.81,1,1,27.3,0,Compensation
+Energy,Agricultural,54.7,69,79,Survey & Demarcation,25,Approved,0,4,0.7,1,1,34.0,0,Compensation
+Industrial,Agricultural,15.74,24,47,R&R Implementation,20,Approved,0,2,0.69,1,1,33.3,0,Compensation
+Highways,Agricultural,100.26,173,256,Survey & Demarcation,151,Not Applicable,1,4,0.85,1,0,52.7,1,Rehabilitation & Resettlement
+Urban Infrastructure,Forest,12.43,3,4,Award & Compensation (Sec 23),28,Approved,0,2,0.86,1,1,27.5,0,Compensation
+Railways,Residential,181.09,608,1508,Declaration of Acquisition (Sec 19),47,Pending,0,4,0.67,1,1,54.2,1,Approval
+Highways,Agricultural,34.88,57,136,Survey & Demarcation,100,Not Applicable,2,2,0.85,1,1,45.4,0,Legal
+Railways,Government/Barren,238.45,120,279,R&R Implementation,64,Approved,0,0,0.87,1,1,9.2,0,Compensation
+Industrial,Agricultural,68.81,177,266,Award & Compensation (Sec 23),27,Approved,0,4,0.68,1,1,37.2,0,Compensation
+Highways,Agricultural,58.75,103,127,R&R Implementation,173,Approved,2,0,1.05,1,1,25.7,0,Legal
+Industrial,Commercial,15.49,83,91,Preliminary Notification (Sec 11),63,Not Applicable,0,1,0.81,0,1,41.0,0,Approval
+Irrigation,Forest,429.38,156,195,R&R Implementation,42,Pending,1,2,0.92,1,1,44.0,0,Approval
+Railways,Residential,73.62,401,926,Preliminary Notification (Sec 11),39,Not Applicable,4,0,0.97,1,0,57.3,1,Legal
+Highways,Residential,218.12,887,1627,Survey & Demarcation,86,Pending,0,4,0.84,0,1,32.4,0,Approval
+Industrial,Residential,26.4,97,189,Preliminary Notification (Sec 11),50,Approved,2,1,1.03,1,0,23.7,0,Legal
+Highways,Agricultural,156.43,197,483,R&R Implementation,60,Not Applicable,0,8,0.89,1,1,29.3,0,Documentation/Survey
+Energy,Government/Barren,38.64,18,42,Hearing of Objections (Sec 15),180,Approved,0,2,0.96,1,1,21.4,0,Compensation
+Irrigation,Commercial,303.12,1244,2425,Declaration of Acquisition (Sec 19),18,Approved,4,3,0.86,1,1,54.0,1,Legal
+Industrial,Agricultural,74.54,121,267,Hearing of Objections (Sec 15),29,Pending,3,2,0.68,1,1,89.9,1,Legal
+Urban Infrastructure,Agricultural,18.26,50,92,Hearing of Objections (Sec 15),22,Not Applicable,0,0,0.85,1,1,11.4,0,Rehabilitation & Resettlement
+Industrial,Residential,16.13,71,127,Hearing of Objections (Sec 15),128,Approved,0,1,0.95,1,1,12.1,0,Possession
+Industrial,Forest,61.28,14,17,R&R Implementation,16,Pending,3,4,1.01,1,1,64.1,1,Legal
+Industrial,Agricultural,41.03,86,148,Preliminary Notification (Sec 11),24,Approved,0,3,0.64,1,0,26.3,0,Rehabilitation & Resettlement
+Industrial,Agricultural,33.86,88,198,R&R Implementation,22,Approved,3,2,0.76,1,1,54.7,1,Legal
+Industrial,Agricultural,56.54,124,186,R&R Implementation,100,Not Applicable,0,1,1.09,1,1,6.9,0,Possession
+Urban Infrastructure,Agricultural,79.61,118,193,Hearing of Objections (Sec 15),149,Approved,0,1,0.97,1,1,13.5,0,Compensation
+Industrial,Agricultural,63.24,157,220,Award & Compensation (Sec 23),107,Approved,0,3,0.93,1,1,5.0,0,Possession
+Irrigation,Agricultural,151.06,361,456,Physical Possession,46,Pending,5,2,1.01,1,0,84.5,1,Legal
+Railways,Forest,190.81,88,133,Preliminary Notification (Sec 11),27,Pending,0,2,0.65,0,1,68.2,1,Approval
+Railways,Agricultural,137.55,380,484,Survey & Demarcation,52,Approved,0,4,0.73,1,1,33.6,0,Compensation
+Railways,Agricultural,33.29,72,164,Survey & Demarcation,100,Approved,0,0,0.85,1,0,28.7,0,Documentation/Survey
+Energy,Agricultural,34.3,60,76,Physical Possession,272,Pending,0,2,0.85,1,1,55.5,1,Approval
+Industrial,Agricultural,65.56,147,319,Preliminary Notification (Sec 11),39,Approved,0,2,0.77,0,0,38.5,0,Rehabilitation & Resettlement
+Railways,Forest,37.89,9,19,Declaration of Acquisition (Sec 19),26,Pending,0,0,0.94,1,1,27.7,0,Approval
+Irrigation,Residential,472.92,2931,5227,Preliminary Notification (Sec 11),34,Approved,2,10,0.88,1,0,80.5,1,Legal
+Railways,Residential,16.87,97,146,Award & Compensation (Sec 23),32,Approved,3,2,0.96,1,1,37.6,0,Legal
+Railways,Agricultural,89.56,250,445,Survey & Demarcation,168,Pending,1,6,0.66,1,0,98.0,1,Compensation
+Industrial,Agricultural,52.68,70,83,Hearing of Objections (Sec 15),120,Approved,0,1,0.91,1,1,6.1,0,Compensation
+Industrial,Commercial,37.76,226,429,R&R Implementation,200,Not Applicable,2,0,0.66,1,1,69.6,1,Legal
+Industrial,Agricultural,59.17,164,396,Award & Compensation (Sec 23),70,Not Applicable,0,0,0.77,1,1,5.8,0,Documentation/Survey
+Urban Infrastructure,Commercial,27.65,105,235,Survey & Demarcation,40,Approved,2,1,0.8,1,0,58.4,1,Legal
+Irrigation,Residential,329.17,1985,4565,R&R Implementation,61,Not Applicable,0,5,0.89,1,1,18.7,0,Documentation/Survey
+Railways,Commercial,104.55,355,623,Award & Compensation (Sec 23),54,Approved,0,1,0.87,1,1,10.1,0,Documentation/Survey
+Irrigation,Agricultural,119.02,214,480,Survey & Demarcation,152,Not Applicable,1,3,1.02,0,1,20.8,0,Legal
+Railways,Agricultural,136.56,259,321,Hearing of Objections (Sec 15),300,Not Applicable,1,4,0.87,1,1,44.6,0,Possession
+Highways,Forest,189.45,53,91,Survey & Demarcation,68,Approved,0,6,0.75,1,1,43.1,0,Compensation
+Irrigation,Government/Barren,98.18,32,75,Survey & Demarcation,101,Approved,0,0,0.75,1,1,24.1,0,Documentation/Survey
+Urban Infrastructure,Forest,50.0,12,21,Award & Compensation (Sec 23),54,Pending,1,3,0.76,1,1,59.1,1,Approval
+Railways,Government/Barren,181.4,81,142,Hearing of Objections (Sec 15),93,Not Applicable,0,0,0.65,1,0,38.8,0,Rehabilitation & Resettlement
+Urban Infrastructure,Commercial,13.07,53,73,Award & Compensation (Sec 23),89,Approved,0,1,0.74,1,1,21.6,0,Compensation
+Railways,Agricultural,65.57,117,152,Survey & Demarcation,89,Approved,3,2,0.69,1,1,58.1,1,Legal
+Industrial,Agricultural,37.64,94,129,Physical Possession,171,Approved,0,2,0.8,1,0,19.3,0,Rehabilitation & Resettlement
+Railways,Commercial,23.7,109,200,Declaration of Acquisition (Sec 19),51,Approved,4,1,0.81,1,0,63.2,1,Legal
+Energy,Agricultural,8.59,10,12,Preliminary Notification (Sec 11),29,Approved,0,0,0.6,1,1,24.8,0,Compensation
+Urban Infrastructure,Agricultural,64.37,116,241,Award & Compensation (Sec 23),50,Not Applicable,0,2,0.77,1,1,11.0,0,Compensation
+Highways,Agricultural,182.17,321,728,Hearing of Objections (Sec 15),97,Approved,0,2,0.8,1,0,35.7,0,Rehabilitation & Resettlement
+Irrigation,Residential,277.03,1659,2333,Physical Possession,134,Approved,0,2,0.94,1,1,6.9,0,Documentation/Survey
+Irrigation,Residential,208.38,651,1217,Declaration of Acquisition (Sec 19),591,Approved,3,4,0.84,1,1,65.9,1,Legal
+Energy,Agricultural,8.74,13,16,R&R Implementation,91,Approved,0,0,0.78,1,1,29.5,0,Compensation
+Energy,Agricultural,12.07,24,49,Survey & Demarcation,94,Approved,0,0,0.87,1,1,27.8,0,Documentation/Survey
+Highways,Forest,152.04,60,86,Declaration of Acquisition (Sec 19),33,Pending,0,2,0.95,1,1,28.2,0,Approval
+Industrial,Agricultural,63.09,162,382,Award & Compensation (Sec 23),17,Approved,2,6,0.87,1,1,55.4,1,Legal
+Industrial,Residential,79.05,462,621,Declaration of Acquisition (Sec 19),161,Not Applicable,2,3,0.92,1,1,34.3,0,Legal
+Industrial,Agricultural,16.27,44,86,R&R Implementation,132,Pending,0,3,0.63,1,1,58.8,1,Approval
+Industrial,Government/Barren,16.63,4,5,Award & Compensation (Sec 23),140,Not Applicable,2,0,0.73,1,1,69.8,1,Legal
+Railways,Agricultural,145.26,244,297,Declaration of Acquisition (Sec 19),20,Approved,0,2,0.83,1,0,25.0,0,Rehabilitation & Resettlement
+Highways,Government/Barren,240.01,89,192,Survey & Demarcation,228,Pending,0,4,0.83,1,1,52.0,1,Approval
+Industrial,Agricultural,12.3,20,35,Award & Compensation (Sec 23),21,Approved,1,2,0.77,1,1,29.2,0,Compensation
+Highways,Commercial,176.63,549,603,Award & Compensation (Sec 23),20,Pending,1,4,0.64,1,0,70.2,1,Rehabilitation & Resettlement
+Energy,Agricultural,52.71,78,175,Preliminary Notification (Sec 11),113,Pending,3,2,0.83,1,1,90.0,1,Legal
+Urban Infrastructure,Forest,34.21,14,16,Award & Compensation (Sec 23),63,Approved,0,5,0.75,1,1,28.2,0,Compensation
+Energy,Agricultural,69.4,98,215,R&R Implementation,89,Pending,0,4,1.0,1,1,21.4,0,Approval
+Highways,Agricultural,187.23,294,597,Physical Possession,29,Approved,0,4,0.59,1,1,27.3,0,Compensation
+Irrigation,Commercial,334.08,937,1259,Award & Compensation (Sec 23),25,Approved,2,3,0.95,1,0,37.1,0,Legal
+Industrial,Agricultural,65.75,172,275,Survey & Demarcation,74,Approved,0,5,0.75,1,1,9.8,0,Compensation
+Highways,Agricultural,85.08,118,167,Award & Compensation (Sec 23),109,Pending,0,2,1.01,1,1,38.6,0,Approval
+Irrigation,Residential,363.88,1127,1982,Award & Compensation (Sec 23),162,Not Applicable,1,3,0.85,1,1,33.9,0,Documentation/Survey
+Industrial,Commercial,7.65,47,114,Physical Possession,51,Approved,0,6,0.91,1,1,5.0,0,Compensation
+Highways,Agricultural,205.67,422,972,Physical Possession,69,Pending,0,3,0.61,1,0,60.1,1,Rehabilitation & Resettlement
+Energy,Agricultural,61.06,160,353,Declaration of Acquisition (Sec 19),71,Approved,0,4,1.01,1,0,22.1,0,Rehabilitation & Resettlement
+Highways,Residential,73.8,343,614,Survey & Demarcation,170,Pending,3,0,0.86,1,0,98.0,1,Legal
+Highways,Agricultural,212.73,432,659,Preliminary Notification (Sec 11),81,Approved,2,0,0.67,1,0,67.3,1,Legal
+Energy,Agricultural,69.71,126,146,Survey & Demarcation,105,Approved,3,0,0.79,1,1,53.2,1,Legal
+Irrigation,Commercial,388.58,2178,4082,R&R Implementation,30,Not Applicable,0,7,0.73,1,1,53.5,1,Compensation
+Railways,Commercial,94.32,388,761,Hearing of Objections (Sec 15),35,Approved,0,2,0.74,1,0,50.6,1,Rehabilitation & Resettlement
+Energy,Agricultural,38.03,61,134,Survey & Demarcation,33,Approved,0,5,0.7,1,0,29.1,0,Compensation
+Urban Infrastructure,Government/Barren,55.88,28,44,Survey & Demarcation,207,Pending,0,0,0.99,1,1,41.2,0,Approval
+Industrial,Agricultural,51.64,75,87,Hearing of Objections (Sec 15),161,Not Applicable,0,6,0.86,1,1,36.3,0,Possession
+Industrial,Agricultural,76.9,214,404,Survey & Demarcation,207,Not Applicable,0,2,0.88,1,1,28.3,0,Documentation/Survey
+Irrigation,Agricultural,361.88,691,1686,Survey & Demarcation,65,Approved,0,0,0.7,1,0,47.4,0,Rehabilitation & Resettlement
+Industrial,Agricultural,64.69,112,141,Hearing of Objections (Sec 15),88,Approved,0,5,0.93,1,0,10.6,0,Rehabilitation & Resettlement
+Railways,Government/Barren,136.0,55,90,Preliminary Notification (Sec 11),190,Approved,3,0,0.72,1,1,85.2,1,Legal
+Irrigation,Residential,180.18,795,1024,Declaration of Acquisition (Sec 19),72,Approved,0,2,0.67,1,1,22.5,0,Compensation
+Energy,Forest,74.6,24,39,Physical Possession,170,Approved,0,5,0.91,1,1,23.2,0,Possession
+Railways,Agricultural,247.37,595,1424,Hearing of Objections (Sec 15),127,Pending,1,2,1.05,1,1,45.2,0,Approval
+Energy,Agricultural,27.12,37,77,Declaration of Acquisition (Sec 19),68,Not Applicable,0,1,0.78,1,1,13.4,0,Compensation
+Industrial,Forest,10.56,4,9,Physical Possession,139,Pending,2,2,0.74,1,1,98.0,1,Legal
+Industrial,Forest,19.89,10,24,Preliminary Notification (Sec 11),180,Approved,0,5,0.79,1,1,35.1,0,Compensation
+Urban Infrastructure,Commercial,55.1,246,487,Hearing of Objections (Sec 15),119,Approved,0,4,0.61,1,1,37.1,0,Compensation
+Irrigation,Commercial,270.13,1130,1614,Physical Possession,107,Approved,2,1,0.76,1,1,52.3,1,Legal
+Urban Infrastructure,Agricultural,47.94,70,97,Preliminary Notification (Sec 11),36,Pending,0,1,0.77,1,1,38.2,0,Approval
+Industrial,Agricultural,17.11,30,50,Physical Possession,18,Approved,3,7,0.92,1,1,50.7,1,Legal
+Irrigation,Residential,418.23,2449,5649,Preliminary Notification (Sec 11),68,Approved,3,2,0.7,0,1,78.9,1,Legal
+Railways,Agricultural,150.41,271,461,R&R Implementation,353,Approved,0,1,0.78,1,1,28.8,0,Documentation/Survey
+Railways,Agricultural,147.34,328,513,Declaration of Acquisition (Sec 19),136,Not Applicable,0,7,0.75,1,1,32.6,0,Compensation
+Railways,Agricultural,147.85,273,302,R&R Implementation,311,Pending,0,2,0.92,1,1,43.3,0,Approval
+Highways,Agricultural,43.55,66,152,R&R Implementation,131,Approved,0,2,0.83,1,0,19.2,0,Compensation
+Railways,Agricultural,63.05,137,287,R&R Implementation,47,Approved,0,1,0.95,1,1,5.0,0,Possession
+Energy,Forest,9.58,3,3,Survey & Demarcation,174,Pending,0,4,0.93,1,1,42.6,0,Approval
+Industrial,Agricultural,24.72,33,73,Preliminary Notification (Sec 11),24,Approved,0,2,0.78,1,1,20.6,0,Compensation
+Irrigation,Government/Barren,85.0,46,59,Hearing of Objections (Sec 15),39,Not Applicable,0,1,0.82,1,1,11.7,0,Compensation
+Industrial,Agricultural,47.04,93,205,Declaration of Acquisition (Sec 19),16,Pending,0,1,0.62,1,1,57.6,1,Approval
+Highways,Agricultural,138.61,167,256,Hearing of Objections (Sec 15),71,Approved,0,3,0.65,1,0,36.6,0,Rehabilitation & Resettlement
+Irrigation,Residential,387.76,2174,2507,R&R Implementation,137,Approved,0,4,0.99,1,0,17.6,0,Rehabilitation & Resettlement
+Energy,Residential,67.8,390,601,Hearing of Objections (Sec 15),215,Pending,0,1,1.03,1,1,46.7,0,Approval
+Highways,Agricultural,97.41,170,322,Award & Compensation (Sec 23),39,Pending,0,2,0.65,1,1,54.7,1,Compensation
+Railways,Agricultural,165.94,438,598,R&R Implementation,500,Pending,2,3,0.98,1,0,86.3,1,Legal
+Industrial,Forest,52.33,26,29,Physical Possession,231,Approved,0,7,0.81,1,1,59.4,1,Possession
+Urban Infrastructure,Agricultural,7.36,10,20,Hearing of Objections (Sec 15),148,Approved,3,1,0.98,1,1,39.5,0,Legal
+Irrigation,Commercial,317.11,1649,3501,Declaration of Acquisition (Sec 19),104,Approved,2,2,0.86,1,1,47.7,0,Legal
+Highways,Agricultural,231.75,606,1485,Preliminary Notification (Sec 11),79,Not Applicable,0,0,0.52,1,1,29.8,0,Compensation
+Railways,Government/Barren,36.19,11,22,Declaration of Acquisition (Sec 19),58,Not Applicable,0,1,0.74,1,1,22.7,0,Compensation
+Irrigation,Commercial,418.91,2232,3781,Hearing of Objections (Sec 15),75,Approved,4,2,0.96,1,1,30.0,0,Legal
+Railways,Agricultural,94.8,212,359,Survey & Demarcation,55,Approved,1,0,0.89,1,0,51.9,1,Rehabilitation & Resettlement
+Railways,Agricultural,134.14,308,343,Award & Compensation (Sec 23),28,Pending,0,4,0.58,1,1,49.7,0,Compensation
+Highways,Agricultural,237.83,554,809,Hearing of Objections (Sec 15),99,Approved,0,1,0.82,1,1,13.6,0,Documentation/Survey
+Railways,Agricultural,19.12,32,63,Declaration of Acquisition (Sec 19),44,Approved,0,2,1.01,1,1,5.0,0,Compensation
+Energy,Forest,10.74,3,3,Survey & Demarcation,15,Rejected,0,1,0.89,1,1,67.7,1,Approval
+Highways,Commercial,76.33,289,525,Award & Compensation (Sec 23),37,Not Applicable,0,1,0.79,1,0,29.5,0,Rehabilitation & Resettlement
+Irrigation,Forest,193.17,60,67,R&R Implementation,25,Pending,2,4,0.86,1,1,75.9,1,Legal
+Industrial,Forest,57.33,26,37,Award & Compensation (Sec 23),101,Pending,0,2,0.98,1,1,45.0,0,Approval
+Highways,Commercial,145.76,651,930,Hearing of Objections (Sec 15),25,Not Applicable,2,4,0.74,1,1,46.5,0,Legal
+Urban Infrastructure,Commercial,12.92,76,185,R&R Implementation,60,Pending,2,1,0.68,1,0,79.5,1,Legal
+Energy,Residential,35.77,178,350,Declaration of Acquisition (Sec 19),127,Approved,0,2,1.04,1,1,5.4,0,Documentation/Survey
+Energy,Government/Barren,73.49,28,59,Physical Possession,99,Approved,0,0,0.81,1,1,26.9,0,Compensation
+Irrigation,Residential,53.1,149,305,Survey & Demarcation,48,Not Applicable,0,0,0.84,1,1,5.0,0,Documentation/Survey
+Highways,Agricultural,232.94,514,882,R&R Implementation,171,Pending,2,2,0.98,1,1,58.0,1,Legal
+Urban Infrastructure,Agricultural,38.35,94,195,R&R Implementation,106,Approved,0,0,0.69,1,0,33.7,0,Rehabilitation & Resettlement
+Industrial,Agricultural,26.92,48,95,Award & Compensation (Sec 23),19,Approved,1,2,0.59,1,1,50.8,1,Compensation
+Industrial,Agricultural,41.15,81,132,Award & Compensation (Sec 23),98,Pending,1,3,0.73,1,0,65.1,1,Approval
+Energy,Government/Barren,20.19,9,14,R&R Implementation,63,Approved,0,2,0.77,1,1,10.6,0,Compensation
+Irrigation,Agricultural,169.59,278,595,Award & Compensation (Sec 23),54,Pending,0,0,0.92,1,1,22.5,0,Approval
+Highways,Forest,142.46,43,76,Survey & Demarcation,270,Approved,0,0,0.85,1,1,47.8,0,Documentation/Survey
+Industrial,Agricultural,44.91,78,159,Physical Possession,114,Approved,0,3,1.07,1,1,8.8,0,Compensation
+Industrial,Forest,19.52,5,7,Preliminary Notification (Sec 11),105,Pending,0,1,0.68,0,1,88.9,1,Approval
+Irrigation,Commercial,152.93,557,1341,Hearing of Objections (Sec 15),235,Not Applicable,3,3,0.94,1,1,44.3,0,Legal
+Irrigation,Commercial,418.34,1434,2906,Survey & Demarcation,16,Approved,0,4,0.8,1,1,10.3,0,Documentation/Survey
+Highways,Commercial,176.63,1054,1878,Declaration of Acquisition (Sec 19),26,Approved,0,7,0.79,1,0,51.0,1,Rehabilitation & Resettlement
+Railways,Forest,62.0,16,23,Award & Compensation (Sec 23),43,Approved,0,8,1.03,1,1,31.0,0,Compensation
+Irrigation,Agricultural,354.95,825,1202,Preliminary Notification (Sec 11),93,Pending,2,4,0.82,1,1,66.8,1,Legal
+Energy,Forest,30.03,7,8,Award & Compensation (Sec 23),213,Pending,0,2,0.61,1,1,82.7,1,Compensation
+Urban Infrastructure,Agricultural,48.14,92,201,R&R Implementation,108,Pending,0,1,0.93,1,0,34.8,0,Rehabilitation & Resettlement
+Urban Infrastructure,Government/Barren,70.04,20,43,R&R Implementation,106,Approved,1,5,0.76,1,1,33.6,0,Compensation
+Urban Infrastructure,Agricultural,14.23,38,43,Declaration of Acquisition (Sec 19),413,Not Applicable,0,4,0.78,1,1,35.3,0,Compensation
+Irrigation,Residential,387.36,1487,2033,Hearing of Objections (Sec 15),78,Not Applicable,0,2,0.79,1,1,16.9,0,Compensation
+Highways,Residential,106.58,468,1138,Physical Possession,17,Approved,0,2,0.71,1,1,24.3,0,Documentation/Survey
+Irrigation,Commercial,127.59,774,1897,Declaration of Acquisition (Sec 19),142,Pending,0,3,0.81,1,0,61.2,1,Rehabilitation & Resettlement
+Irrigation,Commercial,286.34,936,1049,R&R Implementation,295,Not Applicable,3,0,0.84,1,0,92.9,1,Legal
+Industrial,Residential,41.96,238,452,Declaration of Acquisition (Sec 19),387,Approved,2,0,0.93,1,0,60.5,1,Legal
+Urban Infrastructure,Commercial,29.6,119,155,Preliminary Notification (Sec 11),58,Pending,0,1,0.83,0,1,56.2,1,Approval
+Irrigation,Forest,253.94,82,140,Preliminary Notification (Sec 11),52,Approved,0,5,0.9,1,1,9.8,0,Compensation
+Energy,Agricultural,78.13,197,249,Preliminary Notification (Sec 11),67,Pending,1,1,0.62,1,0,82.6,1,Approval
+Railways,Residential,138.51,762,1438,Hearing of Objections (Sec 15),52,Approved,2,3,0.95,1,1,25.7,0,Legal
+Irrigation,Agricultural,487.4,1281,2248,Award & Compensation (Sec 23),103,Approved,0,7,0.84,1,1,51.9,1,Compensation
+Railways,Agricultural,166.83,304,416,Preliminary Notification (Sec 11),60,Not Applicable,0,1,0.66,1,0,48.5,0,Rehabilitation & Resettlement
+Railways,Residential,208.23,967,1889,Hearing of Objections (Sec 15),73,Approved,0,2,0.81,1,1,17.1,0,Documentation/Survey
+Energy,Government/Barren,70.2,31,70,Preliminary Notification (Sec 11),85,Not Applicable,0,1,0.96,1,1,7.9,0,Possession
+Industrial,Forest,67.81,24,43,Award & Compensation (Sec 23),38,Rejected,0,7,0.98,1,1,70.1,1,Approval
+Irrigation,Forest,66.77,24,53,Award & Compensation (Sec 23),157,Approved,0,0,0.66,1,1,48.8,0,Compensation
+Industrial,Agricultural,17.04,35,80,Physical Possession,44,Pending,0,0,0.96,1,1,33.2,0,Approval
+Irrigation,Residential,222.21,811,1695,Physical Possession,203,Approved,0,0,0.56,1,1,41.1,0,Documentation/Survey
+Urban Infrastructure,Agricultural,44.96,82,195,Hearing of Objections (Sec 15),274,Approved,0,1,0.91,1,0,16.8,0,Rehabilitation & Resettlement
+Railways,Agricultural,65.75,80,115,Physical Possession,29,Approved,0,1,0.94,1,1,5.0,0,Documentation/Survey
+Urban Infrastructure,Government/Barren,29.01,10,24,Preliminary Notification (Sec 11),70,Approved,0,0,1.01,1,1,5.0,0,Possession
+Energy,Commercial,39.9,190,223,Preliminary Notification (Sec 11),371,Pending,3,3,1.0,1,0,94.2,1,Legal
+Industrial,Commercial,78.97,274,474,Preliminary Notification (Sec 11),79,Approved,0,9,0.84,1,0,50.3,1,Compensation
+Energy,Agricultural,59.94,95,184,Preliminary Notification (Sec 11),25,Pending,4,5,0.98,1,1,63.7,1,Legal
+Industrial,Agricultural,42.48,63,104,Hearing of Objections (Sec 15),73,Approved,0,1,0.9,1,1,5.0,0,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,47.25,121,294,Award & Compensation (Sec 23),119,Approved,0,4,0.62,1,1,43.1,0,Compensation
+Energy,Government/Barren,75.55,37,56,Physical Possession,161,Approved,0,3,0.84,1,1,18.1,0,Compensation
+Energy,Agricultural,32.43,51,114,Preliminary Notification (Sec 11),566,Approved,0,1,0.85,0,1,44.7,0,Approval
+Urban Infrastructure,Agricultural,19.85,53,89,Physical Possession,116,Approved,2,8,0.68,1,1,77.2,1,Legal
+Energy,Residential,45.71,228,486,Award & Compensation (Sec 23),100,Approved,0,2,0.95,1,1,5.9,0,Documentation/Survey
+Industrial,Agricultural,20.27,31,61,R&R Implementation,62,Approved,0,2,0.77,1,1,13.5,0,Compensation
+Industrial,Agricultural,56.03,130,307,Declaration of Acquisition (Sec 19),163,Approved,0,1,0.7,1,0,55.7,1,Rehabilitation & Resettlement
+Highways,Residential,52.35,290,345,Survey & Demarcation,280,Approved,0,2,0.94,1,0,32.2,0,Rehabilitation & Resettlement
+Railways,Agricultural,125.2,172,244,Survey & Demarcation,294,Not Applicable,1,0,0.79,1,0,69.8,1,Rehabilitation & Resettlement
+Urban Infrastructure,Government/Barren,39.65,20,23,Hearing of Objections (Sec 15),22,Approved,0,0,0.7,1,1,24.5,0,Compensation
+Industrial,Agricultural,45.07,98,131,Award & Compensation (Sec 23),77,Not Applicable,0,3,0.75,1,1,16.6,0,Compensation
+Industrial,Agricultural,51.2,98,210,R&R Implementation,61,Pending,0,2,0.94,1,0,26.4,0,Rehabilitation & Resettlement
+Highways,Agricultural,48.84,94,196,Hearing of Objections (Sec 15),46,Approved,1,2,0.83,1,1,22.4,0,Legal
+Railways,Government/Barren,169.94,74,174,R&R Implementation,161,Approved,0,2,0.8,1,1,26.1,0,Compensation
+Industrial,Agricultural,37.38,101,114,Award & Compensation (Sec 23),253,Approved,0,4,0.88,1,0,50.2,1,Rehabilitation & Resettlement
+Highways,Residential,30.36,84,200,Physical Possession,107,Not Applicable,3,4,0.94,1,0,52.2,1,Legal
+Railways,Government/Barren,53.37,14,33,Preliminary Notification (Sec 11),103,Approved,0,2,0.91,1,1,12.2,0,Possession
+Energy,Forest,72.05,39,94,Declaration of Acquisition (Sec 19),21,Approved,0,1,0.75,1,1,29.7,0,Compensation
+Highways,Agricultural,131.27,288,554,Physical Possession,118,Not Applicable,2,5,0.89,1,1,45.6,0,Legal
+Highways,Agricultural,17.51,37,56,Award & Compensation (Sec 23),76,Approved,0,2,0.92,1,1,16.6,0,Compensation
+Urban Infrastructure,Agricultural,73.91,98,199,Declaration of Acquisition (Sec 19),45,Approved,0,2,1.01,1,0,5.0,0,Rehabilitation & Resettlement
+Railways,Forest,242.74,107,167,Physical Possession,139,Approved,0,1,0.66,1,1,40.8,0,Compensation
+Industrial,Government/Barren,57.97,22,46,Award & Compensation (Sec 23),79,Approved,0,2,0.74,1,1,30.9,0,Compensation
+Energy,Residential,36.99,209,445,Preliminary Notification (Sec 11),19,Approved,0,1,0.96,1,0,19.5,0,Rehabilitation & Resettlement
+Industrial,Agricultural,62.85,167,346,Award & Compensation (Sec 23),44,Pending,0,3,0.92,1,0,35.7,0,Rehabilitation & Resettlement
+Urban Infrastructure,Government/Barren,75.89,28,64,Physical Possession,40,Approved,2,1,0.94,1,1,24.4,0,Legal
+Railways,Agricultural,106.95,153,240,Survey & Demarcation,55,Approved,0,7,0.69,1,0,65.2,1,Rehabilitation & Resettlement
+Irrigation,Commercial,270.73,1663,3299,Declaration of Acquisition (Sec 19),314,Approved,0,5,0.85,1,1,31.7,0,Compensation
+Urban Infrastructure,Residential,72.69,362,855,Physical Possession,31,Approved,6,3,0.74,1,1,69.7,1,Legal
+Highways,Agricultural,161.55,214,382,Preliminary Notification (Sec 11),55,Pending,0,1,0.8,1,1,33.9,0,Approval
+Energy,Agricultural,76.75,151,232,Hearing of Objections (Sec 15),297,Not Applicable,2,0,0.65,1,0,89.3,1,Legal
+Irrigation,Agricultural,399.11,1113,1920,Declaration of Acquisition (Sec 19),36,Approved,1,2,0.81,1,0,38.9,0,Rehabilitation & Resettlement
+Railways,Agricultural,103.13,127,216,R&R Implementation,170,Approved,2,0,0.87,1,1,49.5,0,Legal
+Highways,Agricultural,31.35,57,67,Physical Possession,72,Approved,0,2,0.93,1,0,5.0,0,Compensation
+Highways,Agricultural,69.68,100,231,Physical Possession,205,Approved,0,2,0.88,1,1,35.0,0,Compensation
+Energy,Government/Barren,34.79,10,11,Preliminary Notification (Sec 11),36,Pending,0,3,0.68,1,1,53.4,1,Approval
+Industrial,Forest,20.34,5,8,Declaration of Acquisition (Sec 19),109,Pending,0,5,0.95,1,1,43.2,0,Approval
+Highways,Agricultural,217.18,332,805,Preliminary Notification (Sec 11),213,Approved,1,2,0.9,1,1,35.3,0,Legal
+Highways,Government/Barren,86.31,31,58,Survey & Demarcation,20,Approved,0,3,0.78,1,1,12.7,0,Documentation/Survey
+Industrial,Commercial,18.09,56,118,Declaration of Acquisition (Sec 19),57,Approved,0,1,0.79,1,0,17.7,0,Compensation
+Energy,Government/Barren,9.73,4,5,R&R Implementation,52,Approved,0,0,0.96,1,1,6.2,0,Possession
+Urban Infrastructure,Agricultural,32.55,81,150,Award & Compensation (Sec 23),16,Approved,0,2,0.79,1,1,15.8,0,Compensation
+Urban Infrastructure,Government/Barren,50.16,26,40,Survey & Demarcation,26,Approved,0,2,0.74,1,1,18.9,0,Compensation
+Highways,Commercial,247.77,1154,2108,Survey & Demarcation,63,Approved,2,1,0.88,1,1,35.6,0,Legal
+Highways,Agricultural,121.61,308,724,R&R Implementation,71,Approved,3,2,0.95,1,0,45.1,0,Legal
+Highways,Agricultural,114.15,202,336,Survey & Demarcation,148,Pending,3,0,0.73,1,0,98.0,1,Legal
+Irrigation,Commercial,94.1,487,958,Physical Possession,147,Approved,0,3,0.84,1,1,20.6,0,Compensation
+Industrial,Government/Barren,51.03,13,26,Preliminary Notification (Sec 11),46,Approved,0,4,0.94,1,1,5.0,0,Compensation
+Irrigation,Agricultural,67.92,146,247,Preliminary Notification (Sec 11),47,Pending,0,3,0.87,1,0,53.0,1,Approval
+Highways,Agricultural,46.02,127,247,Preliminary Notification (Sec 11),220,Approved,0,1,0.57,0,1,64.0,1,Compensation
+Urban Infrastructure,Forest,73.95,39,90,Award & Compensation (Sec 23),152,Pending,2,2,0.94,1,1,63.5,1,Legal
+Highways,Agricultural,77.48,158,240,R&R Implementation,40,Not Applicable,0,3,0.78,1,0,35.3,0,Rehabilitation & Resettlement
+Railways,Government/Barren,127.26,70,84,Survey & Demarcation,299,Approved,0,2,0.88,1,1,32.2,0,Documentation/Survey
+Railways,Forest,134.74,49,113,Physical Possession,272,Approved,4,2,0.81,1,1,77.8,1,Legal
+Urban Infrastructure,Agricultural,50.4,134,307,Award & Compensation (Sec 23),28,Approved,0,2,0.8,1,0,28.0,0,Rehabilitation & Resettlement
+Urban Infrastructure,Forest,28.48,15,35,Preliminary Notification (Sec 11),102,Approved,0,5,0.94,1,1,27.5,0,Compensation
+Urban Infrastructure,Residential,29.09,162,310,Award & Compensation (Sec 23),115,Approved,0,2,0.73,1,1,33.5,0,Compensation
+Highways,Government/Barren,144.41,52,62,Physical Possession,42,Not Applicable,0,2,0.84,1,1,17.5,0,Compensation
+Urban Infrastructure,Commercial,8.08,23,28,Survey & Demarcation,53,Approved,2,3,1.04,0,1,31.9,0,Legal
+Urban Infrastructure,Commercial,6.72,32,69,Preliminary Notification (Sec 11),15,Approved,0,2,0.99,1,1,5.0,0,Compensation
+Railways,Government/Barren,40.24,12,18,Hearing of Objections (Sec 15),104,Approved,0,0,0.8,1,1,27.9,0,Compensation
+Urban Infrastructure,Agricultural,43.07,78,134,Declaration of Acquisition (Sec 19),68,Approved,0,5,1.0,1,1,5.0,0,Compensation
+Industrial,Government/Barren,53.41,13,27,Preliminary Notification (Sec 11),43,Approved,0,0,0.91,1,1,5.0,0,Possession
+Urban Infrastructure,Agricultural,11.75,31,38,Preliminary Notification (Sec 11),163,Pending,2,1,0.86,0,1,86.4,1,Approval
+Industrial,Agricultural,40.27,75,100,Award & Compensation (Sec 23),68,Approved,0,0,0.84,1,1,20.7,0,Rehabilitation & Resettlement
+Energy,Government/Barren,15.12,3,3,Declaration of Acquisition (Sec 19),36,Approved,0,2,0.91,1,1,9.5,0,Compensation
+Irrigation,Residential,297.64,1581,3706,Declaration of Acquisition (Sec 19),19,Approved,0,9,0.79,1,1,38.9,0,Compensation
+Irrigation,Agricultural,218.13,371,511,Hearing of Objections (Sec 15),372,Approved,1,3,0.64,1,0,84.6,1,Rehabilitation & Resettlement
+Irrigation,Agricultural,258.48,482,564,Preliminary Notification (Sec 11),372,Not Applicable,0,1,0.63,1,0,61.5,1,Rehabilitation & Resettlement
+Urban Infrastructure,Government/Barren,5.83,1,2,Preliminary Notification (Sec 11),33,Approved,7,2,0.87,1,1,57.9,1,Legal
+Energy,Agricultural,46.1,110,198,Physical Possession,73,Not Applicable,2,1,0.8,1,1,42.1,0,Legal
+Irrigation,Commercial,242.11,1148,2854,Preliminary Notification (Sec 11),113,Approved,0,4,0.57,1,0,57.7,1,Rehabilitation & Resettlement
+Urban Infrastructure,Government/Barren,48.28,20,47,Hearing of Objections (Sec 15),15,Pending,0,0,0.85,1,1,38.3,0,Approval
+Highways,Government/Barren,203.39,65,146,Hearing of Objections (Sec 15),54,Approved,0,4,0.73,1,1,37.2,0,Compensation
+Urban Infrastructure,Government/Barren,37.67,18,23,Survey & Demarcation,184,Approved,1,0,0.82,1,1,44.4,0,Legal
+Industrial,Agricultural,37.14,97,233,Award & Compensation (Sec 23),65,Pending,0,1,0.92,1,1,33.0,0,Approval
+Highways,Agricultural,34.35,43,47,Award & Compensation (Sec 23),112,Not Applicable,0,1,0.68,1,1,43.3,0,Compensation
+Highways,Agricultural,171.28,395,882,Hearing of Objections (Sec 15),26,Approved,1,4,0.93,1,0,32.7,0,Rehabilitation & Resettlement
+Highways,Agricultural,176.62,375,789,Hearing of Objections (Sec 15),59,Approved,4,5,0.94,1,0,53.7,1,Legal
+Irrigation,Commercial,195.61,621,967,Physical Possession,34,Not Applicable,1,2,0.92,1,0,31.7,0,Rehabilitation & Resettlement
+Irrigation,Agricultural,334.19,781,1734,Survey & Demarcation,18,Approved,1,6,0.98,1,1,20.9,0,Legal
+Highways,Forest,153.88,51,127,R&R Implementation,44,Pending,0,8,1.0,1,1,55.8,1,Approval
+Industrial,Government/Barren,22.21,11,16,Physical Possession,95,Approved,0,3,0.88,1,1,10.7,0,Compensation
+Railways,Forest,82.58,22,31,Award & Compensation (Sec 23),21,Rejected,0,3,0.79,1,1,65.9,1,Approval
+Irrigation,Agricultural,141.84,207,255,Declaration of Acquisition (Sec 19),164,Not Applicable,3,4,0.92,1,1,46.4,0,Legal
+Industrial,Residential,11.25,62,98,Physical Possession,64,Approved,0,2,0.53,1,0,27.5,0,Compensation
+Industrial,Agricultural,69.01,170,289,Hearing of Objections (Sec 15),27,Not Applicable,0,1,0.75,1,1,13.7,0,Compensation
+Highways,Agricultural,15.87,28,69,Preliminary Notification (Sec 11),63,Not Applicable,0,0,0.67,0,1,33.5,0,Compensation
+Industrial,Agricultural,45.28,85,98,Hearing of Objections (Sec 15),81,Approved,0,0,0.75,1,1,5.8,0,Compensation
+Energy,Residential,12.51,38,93,Physical Possession,20,Pending,2,2,0.91,1,1,48.1,0,Legal
+Industrial,Agricultural,61.42,77,183,Declaration of Acquisition (Sec 19),132,Approved,0,6,0.73,1,0,46.6,0,Possession
+Industrial,Commercial,21.38,112,149,Declaration of Acquisition (Sec 19),50,Not Applicable,0,1,0.62,1,0,42.5,0,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,35.87,76,112,Award & Compensation (Sec 23),127,Pending,0,1,0.96,1,0,31.4,0,Approval
+Industrial,Agricultural,25.74,35,38,Preliminary Notification (Sec 11),167,Approved,1,1,0.85,1,1,33.0,0,Legal
+Industrial,Agricultural,31.49,81,186,Declaration of Acquisition (Sec 19),223,Pending,0,1,0.84,1,1,58.6,1,Approval
+Industrial,Agricultural,56.63,92,162,Preliminary Notification (Sec 11),162,Approved,4,3,0.87,1,1,61.1,1,Legal
+Urban Infrastructure,Residential,9.72,59,73,Survey & Demarcation,151,Not Applicable,2,5,0.88,1,1,37.4,0,Legal
+Highways,Forest,40.49,13,28,Preliminary Notification (Sec 11),79,Pending,0,9,0.9,1,1,46.1,0,Compensation
+Irrigation,Government/Barren,360.38,98,230,Survey & Demarcation,193,Approved,0,3,0.98,1,1,23.4,0,Documentation/Survey
+Industrial,Forest,71.98,19,45,Declaration of Acquisition (Sec 19),51,Approved,6,4,0.87,1,1,67.2,1,Legal
+Highways,Agricultural,68.89,146,160,Award & Compensation (Sec 23),17,Pending,0,2,0.97,1,0,41.4,0,Rehabilitation & Resettlement
+Railways,Agricultural,229.38,350,692,R&R Implementation,179,Not Applicable,0,8,1.02,1,1,20.9,0,Possession
+Railways,Residential,77.54,354,664,Preliminary Notification (Sec 11),78,Pending,0,2,0.73,1,1,45.2,0,Approval
+Irrigation,Agricultural,290.95,780,1813,Physical Possession,129,Approved,0,0,0.76,1,1,17.3,0,Documentation/Survey
+Railways,Government/Barren,216.7,89,107,Award & Compensation (Sec 23),193,Approved,1,0,0.91,1,1,32.5,0,Legal
+Energy,Agricultural,29.14,42,62,Physical Possession,87,Not Applicable,1,0,0.77,1,1,34.7,0,Legal
+Irrigation,Commercial,341.4,992,1967,Award & Compensation (Sec 23),195,Not Applicable,0,5,0.94,1,1,17.9,0,Possession
+Highways,Agricultural,194.36,389,857,Physical Possession,103,Approved,3,3,1.0,1,1,46.1,0,Legal
+Highways,Agricultural,202.46,408,1014,Preliminary Notification (Sec 11),47,Approved,2,3,0.67,0,1,63.9,1,Legal
+Industrial,Government/Barren,74.35,22,26,Physical Possession,45,Approved,2,3,0.94,1,1,26.1,0,Legal
+Railways,Forest,183.77,55,110,Declaration of Acquisition (Sec 19),115,Pending,1,3,0.68,1,1,82.9,1,Approval
+Energy,Agricultural,28.22,69,83,Survey & Demarcation,44,Not Applicable,0,3,0.72,0,1,24.3,0,Compensation
+Industrial,Agricultural,40.24,68,150,Survey & Demarcation,32,Not Applicable,0,2,0.75,1,1,10.9,0,Documentation/Survey
+Industrial,Agricultural,56.51,73,167,Hearing of Objections (Sec 15),332,Approved,0,4,0.94,1,0,18.0,0,Possession
+Highways,Forest,244.26,77,94,Award & Compensation (Sec 23),53,Approved,0,3,1.03,1,0,19.2,0,Possession
+Irrigation,Commercial,438.81,2593,2891,R&R Implementation,43,Approved,0,0,0.88,1,1,18.2,0,Documentation/Survey
+Energy,Agricultural,73.1,194,453,R&R Implementation,45,Pending,0,4,0.96,1,1,19.8,0,Approval
+Railways,Commercial,60.76,342,451,Declaration of Acquisition (Sec 19),287,Approved,0,2,0.82,1,0,45.0,0,Rehabilitation & Resettlement
+Urban Infrastructure,Residential,64.4,228,549,Physical Possession,102,Approved,0,2,0.99,1,0,32.3,0,Rehabilitation & Resettlement
+Highways,Agricultural,122.07,209,447,R&R Implementation,109,Approved,1,6,0.99,1,1,50.2,1,Documentation/Survey
+Urban Infrastructure,Residential,13.69,51,95,Survey & Demarcation,96,Pending,0,1,0.74,1,0,64.5,1,Approval
+Energy,Commercial,32.62,154,321,Award & Compensation (Sec 23),195,Not Applicable,1,5,0.72,1,1,59.0,1,Compensation
+Energy,Residential,50.02,266,545,Physical Possession,123,Not Applicable,2,1,0.71,1,0,75.2,1,Legal
+Railways,Agricultural,198.38,498,753,Physical Possession,93,Approved,0,5,0.88,1,1,21.3,0,Documentation/Survey
+Industrial,Agricultural,75.73,178,325,Award & Compensation (Sec 23),115,Approved,0,2,0.64,1,1,42.0,0,Compensation
+Urban Infrastructure,Agricultural,68.67,98,188,Physical Possession,66,Approved,0,1,0.68,1,1,18.6,0,Compensation
+Railways,Commercial,149.3,930,2000,Hearing of Objections (Sec 15),23,Approved,3,2,0.74,1,1,64.2,1,Legal
+Irrigation,Government/Barren,78.17,20,45,Declaration of Acquisition (Sec 19),95,Pending,0,4,0.92,1,1,33.3,0,Approval
+Industrial,Agricultural,35.58,52,103,Declaration of Acquisition (Sec 19),35,Approved,0,1,0.9,1,1,5.0,0,Possession
+Irrigation,Residential,111.74,309,685,Award & Compensation (Sec 23),203,Pending,1,2,1.0,1,1,56.5,1,Approval
+Railways,Agricultural,69.55,187,455,Declaration of Acquisition (Sec 19),40,Approved,0,3,0.94,1,0,24.3,0,Rehabilitation & Resettlement
+Railways,Commercial,89.67,393,732,R&R Implementation,115,Not Applicable,0,9,0.81,1,1,34.3,0,Compensation
+Highways,Agricultural,248.81,392,543,Hearing of Objections (Sec 15),81,Approved,0,5,0.73,1,0,46.3,0,Rehabilitation & Resettlement
+Industrial,Agricultural,74.79,139,264,Award & Compensation (Sec 23),218,Approved,0,2,0.88,1,1,32.8,0,Compensation
+Railways,Forest,240.55,59,129,Declaration of Acquisition (Sec 19),113,Approved,0,5,0.89,1,1,35.4,0,Compensation
+Highways,Residential,57.41,285,444,Preliminary Notification (Sec 11),67,Approved,0,4,0.83,0,1,34.1,0,Documentation/Survey
+Energy,Government/Barren,49.3,24,35,Award & Compensation (Sec 23),67,Approved,0,1,0.95,1,1,6.7,0,Rehabilitation & Resettlement
+Energy,Government/Barren,14.75,7,11,R&R Implementation,77,Pending,0,2,0.66,1,1,53.4,1,Compensation
+Irrigation,Agricultural,292.67,806,1097,Preliminary Notification (Sec 11),20,Not Applicable,2,4,0.63,1,1,45.8,0,Legal
+Railways,Agricultural,61.1,170,196,Award & Compensation (Sec 23),30,Pending,0,1,0.78,1,0,56.3,1,Rehabilitation & Resettlement
+Industrial,Forest,7.3,2,2,Survey & Demarcation,113,Pending,0,4,0.78,1,1,57.0,1,Approval
+Railways,Government/Barren,143.35,75,142,Preliminary Notification (Sec 11),48,Approved,0,4,0.96,1,1,6.9,0,Compensation
+Railways,Government/Barren,95.68,41,84,Preliminary Notification (Sec 11),173,Approved,0,0,0.89,1,1,15.6,0,Compensation
+Highways,Agricultural,161.45,420,987,R&R Implementation,155,Not Applicable,3,1,0.95,1,0,68.4,1,Legal
+Highways,Agricultural,62.54,96,128,Hearing of Objections (Sec 15),54,Pending,3,2,0.98,1,0,62.8,1,Legal
+Highways,Commercial,122.31,601,1458,Preliminary Notification (Sec 11),59,Approved,2,7,0.83,1,0,72.5,1,Legal
+Urban Infrastructure,Forest,63.19,23,56,Physical Possession,115,Approved,0,3,0.95,1,1,6.7,0,Compensation
+Urban Infrastructure,Commercial,51.02,170,217,Physical Possession,31,Not Applicable,0,2,0.94,1,0,17.1,0,Rehabilitation & Resettlement
+Railways,Residential,222.52,1263,2802,Physical Possession,15,Not Applicable,3,1,0.9,1,0,56.4,1,Legal
+Irrigation,Government/Barren,495.71,154,266,R&R Implementation,31,Pending,0,2,0.94,1,1,26.5,0,Approval
+Industrial,Forest,12.94,3,6,Physical Possession,214,Pending,0,2,0.79,1,1,66.9,1,Approval
+Urban Infrastructure,Forest,24.53,13,24,Hearing of Objections (Sec 15),39,Pending,1,3,0.96,1,1,48.3,0,Approval
+Railways,Residential,166.67,555,965,Survey & Demarcation,20,Approved,1,0,1.04,1,1,11.4,0,Legal
+Railways,Forest,70.57,20,40,Preliminary Notification (Sec 11),37,Approved,3,5,0.87,1,1,50.7,1,Legal
+Urban Infrastructure,Government/Barren,65.81,32,62,Award & Compensation (Sec 23),62,Pending,3,2,0.93,1,1,63.6,1,Legal
+Energy,Government/Barren,23.23,6,13,Award & Compensation (Sec 23),98,Pending,0,1,1.02,1,1,29.7,0,Approval
+Energy,Agricultural,20.79,49,102,R&R Implementation,52,Approved,0,3,1.01,1,1,5.0,0,Possession
+Energy,Agricultural,9.98,25,33,Declaration of Acquisition (Sec 19),218,Approved,0,0,0.78,1,1,28.7,0,Compensation
+Railways,Government/Barren,112.66,43,59,Award & Compensation (Sec 23),35,Approved,2,0,0.74,1,1,63.3,1,Legal
+Highways,Agricultural,39.56,105,121,Declaration of Acquisition (Sec 19),156,Pending,0,5,0.79,1,1,41.2,0,Approval
+Highways,Residential,167.9,855,1301,Declaration of Acquisition (Sec 19),130,Approved,4,0,0.62,1,0,89.7,1,Legal
+Energy,Agricultural,32.5,89,187,Physical Possession,51,Not Applicable,2,2,0.47,1,1,52.6,1,Legal
+Railways,Agricultural,144.18,297,487,Hearing of Objections (Sec 15),188,Pending,2,1,0.98,1,0,82.2,1,Legal
+Highways,Agricultural,44.72,73,146,Preliminary Notification (Sec 11),59,Not Applicable,0,3,0.88,0,1,29.1,0,Approval
+Irrigation,Forest,337.93,120,282,Physical Possession,203,Pending,3,2,0.91,1,0,98.0,1,Legal
+Energy,Agricultural,7.0,18,39,Preliminary Notification (Sec 11),161,Approved,3,0,0.97,1,1,44.3,0,Legal
+Energy,Agricultural,12.62,16,33,Declaration of Acquisition (Sec 19),37,Approved,0,1,0.88,1,1,13.7,0,Compensation
+Irrigation,Forest,63.36,17,18,Declaration of Acquisition (Sec 19),53,Pending,0,0,0.75,1,1,48.9,0,Approval
+Railways,Residential,19.46,56,82,Declaration of Acquisition (Sec 19),56,Approved,0,2,0.83,1,0,21.2,0,Compensation
+Industrial,Residential,48.06,184,374,Hearing of Objections (Sec 15),56,Pending,3,0,0.98,1,1,59.9,1,Legal
+Highways,Agricultural,118.17,164,275,Award & Compensation (Sec 23),37,Pending,0,2,1.02,1,1,20.6,0,Approval
+Energy,Forest,47.63,13,25,Award & Compensation (Sec 23),161,Approved,2,1,0.98,1,1,43.4,0,Legal
+Highways,Residential,162.53,494,1187,R&R Implementation,145,Not Applicable,0,0,0.77,1,1,13.7,0,Documentation/Survey
+Energy,Government/Barren,43.12,21,48,R&R Implementation,93,Not Applicable,0,1,0.97,1,1,5.0,0,Possession
+Energy,Agricultural,6.93,14,23,Physical Possession,152,Approved,0,0,1.03,1,1,11.5,0,Rehabilitation & Resettlement
+Energy,Agricultural,61.41,130,324,R&R Implementation,140,Not Applicable,0,1,0.6,1,1,38.5,0,Compensation
+Urban Infrastructure,Residential,56.82,267,418,Physical Possession,161,Approved,1,2,0.86,1,0,48.9,0,Rehabilitation & Resettlement
+Irrigation,Agricultural,280.27,404,695,Declaration of Acquisition (Sec 19),115,Approved,2,8,0.72,1,0,95.8,1,Legal
+Irrigation,Forest,152.58,38,64,Award & Compensation (Sec 23),105,Rejected,0,3,1.04,1,1,63.4,1,Approval
+Railways,Government/Barren,63.07,23,32,Physical Possession,35,Approved,0,2,0.75,1,1,14.0,0,Compensation
+Energy,Agricultural,53.77,139,288,Hearing of Objections (Sec 15),64,Approved,0,0,0.67,1,1,25.9,0,Compensation
+Irrigation,Forest,115.46,37,63,Award & Compensation (Sec 23),229,Pending,0,2,0.88,1,1,61.6,1,Approval
+Industrial,Residential,28.37,128,242,Declaration of Acquisition (Sec 19),122,Pending,0,2,0.73,1,1,60.3,1,Approval
+Urban Infrastructure,Agricultural,10.9,24,28,Declaration of Acquisition (Sec 19),58,Not Applicable,0,1,0.79,1,1,12.4,0,Compensation
+Industrial,Forest,15.19,6,11,Physical Possession,170,Pending,0,6,0.71,1,1,86.4,1,Compensation
+Urban Infrastructure,Forest,30.49,16,30,Declaration of Acquisition (Sec 19),50,Approved,0,3,0.9,1,1,12.0,0,Compensation
+Highways,Agricultural,93.49,203,288,R&R Implementation,96,Approved,0,5,0.86,1,1,13.7,0,Compensation
+Highways,Agricultural,181.65,247,400,Hearing of Objections (Sec 15),23,Not Applicable,2,2,1.01,1,1,28.5,0,Legal
+Urban Infrastructure,Agricultural,72.29,194,287,Physical Possession,17,Approved,0,0,0.97,1,0,17.9,0,Rehabilitation & Resettlement
+Energy,Agricultural,31.28,78,104,Award & Compensation (Sec 23),42,Not Applicable,0,2,0.66,1,0,36.2,0,Compensation
+Industrial,Agricultural,40.04,95,220,R&R Implementation,88,Not Applicable,0,9,0.74,1,1,55.6,1,Compensation
+Industrial,Residential,17.48,57,77,R&R Implementation,92,Not Applicable,0,0,0.53,1,0,34.0,0,Compensation
+Energy,Forest,25.01,13,20,Preliminary Notification (Sec 11),23,Pending,0,7,0.92,0,1,63.0,1,Approval
+Industrial,Government/Barren,24.64,6,11,Hearing of Objections (Sec 15),62,Not Applicable,0,1,0.8,1,1,16.2,0,Compensation
+Irrigation,Government/Barren,347.48,180,383,Award & Compensation (Sec 23),27,Not Applicable,0,1,0.96,1,0,22.3,0,Rehabilitation & Resettlement
+Irrigation,Agricultural,90.29,213,412,Physical Possession,152,Pending,2,1,0.66,1,0,98.0,1,Legal
+Irrigation,Agricultural,120.7,315,439,Physical Possession,145,Approved,0,2,0.95,1,0,28.3,0,Rehabilitation & Resettlement
+Energy,Commercial,55.36,260,577,Award & Compensation (Sec 23),102,Approved,1,9,0.74,1,1,79.4,1,Compensation
+Energy,Commercial,41.19,173,372,Physical Possession,125,Not Applicable,0,5,0.76,1,0,43.7,0,Compensation
+Urban Infrastructure,Government/Barren,33.44,16,25,Award & Compensation (Sec 23),82,Not Applicable,3,2,0.97,1,1,43.2,0,Legal
+Highways,Commercial,91.12,376,844,Award & Compensation (Sec 23),161,Not Applicable,2,5,0.7,1,1,62.9,1,Legal
+Highways,Forest,116.86,48,113,Award & Compensation (Sec 23),77,Approved,0,2,0.76,1,1,32.1,0,Compensation
+Railways,Agricultural,194.54,345,789,R&R Implementation,120,Pending,2,0,0.97,1,1,46.5,0,Legal
+Irrigation,Forest,90.6,43,76,R&R Implementation,30,Pending,2,5,0.8,1,1,68.9,1,Legal
+Energy,Forest,9.0,4,9,Declaration of Acquisition (Sec 19),150,Approved,0,8,0.89,1,1,54.6,1,Possession
+Industrial,Agricultural,34.95,93,219,R&R Implementation,91,Approved,0,0,0.79,1,1,23.0,0,Compensation
+Industrial,Government/Barren,43.75,12,17,Physical Possession,44,Approved,3,0,0.62,1,1,67.3,1,Legal
+Energy,Agricultural,71.44,98,219,Declaration of Acquisition (Sec 19),19,Approved,0,4,0.99,1,0,5.0,0,Rehabilitation & Resettlement
+Highways,Agricultural,75.26,174,432,Declaration of Acquisition (Sec 19),111,Approved,0,2,0.96,1,1,5.0,0,Documentation/Survey
+Highways,Agricultural,35.7,78,164,R&R Implementation,36,Not Applicable,0,7,0.89,1,0,34.8,0,Compensation
+Highways,Forest,65.13,34,75,Hearing of Objections (Sec 15),219,Pending,0,0,0.82,1,1,60.4,1,Approval
+Energy,Forest,27.77,8,17,Award & Compensation (Sec 23),102,Pending,0,1,0.99,1,1,48.3,0,Approval
+Irrigation,Agricultural,132.25,333,643,Award & Compensation (Sec 23),341,Approved,2,0,0.72,1,0,89.3,1,Legal
+Railways,Agricultural,180.48,345,567,Hearing of Objections (Sec 15),51,Pending,0,6,0.76,1,1,65.2,1,Approval
+Industrial,Government/Barren,28.96,10,23,Survey & Demarcation,36,Not Applicable,0,2,0.89,1,1,23.1,0,Documentation/Survey
+Urban Infrastructure,Residential,55.56,278,661,Award & Compensation (Sec 23),38,Pending,0,2,0.93,1,1,26.6,0,Approval
+Energy,Residential,26.32,77,117,Physical Possession,31,Pending,0,7,0.84,1,0,55.5,1,Approval
+Irrigation,Forest,55.87,13,24,Award & Compensation (Sec 23),38,Rejected,0,2,0.71,1,1,69.0,1,Approval
+Railways,Forest,87.09,40,99,Hearing of Objections (Sec 15),115,Approved,0,3,0.87,1,1,34.0,0,Compensation
+Industrial,Government/Barren,63.43,19,26,R&R Implementation,194,Approved,0,2,0.87,1,1,34.4,0,Compensation
+Highways,Agricultural,35.77,65,91,Survey & Demarcation,89,Approved,0,4,0.79,1,1,5.0,0,Documentation/Survey
+Highways,Agricultural,71.46,162,378,Physical Possession,103,Pending,0,2,0.97,1,0,54.0,1,Approval
+Industrial,Commercial,18.57,78,190,Survey & Demarcation,70,Approved,0,0,0.68,1,1,32.8,0,Documentation/Survey
+Energy,Agricultural,71.05,149,260,Award & Compensation (Sec 23),47,Not Applicable,1,1,1.01,1,0,30.1,0,Rehabilitation & Resettlement
+Railways,Forest,127.7,37,67,Award & Compensation (Sec 23),63,Pending,0,2,0.83,1,1,43.4,0,Approval
+Urban Infrastructure,Agricultural,41.55,68,94,Hearing of Objections (Sec 15),70,Approved,0,0,0.62,1,1,25.8,0,Compensation
+Railways,Agricultural,45.69,86,137,Preliminary Notification (Sec 11),131,Not Applicable,0,9,0.64,1,1,60.9,1,Compensation
+Irrigation,Forest,229.05,97,189,Hearing of Objections (Sec 15),34,Pending,0,7,1.0,1,1,50.2,1,Approval
+Energy,Agricultural,7.19,11,26,Physical Possession,50,Approved,0,1,0.89,1,1,9.5,0,Compensation
+Irrigation,Agricultural,468.44,625,1135,Declaration of Acquisition (Sec 19),69,Approved,1,4,0.87,1,1,24.3,0,Legal
+Highways,Agricultural,103.58,199,254,Award & Compensation (Sec 23),75,Approved,1,0,0.79,1,1,25.2,0,Legal
+Highways,Forest,238.05,102,210,Declaration of Acquisition (Sec 19),87,Pending,0,4,0.69,1,1,52.1,1,Approval
+Urban Infrastructure,Government/Barren,71.67,32,51,Preliminary Notification (Sec 11),44,Approved,1,0,1.02,1,1,8.0,0,Legal
+Urban Infrastructure,Forest,39.01,16,37,Physical Possession,172,Approved,0,2,0.78,1,1,37.7,0,Compensation
+Railways,Agricultural,82.1,101,209,Hearing of Objections (Sec 15),45,Approved,0,2,0.62,1,1,23.5,0,Compensation
+Railways,Agricultural,183.59,510,750,Physical Possession,250,Approved,0,5,0.94,1,1,15.7,0,Possession
+Railways,Residential,68.11,419,860,Declaration of Acquisition (Sec 19),23,Approved,3,4,0.61,1,0,76.7,1,Legal
+Urban Infrastructure,Residential,37.47,223,494,Preliminary Notification (Sec 11),42,Approved,0,0,0.88,0,1,33.6,0,Documentation/Survey
+Railways,Government/Barren,121.45,51,84,Declaration of Acquisition (Sec 19),199,Approved,3,0,0.66,1,1,84.1,1,Legal
+Highways,Agricultural,128.7,294,623,Preliminary Notification (Sec 11),70,Approved,1,2,0.91,1,1,16.4,0,Documentation/Survey
+Highways,Agricultural,103.85,182,380,Preliminary Notification (Sec 11),46,Approved,0,0,0.79,1,0,29.5,0,Rehabilitation & Resettlement
+Industrial,Residential,38.2,199,271,Physical Possession,35,Approved,0,5,0.74,1,1,15.2,0,Compensation
+Highways,Government/Barren,244.39,62,84,Award & Compensation (Sec 23),75,Pending,0,6,0.97,1,0,31.4,0,Approval
+Highways,Government/Barren,171.56,87,148,Declaration of Acquisition (Sec 19),17,Pending,0,1,0.92,1,1,14.3,0,Approval
+Urban Infrastructure,Agricultural,30.96,86,197,Preliminary Notification (Sec 11),35,Approved,0,2,0.79,0,0,41.0,0,Rehabilitation & Resettlement
+Industrial,Forest,23.35,11,13,Physical Possession,52,Pending,0,1,0.72,1,1,53.9,1,Approval
+Irrigation,Agricultural,75.8,186,377,R&R Implementation,79,Approved,0,4,0.73,1,0,37.9,0,Rehabilitation & Resettlement
+Energy,Commercial,30.67,130,146,R&R Implementation,18,Not Applicable,3,2,0.72,1,0,77.3,1,Legal
+Industrial,Agricultural,10.5,15,21,Hearing of Objections (Sec 15),17,Pending,0,1,0.87,1,1,41.0,0,Approval
+Industrial,Commercial,76.94,400,979,Declaration of Acquisition (Sec 19),68,Approved,1,3,0.6,1,1,45.0,0,Compensation
+Railways,Agricultural,172.95,424,844,Award & Compensation (Sec 23),32,Approved,2,3,0.6,1,1,58.4,1,Legal
+Energy,Forest,28.19,12,20,Hearing of Objections (Sec 15),116,Pending,0,3,1.04,1,1,44.7,0,Approval
+Industrial,Agricultural,7.82,18,44,Preliminary Notification (Sec 11),16,Approved,0,1,0.68,1,1,27.3,0,Compensation
+Irrigation,Agricultural,241.95,381,460,Preliminary Notification (Sec 11),172,Approved,2,1,0.85,1,0,66.4,1,Legal
+Urban Infrastructure,Residential,58.18,321,708,Hearing of Objections (Sec 15),308,Approved,3,7,0.83,1,0,98.0,1,Legal
+Industrial,Forest,21.84,9,16,Preliminary Notification (Sec 11),312,Pending,0,0,0.84,1,1,66.1,1,Approval
+Highways,Government/Barren,25.19,8,18,Physical Possession,15,Approved,4,1,0.78,1,1,52.9,1,Legal
+Highways,Agricultural,220.54,302,661,R&R Implementation,52,Approved,0,2,0.75,1,0,33.1,0,Rehabilitation & Resettlement
+Energy,Residential,24.58,98,148,Survey & Demarcation,52,Approved,2,0,0.68,0,1,53.9,1,Legal
+Urban Infrastructure,Agricultural,13.08,22,44,R&R Implementation,56,Pending,0,2,0.8,1,1,42.8,0,Approval
+Energy,Government/Barren,71.46,32,64,Preliminary Notification (Sec 11),252,Not Applicable,0,1,1.01,1,1,9.4,0,Documentation/Survey
+Urban Infrastructure,Agricultural,30.26,78,186,Physical Possession,30,Approved,1,0,0.97,1,1,10.0,0,Legal
+Highways,Residential,172.53,731,1271,Survey & Demarcation,324,Not Applicable,2,0,0.94,0,1,45.3,0,Legal
+Urban Infrastructure,Commercial,22.62,78,164,Preliminary Notification (Sec 11),72,Not Applicable,5,2,0.71,1,0,69.4,1,Legal
+Irrigation,Commercial,236.11,1344,2721,R&R Implementation,36,Approved,0,1,0.92,1,1,5.0,0,Documentation/Survey
+Railways,Commercial,162.8,638,1480,Declaration of Acquisition (Sec 19),113,Approved,2,5,0.86,1,0,59.1,1,Legal
+Irrigation,Forest,407.49,110,134,Survey & Demarcation,33,Rejected,1,4,0.88,1,1,72.4,1,Approval
+Highways,Commercial,155.59,617,1186,Preliminary Notification (Sec 11),76,Pending,2,2,0.98,1,1,43.1,0,Legal
+Railways,Agricultural,56.39,128,263,Declaration of Acquisition (Sec 19),224,Approved,0,0,1.09,1,1,16.5,0,Possession
+Urban Infrastructure,Agricultural,6.56,9,20,Declaration of Acquisition (Sec 19),52,Pending,0,1,0.75,1,1,43.2,0,Approval
+Industrial,Agricultural,25.1,48,86,Preliminary Notification (Sec 11),133,Approved,6,2,0.91,0,1,48.7,0,Legal
+Railways,Agricultural,89.67,216,449,Award & Compensation (Sec 23),50,Approved,0,5,0.91,1,1,5.0,0,Documentation/Survey
+Industrial,Residential,12.28,42,52,Hearing of Objections (Sec 15),369,Pending,0,1,0.65,1,1,78.4,1,Approval
+Highways,Residential,51.11,218,367,Award & Compensation (Sec 23),96,Approved,1,0,0.94,1,0,43.9,0,Rehabilitation & Resettlement
+Energy,Government/Barren,38.17,15,21,Declaration of Acquisition (Sec 19),111,Approved,0,1,0.72,1,1,34.6,0,Compensation
+Highways,Agricultural,86.82,113,169,Survey & Demarcation,83,Pending,0,0,0.78,1,1,39.0,0,Approval
+Energy,Government/Barren,48.15,19,38,Hearing of Objections (Sec 15),24,Approved,1,0,0.7,1,1,40.5,0,Legal
+Highways,Agricultural,91.76,136,196,Survey & Demarcation,46,Approved,5,1,0.87,0,1,49.0,0,Legal
+Irrigation,Government/Barren,152.21,77,191,Physical Possession,53,Approved,0,1,0.96,1,1,5.0,0,Compensation
+Irrigation,Agricultural,298.47,819,1025,Declaration of Acquisition (Sec 19),19,Not Applicable,0,4,0.97,1,1,5.0,0,Documentation/Survey
+Highways,Forest,181.44,87,210,Hearing of Objections (Sec 15),92,Pending,0,5,0.83,1,1,69.7,1,Approval
+Irrigation,Residential,102.55,615,1274,Declaration of Acquisition (Sec 19),162,Approved,1,3,0.78,1,1,35.4,0,Compensation
+Irrigation,Forest,126.87,65,123,Physical Possession,37,Pending,0,5,0.91,1,1,41.4,0,Approval
+Energy,Agricultural,79.13,133,288,Award & Compensation (Sec 23),257,Approved,0,4,0.55,1,1,46.3,0,Compensation
+Energy,Commercial,27.67,115,165,Physical Possession,73,Not Applicable,1,0,0.85,1,0,40.4,0,Rehabilitation & Resettlement
+Highways,Agricultural,240.88,304,504,Preliminary Notification (Sec 11),111,Approved,0,4,0.72,0,0,78.1,1,Rehabilitation & Resettlement
+Urban Infrastructure,Residential,46.33,228,486,Award & Compensation (Sec 23),26,Approved,0,2,0.89,1,1,15.3,0,Documentation/Survey
+Energy,Agricultural,6.3,17,27,Preliminary Notification (Sec 11),100,Approved,0,0,0.87,1,1,22.2,0,Compensation
+Railways,Agricultural,203.86,254,503,R&R Implementation,265,Approved,1,6,0.73,1,1,77.6,1,Possession
+Railways,Agricultural,103.79,255,325,Survey & Demarcation,41,Approved,0,4,1.02,0,0,16.1,0,Rehabilitation & Resettlement
+Urban Infrastructure,Forest,27.77,9,19,Declaration of Acquisition (Sec 19),60,Pending,1,2,0.63,1,1,78.4,1,Approval
+Highways,Residential,45.02,151,185,Declaration of Acquisition (Sec 19),31,Not Applicable,0,0,0.97,1,1,5.0,0,Rehabilitation & Resettlement
+Energy,Residential,56.1,221,463,Preliminary Notification (Sec 11),205,Approved,1,1,0.85,1,1,40.9,0,Legal
+Railways,Agricultural,84.93,220,467,Preliminary Notification (Sec 11),77,Not Applicable,2,1,0.66,1,0,66.4,1,Legal
+Railways,Agricultural,114.0,296,354,Preliminary Notification (Sec 11),210,Approved,0,8,0.86,1,1,50.1,1,Possession
+Urban Infrastructure,Agricultural,56.86,105,237,Declaration of Acquisition (Sec 19),133,Approved,0,6,1.04,1,1,26.5,0,Possession
+Industrial,Agricultural,49.44,90,216,Preliminary Notification (Sec 11),236,Not Applicable,2,0,0.7,1,1,66.3,1,Legal
+Irrigation,Agricultural,289.08,455,1093,Survey & Demarcation,79,Pending,2,2,0.92,1,1,53.8,1,Legal
+Energy,Residential,32.8,108,256,Award & Compensation (Sec 23),18,Approved,0,2,0.88,1,1,16.6,0,Compensation
+Highways,Commercial,139.27,470,917,Hearing of Objections (Sec 15),43,Not Applicable,0,0,0.95,1,0,18.9,0,Rehabilitation & Resettlement
+Irrigation,Government/Barren,87.35,41,81,Survey & Demarcation,359,Approved,0,2,0.81,1,1,30.3,0,Documentation/Survey
+Industrial,Forest,17.52,4,7,Physical Possession,318,Pending,0,7,0.91,1,1,82.5,1,Approval
+Highways,Commercial,89.83,283,467,R&R Implementation,42,Pending,1,5,0.91,1,0,57.1,1,Rehabilitation & Resettlement
+Highways,Government/Barren,43.91,14,16,R&R Implementation,102,Approved,1,1,0.63,1,1,45.5,0,Compensation
+Energy,Agricultural,23.15,50,104,Hearing of Objections (Sec 15),86,Pending,0,1,0.77,1,1,34.3,0,Approval
+Railways,Agricultural,159.16,359,816,R&R Implementation,63,Not Applicable,0,4,0.81,1,0,35.2,0,Rehabilitation & Resettlement
+Highways,Agricultural,161.51,373,911,Survey & Demarcation,59,Approved,0,1,0.98,0,1,5.0,0,Documentation/Survey
+Railways,Agricultural,134.64,183,363,Physical Possession,112,Pending,0,3,0.75,1,1,49.3,0,Approval
+Industrial,Government/Barren,47.73,14,25,Survey & Demarcation,177,Not Applicable,0,1,0.96,0,1,5.1,0,Documentation/Survey
+Irrigation,Commercial,493.3,2732,5902,Award & Compensation (Sec 23),345,Not Applicable,0,0,0.73,1,1,53.3,1,Documentation/Survey
+Railways,Agricultural,126.6,154,223,Physical Possession,28,Approved,3,1,0.98,1,1,41.2,0,Legal
+Railways,Government/Barren,225.19,98,207,Preliminary Notification (Sec 11),91,Approved,0,1,0.62,1,1,37.9,0,Compensation
+Irrigation,Residential,94.46,470,612,Hearing of Objections (Sec 15),93,Pending,0,2,0.86,1,1,44.0,0,Approval
+Urban Infrastructure,Commercial,53.43,185,312,R&R Implementation,94,Approved,0,5,0.78,1,1,21.5,0,Documentation/Survey
+Highways,Agricultural,198.17,312,733,Hearing of Objections (Sec 15),226,Approved,2,4,0.73,1,1,72.2,1,Legal
+Energy,Forest,61.45,15,25,Preliminary Notification (Sec 11),167,Pending,1,3,0.81,1,1,71.4,1,Approval
+Industrial,Agricultural,79.91,110,146,Survey & Demarcation,36,Not Applicable,0,0,0.85,0,0,28.9,0,Rehabilitation & Resettlement
+Railways,Agricultural,78.42,104,253,Award & Compensation (Sec 23),140,Not Applicable,0,2,0.8,1,1,32.3,0,Compensation
+Railways,Forest,168.11,72,109,Survey & Demarcation,51,Approved,0,4,0.72,1,1,41.6,0,Documentation/Survey
+Irrigation,Forest,497.02,231,490,Declaration of Acquisition (Sec 19),143,Approved,0,2,0.87,1,0,54.7,1,Rehabilitation & Resettlement
+Industrial,Forest,78.25,21,24,Survey & Demarcation,55,Pending,0,2,0.85,1,1,51.4,1,Approval
+Railways,Agricultural,134.82,220,532,Hearing of Objections (Sec 15),18,Approved,2,5,0.96,1,1,12.1,0,Legal
+Railways,Agricultural,19.27,39,56,Survey & Demarcation,62,Approved,0,0,1.07,1,1,5.0,0,Documentation/Survey
+Industrial,Residential,22.63,116,160,Physical Possession,39,Approved,0,2,0.86,1,1,16.0,0,Compensation
+Irrigation,Government/Barren,160.22,41,97,Declaration of Acquisition (Sec 19),115,Not Applicable,0,2,0.61,1,1,42.5,0,Compensation
+Railways,Commercial,87.63,543,741,Physical Possession,172,Approved,0,5,0.89,1,0,38.4,0,Rehabilitation & Resettlement
+Irrigation,Agricultural,74.15,95,122,R&R Implementation,115,Not Applicable,0,2,0.85,1,0,12.3,0,Rehabilitation & Resettlement
+Highways,Forest,91.32,25,35,R&R Implementation,43,Rejected,0,2,0.88,1,1,69.7,1,Approval
+Energy,Agricultural,75.37,166,365,Declaration of Acquisition (Sec 19),416,Not Applicable,0,8,0.88,1,1,54.1,1,Possession
+Railways,Agricultural,148.43,413,816,Preliminary Notification (Sec 11),65,Approved,2,6,0.88,1,1,53.3,1,Legal
+Urban Infrastructure,Residential,78.39,329,462,Preliminary Notification (Sec 11),168,Pending,0,0,1.06,1,1,35.3,0,Approval
+Irrigation,Forest,473.09,228,490,Preliminary Notification (Sec 11),213,Pending,2,1,0.86,1,1,98.0,1,Legal
+Energy,Government/Barren,68.92,26,59,Declaration of Acquisition (Sec 19),145,Approved,0,0,0.83,1,1,27.6,0,Compensation
+Railways,Agricultural,185.62,483,1041,Hearing of Objections (Sec 15),41,Approved,0,2,0.67,1,0,49.8,0,Rehabilitation & Resettlement
+Industrial,Commercial,14.28,73,142,Physical Possession,363,Pending,3,5,0.8,1,0,95.2,1,Legal
+Irrigation,Agricultural,398.36,699,865,Physical Possession,146,Approved,1,4,0.99,1,1,16.8,0,Possession
+Irrigation,Agricultural,273.5,372,789,Preliminary Notification (Sec 11),27,Not Applicable,2,0,0.85,1,1,28.0,0,Legal
+Highways,Agricultural,177.12,424,816,Physical Possession,134,Approved,0,5,0.83,1,1,15.3,0,Documentation/Survey
+Urban Infrastructure,Government/Barren,14.04,4,6,R&R Implementation,22,Approved,0,0,0.82,1,1,5.4,0,Compensation
+Energy,Residential,63.44,278,630,Survey & Demarcation,41,Approved,0,4,0.93,1,1,5.0,0,Documentation/Survey
+Highways,Agricultural,143.55,327,687,Hearing of Objections (Sec 15),113,Approved,1,2,0.88,1,1,40.2,0,Documentation/Survey
+Urban Infrastructure,Commercial,34.88,153,251,Hearing of Objections (Sec 15),213,Approved,0,3,0.84,1,1,44.2,0,Compensation
+Urban Infrastructure,Commercial,10.45,46,51,Declaration of Acquisition (Sec 19),23,Approved,3,2,0.74,1,1,67.7,1,Legal
+Urban Infrastructure,Government/Barren,36.88,18,21,R&R Implementation,28,Approved,0,9,0.75,1,1,38.0,0,Compensation
+Energy,Government/Barren,28.24,7,7,Preliminary Notification (Sec 11),15,Approved,1,1,0.93,1,1,13.6,0,Legal
+Highways,Government/Barren,92.44,25,35,Declaration of Acquisition (Sec 19),112,Approved,0,1,0.67,1,1,35.0,0,Compensation
+Industrial,Commercial,62.88,265,463,Hearing of Objections (Sec 15),105,Approved,1,5,0.95,1,1,29.4,0,Legal
+Highways,Commercial,84.68,250,380,Declaration of Acquisition (Sec 19),23,Not Applicable,0,5,0.92,1,1,5.0,0,Documentation/Survey
+Irrigation,Agricultural,111.25,212,498,Hearing of Objections (Sec 15),151,Pending,0,2,0.69,1,1,65.4,1,Approval
+Industrial,Residential,24.74,148,271,Physical Possession,15,Approved,0,3,0.79,1,0,37.2,0,Rehabilitation & Resettlement
+Urban Infrastructure,Forest,37.18,11,12,Declaration of Acquisition (Sec 19),84,Pending,0,5,0.83,1,1,49.8,0,Approval
+Railways,Forest,109.57,55,95,Physical Possession,58,Pending,2,2,0.6,1,1,93.4,1,Legal
+Energy,Agricultural,25.12,52,99,Hearing of Objections (Sec 15),32,Approved,0,1,0.95,1,1,8.9,0,Compensation
+Highways,Agricultural,20.94,27,47,Award & Compensation (Sec 23),408,Not Applicable,4,5,0.97,1,1,52.1,1,Legal
+Energy,Agricultural,69.73,132,249,Survey & Demarcation,49,Pending,0,2,0.88,1,0,51.3,1,Rehabilitation & Resettlement
+Irrigation,Residential,271.97,1263,1543,Physical Possession,92,Not Applicable,4,3,0.82,1,1,64.5,1,Legal
+Railways,Forest,161.51,71,115,Hearing of Objections (Sec 15),45,Pending,3,1,0.81,1,0,92.9,1,Legal
+Urban Infrastructure,Commercial,71.16,253,289,Hearing of Objections (Sec 15),27,Approved,1,3,0.82,1,0,44.5,0,Rehabilitation & Resettlement
+Urban Infrastructure,Government/Barren,13.51,7,9,Survey & Demarcation,20,Approved,0,0,0.77,1,1,14.9,0,Documentation/Survey
+Irrigation,Agricultural,291.83,512,1098,Physical Possession,25,Approved,0,5,0.83,1,1,17.2,0,Compensation
+Railways,Agricultural,87.61,157,207,Declaration of Acquisition (Sec 19),77,Not Applicable,0,6,0.91,1,1,17.2,0,Compensation
+Irrigation,Government/Barren,263.05,75,172,Hearing of Objections (Sec 15),132,Pending,0,0,0.9,1,0,34.5,0,Approval
+Urban Infrastructure,Agricultural,57.89,75,155,Preliminary Notification (Sec 11),55,Not Applicable,0,1,0.92,1,1,9.3,0,Compensation
+Industrial,Residential,14.85,91,164,Physical Possession,107,Approved,0,2,0.69,1,1,40.0,0,Compensation
+Railways,Government/Barren,193.03,82,203,Preliminary Notification (Sec 11),71,Approved,1,0,0.73,1,0,32.9,0,Rehabilitation & Resettlement
+Urban Infrastructure,Residential,64.53,205,451,R&R Implementation,88,Approved,2,1,0.85,1,1,37.1,0,Legal
+Railways,Government/Barren,192.42,79,125,Survey & Demarcation,145,Pending,0,1,0.92,1,1,43.2,0,Approval
+Highways,Residential,113.11,374,774,R&R Implementation,123,Approved,2,5,0.93,1,1,39.5,0,Legal
+Energy,Agricultural,62.23,128,172,Hearing of Objections (Sec 15),94,Approved,0,3,0.94,1,1,6.6,0,Compensation
+Irrigation,Government/Barren,176.62,82,172,Declaration of Acquisition (Sec 19),78,Approved,0,1,0.92,1,1,5.0,0,Compensation
+Energy,Agricultural,11.99,22,28,R&R Implementation,111,Approved,2,1,0.73,1,1,53.1,1,Legal
+Railways,Residential,207.42,1217,2716,Survey & Demarcation,61,Approved,0,3,0.99,1,1,9.4,0,Documentation/Survey
+Urban Infrastructure,Commercial,62.64,207,305,Survey & Demarcation,112,Approved,2,7,0.93,0,1,48.8,0,Legal
+Irrigation,Agricultural,245.24,571,678,Award & Compensation (Sec 23),61,Approved,0,2,0.73,1,0,52.0,1,Rehabilitation & Resettlement
+Highways,Forest,127.08,33,67,Preliminary Notification (Sec 11),30,Pending,0,2,0.9,1,1,36.4,0,Approval
+Irrigation,Agricultural,432.09,609,1417,Declaration of Acquisition (Sec 19),87,Pending,3,0,0.74,1,1,88.6,1,Legal
+Highways,Agricultural,87.4,110,190,Award & Compensation (Sec 23),161,Not Applicable,0,4,0.94,1,1,14.8,0,Possession
+Irrigation,Residential,296.6,945,2011,Survey & Demarcation,46,Approved,0,2,0.85,1,0,28.6,0,Rehabilitation & Resettlement
+Energy,Agricultural,55.98,82,149,Hearing of Objections (Sec 15),96,Pending,0,1,0.55,1,1,56.8,1,Approval
+Industrial,Commercial,69.82,360,619,Award & Compensation (Sec 23),22,Approved,4,0,0.92,1,0,48.1,0,Legal
+Urban Infrastructure,Government/Barren,20.31,10,17,Physical Possession,73,Approved,0,5,0.79,1,1,16.1,0,Compensation
+Urban Infrastructure,Agricultural,50.11,61,91,R&R Implementation,202,Pending,0,0,0.67,1,1,77.4,1,Approval
+Industrial,Commercial,9.07,29,67,Physical Possession,333,Pending,0,2,0.68,1,1,77.8,1,Approval
+Urban Infrastructure,Government/Barren,74.08,33,77,Award & Compensation (Sec 23),32,Pending,1,8,1.04,1,1,62.8,1,Approval
+Energy,Residential,77.07,226,299,Physical Possession,379,Approved,0,2,0.82,1,1,41.6,0,Compensation
+Industrial,Forest,11.66,4,4,Hearing of Objections (Sec 15),166,Rejected,0,1,0.79,1,1,76.8,1,Approval
+Energy,Agricultural,18.79,30,74,R&R Implementation,44,Pending,0,0,0.82,1,1,35.3,0,Approval
+Railways,Agricultural,228.73,483,805,Award & Compensation (Sec 23),27,Not Applicable,0,3,1.08,1,1,5.0,0,Documentation/Survey
+Irrigation,Agricultural,85.62,175,300,Physical Possession,97,Approved,0,4,1.0,1,1,5.0,0,Compensation
+Highways,Agricultural,123.94,302,742,Physical Possession,169,Approved,3,8,0.86,1,1,78.1,1,Legal
+Irrigation,Forest,54.99,20,24,Preliminary Notification (Sec 11),37,Pending,0,3,0.79,1,1,48.4,0,Approval
+Industrial,Forest,46.7,18,32,Declaration of Acquisition (Sec 19),98,Approved,0,0,0.78,1,1,32.6,0,Compensation
+Energy,Agricultural,35.18,43,101,Preliminary Notification (Sec 11),144,Approved,1,2,0.7,1,1,46.5,0,Legal
+Highways,Agricultural,150.1,257,606,Physical Possession,113,Not Applicable,0,2,0.91,1,1,15.8,0,Documentation/Survey
+Railways,Agricultural,69.88,176,201,Preliminary Notification (Sec 11),35,Not Applicable,0,2,0.66,1,1,37.1,0,Compensation
+Urban Infrastructure,Agricultural,38.64,71,88,Survey & Demarcation,79,Approved,0,0,0.83,1,1,12.4,0,Documentation/Survey
+Highways,Residential,170.21,653,1088,Declaration of Acquisition (Sec 19),74,Approved,2,2,0.94,1,1,26.8,0,Legal
+Irrigation,Agricultural,68.14,114,154,Declaration of Acquisition (Sec 19),91,Approved,0,4,0.85,1,1,22.4,0,Compensation
+Irrigation,Agricultural,399.83,868,1910,Survey & Demarcation,24,Pending,0,1,1.03,1,0,37.5,0,Approval
+Urban Infrastructure,Forest,30.97,14,29,Hearing of Objections (Sec 15),85,Approved,0,1,0.82,1,1,24.9,0,Compensation
+Highways,Residential,224.81,701,1042,Hearing of Objections (Sec 15),108,Approved,0,3,0.99,1,0,20.7,0,Rehabilitation & Resettlement
+Irrigation,Residential,332.75,1729,1952,Hearing of Objections (Sec 15),22,Approved,1,2,0.85,1,1,31.8,0,Documentation/Survey
+Highways,Government/Barren,246.58,82,187,Award & Compensation (Sec 23),54,Approved,0,6,1.04,1,1,21.6,0,Compensation
+Industrial,Residential,69.92,208,286,Hearing of Objections (Sec 15),15,Not Applicable,3,1,0.79,1,0,65.7,1,Legal
+Irrigation,Commercial,494.5,1596,2456,R&R Implementation,51,Pending,1,5,0.76,1,1,55.8,1,Approval
+Urban Infrastructure,Agricultural,66.72,141,299,Survey & Demarcation,24,Approved,0,1,0.75,1,1,16.1,0,Documentation/Survey
+Irrigation,Commercial,52.67,314,572,Declaration of Acquisition (Sec 19),32,Approved,0,5,0.86,1,0,25.0,0,Rehabilitation & Resettlement
+Railways,Forest,42.79,12,26,Award & Compensation (Sec 23),44,Pending,3,6,0.75,1,1,98.0,1,Legal
+Irrigation,Agricultural,372.47,703,904,Award & Compensation (Sec 23),159,Not Applicable,2,1,0.74,1,0,72.6,1,Legal
+Highways,Residential,106.48,528,972,Award & Compensation (Sec 23),92,Approved,0,5,0.92,1,1,6.6,0,Documentation/Survey
+Irrigation,Agricultural,428.16,725,1226,Declaration of Acquisition (Sec 19),63,Approved,2,0,0.92,1,1,20.8,0,Legal
+Highways,Agricultural,37.06,69,109,Physical Possession,524,Approved,0,3,0.86,1,0,35.6,0,Compensation
+Industrial,Government/Barren,48.76,16,27,Declaration of Acquisition (Sec 19),283,Approved,0,2,0.89,1,1,27.4,0,Compensation
+Industrial,Residential,34.7,212,344,Declaration of Acquisition (Sec 19),205,Approved,0,2,0.94,1,0,33.4,0,Rehabilitation & Resettlement
+Railways,Residential,179.17,620,1274,Award & Compensation (Sec 23),228,Approved,0,5,0.76,1,0,42.9,0,Rehabilitation & Resettlement
+Railways,Residential,52.47,277,641,R&R Implementation,54,Pending,2,5,0.84,1,1,67.5,1,Legal
+Industrial,Agricultural,44.4,116,129,Award & Compensation (Sec 23),54,Pending,0,0,0.85,1,1,35.1,0,Approval
+Irrigation,Commercial,146.05,475,1036,Preliminary Notification (Sec 11),151,Approved,0,0,0.92,1,1,14.8,0,Documentation/Survey
+Irrigation,Agricultural,212.68,336,744,Award & Compensation (Sec 23),89,Approved,2,5,0.99,1,1,27.9,0,Legal
+Irrigation,Agricultural,306.13,368,881,Hearing of Objections (Sec 15),63,Not Applicable,2,0,0.88,1,1,42.3,0,Legal
+Irrigation,Agricultural,268.57,574,715,Award & Compensation (Sec 23),76,Not Applicable,0,2,0.83,1,1,15.0,0,Documentation/Survey
+Highways,Government/Barren,180.02,81,105,Award & Compensation (Sec 23),94,Approved,0,3,0.77,1,1,19.3,0,Compensation
+Energy,Agricultural,22.1,27,56,Hearing of Objections (Sec 15),103,Approved,0,0,0.7,1,1,34.1,0,Compensation
+Energy,Commercial,15.6,96,133,Award & Compensation (Sec 23),86,Approved,3,1,0.93,1,1,43.9,0,Legal
+Industrial,Government/Barren,45.24,23,34,Award & Compensation (Sec 23),17,Approved,0,2,0.73,1,1,37.7,0,Compensation
+Energy,Government/Barren,11.28,4,4,Declaration of Acquisition (Sec 19),193,Approved,0,1,0.94,1,1,16.2,0,Compensation
+Urban Infrastructure,Forest,5.43,1,1,Hearing of Objections (Sec 15),92,Pending,0,7,0.79,1,1,75.2,1,Compensation
+Urban Infrastructure,Agricultural,68.6,104,191,Physical Possession,43,Not Applicable,0,2,0.79,1,1,16.6,0,Compensation
+Railways,Forest,29.28,7,14,Declaration of Acquisition (Sec 19),87,Approved,0,0,0.53,1,1,48.5,0,Compensation
+Energy,Government/Barren,68.05,23,30,Preliminary Notification (Sec 11),94,Approved,2,1,0.89,1,1,47.7,0,Legal
+Energy,Agricultural,71.62,152,300,Survey & Demarcation,23,Approved,1,0,0.82,1,0,44.2,0,Rehabilitation & Resettlement
+Highways,Forest,88.36,22,27,Physical Possession,36,Approved,0,3,0.81,1,1,28.2,0,Compensation
+Highways,Forest,185.12,94,145,Physical Possession,109,Approved,0,3,0.89,1,0,40.2,0,Rehabilitation & Resettlement
+Irrigation,Commercial,467.64,1615,3696,Hearing of Objections (Sec 15),30,Approved,0,9,0.7,1,1,47.0,0,Compensation
+Urban Infrastructure,Commercial,66.75,377,711,Declaration of Acquisition (Sec 19),19,Approved,2,1,0.78,1,1,40.8,0,Legal
+Irrigation,Agricultural,442.81,1037,2051,Hearing of Objections (Sec 15),37,Approved,0,4,0.89,1,1,14.5,0,Documentation/Survey
+Energy,Forest,7.98,3,4,R&R Implementation,142,Pending,0,5,0.81,1,1,56.9,1,Approval
+Railways,Government/Barren,127.56,33,47,R&R Implementation,260,Approved,3,5,1.03,1,1,50.8,1,Legal
+Industrial,Commercial,43.31,137,305,Survey & Demarcation,35,Pending,1,1,0.86,0,1,51.7,1,Approval
+Energy,Residential,37.75,143,337,Physical Possession,65,Not Applicable,2,1,0.8,1,1,46.5,0,Legal
+Industrial,Agricultural,67.99,153,356,Preliminary Notification (Sec 11),61,Approved,0,4,0.89,1,1,7.1,0,Compensation
+Urban Infrastructure,Government/Barren,20.69,11,16,Award & Compensation (Sec 23),140,Approved,0,5,0.69,1,1,35.9,0,Compensation
+Highways,Residential,165.13,967,1673,Award & Compensation (Sec 23),20,Approved,1,0,0.77,1,0,39.2,0,Rehabilitation & Resettlement
+Irrigation,Government/Barren,59.74,22,53,Physical Possession,40,Pending,0,2,0.91,1,1,27.0,0,Approval
+Energy,Commercial,58.3,186,420,Preliminary Notification (Sec 11),49,Approved,4,1,0.94,0,1,49.8,0,Legal
+Irrigation,Government/Barren,181.24,65,114,Hearing of Objections (Sec 15),145,Approved,0,7,0.88,1,1,38.6,0,Compensation
+Railways,Government/Barren,135.7,36,68,Survey & Demarcation,48,Approved,0,6,0.85,1,1,28.8,0,Compensation
+Railways,Forest,171.14,95,233,Hearing of Objections (Sec 15),165,Approved,3,5,0.89,1,1,76.4,1,Legal
+Highways,Agricultural,190.45,507,754,Hearing of Objections (Sec 15),19,Not Applicable,0,5,0.94,1,1,5.0,0,Documentation/Survey
+Irrigation,Residential,117.37,445,996,Hearing of Objections (Sec 15),86,Approved,1,6,0.81,1,1,46.2,0,Compensation
+Railways,Forest,104.21,27,51,Preliminary Notification (Sec 11),179,Approved,0,5,0.97,1,1,12.0,0,Possession
+Energy,Agricultural,60.72,105,124,Preliminary Notification (Sec 11),62,Pending,1,1,0.96,1,0,57.7,1,Rehabilitation & Resettlement
+Urban Infrastructure,Government/Barren,33.35,15,18,Hearing of Objections (Sec 15),307,Pending,0,0,0.74,1,1,71.6,1,Approval
+Industrial,Agricultural,43.54,55,101,Survey & Demarcation,117,Approved,2,4,0.95,1,0,29.9,0,Legal
+Highways,Forest,33.24,12,13,Award & Compensation (Sec 23),15,Approved,0,5,0.8,1,1,36.0,0,Compensation
+Railways,Residential,17.88,50,67,Preliminary Notification (Sec 11),67,Approved,0,1,0.74,0,1,43.1,0,Compensation
+Highways,Agricultural,153.37,218,268,R&R Implementation,205,Not Applicable,2,2,1.01,1,0,55.7,1,Legal
+Industrial,Residential,8.48,25,54,Physical Possession,112,Approved,2,5,0.83,1,1,56.1,1,Legal
+Urban Infrastructure,Agricultural,27.82,55,83,Preliminary Notification (Sec 11),41,Not Applicable,0,0,0.77,0,0,33.5,0,Approval
+Urban Infrastructure,Residential,52.77,210,413,Award & Compensation (Sec 23),140,Not Applicable,1,0,0.83,1,0,41.6,0,Rehabilitation & Resettlement
+Industrial,Forest,73.71,27,33,Award & Compensation (Sec 23),96,Pending,0,4,0.85,1,1,57.9,1,Approval
+Irrigation,Agricultural,446.31,947,2219,R&R Implementation,35,Pending,1,0,0.97,1,0,62.4,1,Rehabilitation & Resettlement
+Industrial,Residential,29.3,101,204,Preliminary Notification (Sec 11),236,Approved,2,0,0.89,1,1,49.8,0,Legal
+Energy,Agricultural,72.27,146,200,Declaration of Acquisition (Sec 19),26,Approved,0,4,0.94,1,1,5.0,0,Compensation
+Industrial,Agricultural,33.99,55,76,Preliminary Notification (Sec 11),53,Approved,3,2,0.95,1,0,34.5,0,Legal
+Railways,Government/Barren,155.49,60,128,Preliminary Notification (Sec 11),19,Approved,0,1,0.57,1,1,30.7,0,Compensation
+Energy,Agricultural,6.92,15,28,R&R Implementation,33,Approved,0,5,0.84,1,1,14.6,0,Compensation
+Urban Infrastructure,Agricultural,36.44,71,157,R&R Implementation,192,Not Applicable,0,1,0.57,1,1,42.3,0,Compensation
+Highways,Agricultural,150.91,352,713,Hearing of Objections (Sec 15),195,Approved,0,2,0.72,1,1,58.7,1,Documentation/Survey
+Urban Infrastructure,Forest,75.09,25,36,R&R Implementation,150,Pending,4,4,0.97,1,1,82.7,1,Legal
+Highways,Commercial,62.77,200,417,Survey & Demarcation,125,Approved,1,0,0.94,1,1,20.4,0,Documentation/Survey
+Highways,Commercial,65.08,277,633,Award & Compensation (Sec 23),61,Approved,2,0,0.83,1,0,58.4,1,Legal
+Highways,Residential,231.22,805,943,Survey & Demarcation,173,Approved,0,2,0.89,0,0,41.3,0,Rehabilitation & Resettlement
+Industrial,Forest,49.79,21,38,Award & Compensation (Sec 23),21,Rejected,0,3,0.97,1,1,46.1,0,Approval
+Energy,Agricultural,68.88,102,203,Preliminary Notification (Sec 11),57,Approved,3,2,0.88,1,1,57.6,1,Legal
+Irrigation,Government/Barren,68.24,31,53,Hearing of Objections (Sec 15),25,Not Applicable,0,2,0.89,1,1,18.9,0,Compensation
+Energy,Residential,31.34,174,230,Survey & Demarcation,46,Approved,1,3,0.84,1,1,21.7,0,Documentation/Survey
+Energy,Commercial,32.98,181,377,Preliminary Notification (Sec 11),21,Not Applicable,2,3,0.99,1,1,29.3,0,Legal
+Urban Infrastructure,Agricultural,75.2,133,237,R&R Implementation,191,Not Applicable,0,0,0.71,1,0,68.0,1,Rehabilitation & Resettlement
+Irrigation,Forest,254.36,120,237,Physical Possession,31,Approved,1,7,0.95,1,1,43.6,0,Legal
+Highways,Residential,67.15,341,721,Survey & Demarcation,45,Pending,1,0,0.9,1,0,50.7,1,Approval
+Industrial,Agricultural,50.21,94,187,Declaration of Acquisition (Sec 19),85,Pending,0,3,1.02,1,0,28.8,0,Approval
+Highways,Government/Barren,171.01,44,84,Declaration of Acquisition (Sec 19),77,Approved,3,2,0.63,1,1,65.4,1,Legal
+Highways,Forest,58.28,27,63,R&R Implementation,63,Pending,0,1,0.82,1,1,46.6,0,Approval
+Irrigation,Agricultural,303.39,547,725,Declaration of Acquisition (Sec 19),295,Approved,2,3,0.99,1,0,61.5,1,Legal
+Highways,Government/Barren,157.2,57,134,Preliminary Notification (Sec 11),144,Pending,0,0,0.8,0,0,65.2,1,Approval
+Irrigation,Agricultural,263.68,734,812,Preliminary Notification (Sec 11),25,Approved,3,2,0.54,1,0,82.8,1,Legal
+Industrial,Agricultural,51.42,101,179,Hearing of Objections (Sec 15),265,Pending,4,0,0.9,1,0,85.9,1,Legal
+Energy,Agricultural,38.71,108,241,R&R Implementation,51,Approved,2,1,0.99,1,1,13.1,0,Legal
+Irrigation,Agricultural,103.22,172,371,R&R Implementation,29,Approved,0,0,0.89,1,0,34.2,0,Rehabilitation & Resettlement
+Railways,Forest,179.57,61,113,Physical Possession,96,Pending,2,0,0.68,1,1,92.4,1,Legal
+Highways,Forest,51.5,26,42,Award & Compensation (Sec 23),34,Approved,0,5,0.81,1,1,27.8,0,Compensation
+Railways,Forest,147.68,68,157,Award & Compensation (Sec 23),171,Approved,1,2,0.78,1,0,55.2,1,Legal
+Urban Infrastructure,Forest,72.16,38,49,Hearing of Objections (Sec 15),208,Pending,0,2,0.69,1,1,80.5,1,Approval
+Railways,Government/Barren,236.62,73,162,Hearing of Objections (Sec 15),120,Approved,0,1,0.76,1,1,21.6,0,Compensation
+Irrigation,Residential,52.62,220,281,Hearing of Objections (Sec 15),49,Approved,0,3,0.82,1,1,19.1,0,Compensation
+Railways,Agricultural,218.62,287,546,Hearing of Objections (Sec 15),29,Approved,0,3,0.91,1,1,5.0,0,Documentation/Survey
+Urban Infrastructure,Agricultural,26.85,60,104,Award & Compensation (Sec 23),74,Approved,0,0,0.66,1,1,20.3,0,Compensation
+Urban Infrastructure,Agricultural,74.19,146,317,R&R Implementation,26,Approved,0,0,0.78,1,0,34.5,0,Rehabilitation & Resettlement
+Energy,Agricultural,14.49,36,78,Hearing of Objections (Sec 15),48,Not Applicable,1,0,0.8,1,1,27.1,0,Legal
+Irrigation,Agricultural,338.05,542,1292,Hearing of Objections (Sec 15),318,Not Applicable,0,6,0.6,1,1,61.3,1,Compensation
+Irrigation,Agricultural,371.93,978,1955,Award & Compensation (Sec 23),31,Approved,2,2,0.91,1,0,43.6,0,Legal
+Railways,Forest,39.21,15,21,R&R Implementation,143,Pending,0,5,1.02,1,1,44.5,0,Approval
+Irrigation,Commercial,96.22,570,1047,R&R Implementation,41,Approved,0,5,0.76,1,1,16.4,0,Documentation/Survey
+Energy,Residential,20.15,68,114,Award & Compensation (Sec 23),308,Approved,2,0,0.89,1,1,51.5,1,Legal
+Industrial,Forest,43.19,14,23,Physical Possession,231,Approved,3,2,0.99,1,1,62.2,1,Legal
+Railways,Commercial,63.06,374,653,Hearing of Objections (Sec 15),66,Approved,4,4,0.95,1,1,36.3,0,Legal
+Railways,Government/Barren,140.77,59,103,Survey & Demarcation,61,Not Applicable,0,0,0.95,1,1,5.0,0,Documentation/Survey
+Industrial,Residential,42.8,175,192,R&R Implementation,115,Pending,2,0,0.62,1,1,74.6,1,Legal
+Irrigation,Agricultural,425.4,1043,2466,Award & Compensation (Sec 23),105,Not Applicable,0,3,0.76,1,1,23.7,0,Documentation/Survey
+Railways,Agricultural,18.78,41,66,Hearing of Objections (Sec 15),46,Approved,0,7,0.67,1,1,48.6,0,Compensation
+Highways,Agricultural,127.39,202,236,Hearing of Objections (Sec 15),220,Approved,2,2,0.78,1,0,73.2,1,Legal
+Energy,Forest,55.21,28,66,Preliminary Notification (Sec 11),15,Approved,0,0,0.77,1,1,27.6,0,Compensation
+Irrigation,Government/Barren,433.88,198,284,Declaration of Acquisition (Sec 19),18,Approved,0,5,0.76,1,0,35.8,0,Rehabilitation & Resettlement
+Railways,Agricultural,205.55,473,1006,Survey & Demarcation,132,Pending,5,3,0.59,1,1,91.8,1,Legal
+Industrial,Residential,79.13,304,513,Preliminary Notification (Sec 11),50,Pending,3,4,1.03,1,1,57.3,1,Legal
+Urban Infrastructure,Government/Barren,77.54,22,44,Award & Compensation (Sec 23),184,Not Applicable,0,0,0.77,1,1,33.4,0,Compensation
+Energy,Government/Barren,43.39,21,27,Survey & Demarcation,33,Approved,0,1,0.91,1,1,11.2,0,Documentation/Survey
+Highways,Agricultural,175.01,475,970,Hearing of Objections (Sec 15),65,Pending,1,3,0.85,1,0,65.8,1,Approval
+Industrial,Agricultural,12.79,31,52,R&R Implementation,18,Pending,2,1,0.93,1,1,46.7,0,Legal
+Railways,Forest,55.4,16,27,Declaration of Acquisition (Sec 19),113,Pending,0,6,0.69,1,1,89.2,1,Compensation
+Urban Infrastructure,Forest,65.63,27,33,Preliminary Notification (Sec 11),131,Pending,0,3,0.71,1,1,70.2,1,Approval
+Industrial,Government/Barren,14.36,5,11,Hearing of Objections (Sec 15),97,Pending,0,0,0.96,1,1,31.7,0,Approval
+Industrial,Agricultural,5.33,11,16,Survey & Demarcation,31,Approved,0,1,0.89,0,1,15.8,0,Documentation/Survey
+Industrial,Agricultural,43.04,109,125,R&R Implementation,57,Approved,0,1,0.97,1,0,10.7,0,Rehabilitation & Resettlement
+Railways,Agricultural,205.91,505,1195,Preliminary Notification (Sec 11),101,Pending,5,6,0.97,1,0,95.3,1,Legal
+Urban Infrastructure,Agricultural,77.08,137,228,R&R Implementation,34,Pending,0,2,0.71,1,1,52.9,1,Approval
+Urban Infrastructure,Government/Barren,19.9,9,13,Award & Compensation (Sec 23),66,Approved,0,0,0.83,1,1,18.4,0,Compensation
+Highways,Government/Barren,123.27,43,75,Physical Possession,111,Not Applicable,0,6,0.77,1,1,35.5,0,Compensation
+Highways,Commercial,86.82,484,777,Physical Possession,50,Pending,1,3,0.91,1,1,32.6,0,Approval
+Energy,Agricultural,64.14,112,221,R&R Implementation,87,Pending,2,0,1.0,1,0,67.1,1,Legal
+Irrigation,Forest,357.7,162,230,Physical Possession,338,Pending,0,1,0.68,1,1,81.9,1,Approval
+Urban Infrastructure,Agricultural,68.04,123,166,Declaration of Acquisition (Sec 19),80,Pending,1,2,0.91,1,0,57.7,1,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,54.92,147,232,Declaration of Acquisition (Sec 19),25,Approved,0,4,0.93,1,0,16.9,0,Rehabilitation & Resettlement
+Irrigation,Agricultural,373.61,904,1940,Declaration of Acquisition (Sec 19),20,Pending,1,1,0.81,1,0,66.1,1,Approval
+Highways,Agricultural,236.14,400,458,Declaration of Acquisition (Sec 19),176,Approved,0,1,0.76,1,1,22.1,0,Documentation/Survey
+Highways,Agricultural,214.8,288,434,Hearing of Objections (Sec 15),66,Approved,2,1,0.97,1,1,24.3,0,Legal
+Highways,Residential,153.76,829,1641,Hearing of Objections (Sec 15),92,Approved,2,0,1.03,1,1,36.7,0,Legal
+Highways,Government/Barren,157.16,57,125,Declaration of Acquisition (Sec 19),25,Approved,1,0,0.95,1,1,5.0,0,Legal
+Irrigation,Agricultural,245.82,485,1058,Declaration of Acquisition (Sec 19),145,Approved,5,5,0.9,1,1,44.6,0,Legal
+Railways,Agricultural,166.86,398,727,Physical Possession,247,Approved,0,5,0.72,1,0,57.2,1,Compensation
+Urban Infrastructure,Agricultural,39.44,69,136,R&R Implementation,186,Approved,0,3,1.0,1,1,23.0,0,Compensation
+Highways,Agricultural,52.53,63,90,Hearing of Objections (Sec 15),313,Pending,2,0,0.75,1,1,72.1,1,Legal
+Highways,Residential,127.54,457,746,R&R Implementation,118,Approved,0,5,0.8,1,0,39.8,0,Rehabilitation & Resettlement
+Irrigation,Agricultural,214.33,529,1170,Award & Compensation (Sec 23),205,Pending,0,4,0.74,1,1,70.2,1,Approval
+Irrigation,Agricultural,420.22,907,1573,Declaration of Acquisition (Sec 19),35,Approved,3,3,0.8,1,0,60.0,1,Legal
+Irrigation,Forest,217.51,86,149,Survey & Demarcation,101,Pending,0,1,1.03,0,1,42.5,0,Approval
+Irrigation,Agricultural,50.38,137,171,Preliminary Notification (Sec 11),71,Not Applicable,0,3,0.94,1,0,5.8,0,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,45.4,95,183,Declaration of Acquisition (Sec 19),35,Not Applicable,0,3,0.93,1,1,5.0,0,Compensation
+Railways,Commercial,247.14,1195,2420,R&R Implementation,18,Approved,0,4,1.02,1,1,5.0,0,Documentation/Survey
+Highways,Forest,35.56,9,18,Survey & Demarcation,235,Approved,0,7,0.88,1,1,57.7,1,Compensation
+Railways,Agricultural,40.94,84,140,Survey & Demarcation,265,Approved,0,0,0.98,1,1,17.5,0,Documentation/Survey
+Railways,Agricultural,62.03,83,160,Declaration of Acquisition (Sec 19),44,Not Applicable,0,0,1.0,1,0,5.1,0,Rehabilitation & Resettlement
+Energy,Agricultural,78.35,114,132,Award & Compensation (Sec 23),51,Pending,0,6,0.74,1,0,81.9,1,Rehabilitation & Resettlement
+Irrigation,Residential,198.24,948,2043,Award & Compensation (Sec 23),59,Approved,0,0,0.87,1,0,33.2,0,Rehabilitation & Resettlement
+Highways,Agricultural,80.44,190,369,Physical Possession,44,Approved,0,1,0.91,1,0,25.6,0,Rehabilitation & Resettlement
+Irrigation,Government/Barren,457.07,125,260,Preliminary Notification (Sec 11),47,Approved,5,0,0.86,1,1,47.9,0,Legal
+Irrigation,Forest,347.66,121,295,Award & Compensation (Sec 23),66,Pending,0,4,0.77,1,1,43.7,0,Approval
+Industrial,Commercial,29.65,180,431,Preliminary Notification (Sec 11),142,Approved,2,2,0.77,1,1,50.7,1,Legal
+Industrial,Agricultural,75.88,102,200,Physical Possession,47,Not Applicable,0,3,0.97,1,0,22.3,0,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,7.31,16,23,R&R Implementation,20,Not Applicable,0,1,0.77,1,1,10.5,0,Compensation
+Industrial,Agricultural,40.06,68,153,Preliminary Notification (Sec 11),93,Approved,0,2,0.73,1,0,39.0,0,Compensation
+Railways,Agricultural,71.84,130,212,Preliminary Notification (Sec 11),209,Approved,0,0,0.97,0,0,54.6,1,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,52.32,75,82,R&R Implementation,29,Approved,3,1,0.88,1,1,43.0,0,Legal
+Energy,Agricultural,43.08,105,168,Survey & Demarcation,62,Approved,0,0,0.94,0,0,12.9,0,Rehabilitation & Resettlement
+Energy,Government/Barren,25.4,14,24,Award & Compensation (Sec 23),78,Pending,0,2,0.97,1,1,32.0,0,Approval
+Energy,Commercial,25.55,119,289,Hearing of Objections (Sec 15),120,Approved,1,9,0.84,1,1,48.6,0,Compensation
+Irrigation,Forest,430.83,189,448,Survey & Demarcation,73,Pending,0,5,0.62,1,0,80.4,1,Compensation
+Industrial,Forest,56.47,20,40,Survey & Demarcation,21,Pending,0,6,0.61,1,1,90.6,1,Compensation
+Energy,Commercial,41.34,157,202,Preliminary Notification (Sec 11),336,Pending,0,2,0.76,1,1,45.5,0,Approval
+Railways,Forest,180.85,71,152,Physical Possession,79,Approved,0,4,0.81,1,1,32.4,0,Compensation
+Highways,Government/Barren,118.23,50,97,Preliminary Notification (Sec 11),27,Approved,0,0,0.9,1,1,5.0,0,Documentation/Survey
+Irrigation,Agricultural,386.31,596,909,Preliminary Notification (Sec 11),46,Approved,0,3,0.76,0,1,27.7,0,Documentation/Survey
+Irrigation,Government/Barren,105.81,40,59,Physical Possession,51,Approved,0,2,0.9,1,1,5.0,0,Compensation
+Irrigation,Government/Barren,218.45,71,106,Physical Possession,268,Approved,0,1,0.84,1,1,40.7,0,Compensation
+Railways,Agricultural,127.8,248,300,Physical Possession,52,Approved,2,4,0.61,1,1,42.6,0,Legal
+Irrigation,Agricultural,376.69,542,1161,Hearing of Objections (Sec 15),24,Pending,2,1,0.91,1,1,52.9,1,Legal
+Irrigation,Agricultural,381.59,500,1064,Award & Compensation (Sec 23),149,Not Applicable,0,1,0.86,1,0,39.1,0,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,28.4,48,82,Survey & Demarcation,71,Not Applicable,0,1,0.9,1,1,5.0,0,Documentation/Survey
+Irrigation,Agricultural,313.78,384,767,Award & Compensation (Sec 23),98,Approved,0,2,0.75,1,0,33.9,0,Rehabilitation & Resettlement
+Railways,Agricultural,98.32,152,185,Survey & Demarcation,65,Approved,0,1,0.81,1,1,11.0,0,Documentation/Survey
+Highways,Agricultural,220.33,323,681,R&R Implementation,144,Pending,3,8,0.72,1,1,98.0,1,Legal
+Industrial,Agricultural,31.65,56,82,Preliminary Notification (Sec 11),44,Not Applicable,0,0,0.84,0,1,24.2,0,Approval
+Highways,Government/Barren,245.11,84,187,Award & Compensation (Sec 23),302,Not Applicable,0,3,0.93,1,0,27.0,0,Rehabilitation & Resettlement
+Industrial,Agricultural,77.04,100,146,Preliminary Notification (Sec 11),61,Approved,0,0,0.73,1,1,28.4,0,Compensation
+Railways,Agricultural,84.49,155,213,Survey & Demarcation,619,Approved,0,2,0.94,0,1,26.5,0,Approval
+Industrial,Agricultural,46.18,104,159,Award & Compensation (Sec 23),30,Approved,0,0,0.8,1,1,21.5,0,Compensation
+Energy,Government/Barren,12.72,4,4,Physical Possession,67,Pending,0,2,0.7,1,1,61.2,1,Approval
+Irrigation,Commercial,118.38,355,793,Preliminary Notification (Sec 11),79,Approved,0,2,0.89,0,1,25.0,0,Documentation/Survey
+Industrial,Residential,31.38,99,127,R&R Implementation,47,Pending,4,0,0.69,1,1,82.7,1,Legal
+Energy,Agricultural,30.1,79,176,Hearing of Objections (Sec 15),164,Approved,0,2,0.5,1,1,43.1,0,Compensation
+Irrigation,Agricultural,229.61,635,1557,Physical Possession,281,Approved,0,3,0.63,1,1,47.7,0,Documentation/Survey
+Railways,Agricultural,130.65,263,477,Award & Compensation (Sec 23),41,Pending,4,5,0.95,1,1,61.0,1,Legal
+Highways,Government/Barren,210.22,69,148,Declaration of Acquisition (Sec 19),77,Not Applicable,1,0,0.82,1,1,24.2,0,Legal
+Energy,Agricultural,49.18,118,172,Survey & Demarcation,85,Not Applicable,0,0,0.88,0,1,7.0,0,Documentation/Survey
+Energy,Agricultural,61.94,114,225,Award & Compensation (Sec 23),121,Pending,0,1,0.83,1,1,48.2,0,Approval
+Railways,Agricultural,64.27,122,221,Hearing of Objections (Sec 15),80,Approved,0,5,0.95,1,0,12.6,0,Rehabilitation & Resettlement
+Urban Infrastructure,Residential,75.32,290,458,Survey & Demarcation,53,Pending,2,5,0.96,1,0,64.2,1,Legal
+Railways,Agricultural,193.74,492,990,Hearing of Objections (Sec 15),78,Pending,0,1,0.83,1,1,35.3,0,Approval
+Highways,Forest,97.48,39,52,Preliminary Notification (Sec 11),109,Approved,0,5,0.71,1,1,45.7,0,Compensation
+Industrial,Residential,33.62,157,297,Declaration of Acquisition (Sec 19),90,Approved,3,2,0.95,1,0,59.2,1,Legal
+Highways,Government/Barren,76.39,28,31,Hearing of Objections (Sec 15),196,Approved,3,2,0.99,1,1,45.0,0,Legal
+Urban Infrastructure,Residential,13.03,67,140,Survey & Demarcation,53,Not Applicable,3,2,0.94,1,1,30.5,0,Legal
+Urban Infrastructure,Government/Barren,15.41,8,13,Award & Compensation (Sec 23),82,Approved,2,1,0.9,1,1,33.4,0,Legal
+Energy,Government/Barren,42.87,16,25,Award & Compensation (Sec 23),19,Approved,0,1,0.62,1,1,27.0,0,Compensation
+Urban Infrastructure,Agricultural,31.29,76,145,Declaration of Acquisition (Sec 19),19,Approved,1,2,0.8,1,1,32.2,0,Legal
+Railways,Residential,151.83,829,1908,Physical Possession,49,Approved,1,0,0.89,1,1,24.8,0,Legal
+Urban Infrastructure,Agricultural,66.4,149,308,Survey & Demarcation,34,Approved,2,1,0.85,1,0,53.9,1,Legal
+Railways,Government/Barren,101.18,36,67,Award & Compensation (Sec 23),67,Not Applicable,0,1,0.71,1,1,25.6,0,Compensation
+Railways,Agricultural,187.97,462,920,R&R Implementation,92,Approved,2,4,0.7,1,1,62.7,1,Legal
+Industrial,Agricultural,79.6,161,225,Hearing of Objections (Sec 15),96,Not Applicable,0,0,1.04,1,0,31.8,0,Rehabilitation & Resettlement
+Irrigation,Forest,318.82,172,264,R&R Implementation,136,Approved,0,0,0.88,1,1,28.1,0,Documentation/Survey
+Industrial,Commercial,44.54,185,330,R&R Implementation,36,Approved,1,3,0.88,1,1,24.5,0,Documentation/Survey
+Energy,Agricultural,68.83,184,283,Declaration of Acquisition (Sec 19),290,Pending,0,1,0.82,1,1,54.7,1,Approval
+Energy,Commercial,66.83,304,749,Declaration of Acquisition (Sec 19),53,Approved,0,3,0.66,1,1,31.7,0,Compensation
+Railways,Commercial,32.76,162,215,Preliminary Notification (Sec 11),39,Not Applicable,0,3,0.67,1,1,32.6,0,Compensation
+Industrial,Residential,73.6,384,519,Declaration of Acquisition (Sec 19),56,Pending,4,2,0.6,1,1,86.3,1,Legal
+Energy,Commercial,45.49,235,329,R&R Implementation,78,Not Applicable,0,6,0.74,1,0,59.0,1,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,72.46,99,170,Survey & Demarcation,123,Approved,0,0,0.91,1,0,5.0,0,Rehabilitation & Resettlement
+Highways,Forest,128.45,65,129,R&R Implementation,62,Pending,3,6,0.78,1,0,98.0,1,Legal
+Urban Infrastructure,Residential,35.05,172,301,Physical Possession,112,Approved,0,5,0.71,1,1,37.0,0,Compensation
+Urban Infrastructure,Commercial,57.89,280,575,Survey & Demarcation,72,Approved,3,2,0.88,1,0,75.9,1,Legal
+Urban Infrastructure,Government/Barren,64.69,18,22,Declaration of Acquisition (Sec 19),104,Approved,0,2,0.79,1,1,20.3,0,Compensation
+Industrial,Agricultural,32.16,50,111,Declaration of Acquisition (Sec 19),75,Not Applicable,0,1,0.75,1,1,12.0,0,Compensation
+Highways,Forest,135.61,60,125,Hearing of Objections (Sec 15),48,Approved,1,3,0.92,1,1,23.0,0,Legal
+Industrial,Agricultural,11.99,21,39,Hearing of Objections (Sec 15),251,Approved,0,1,0.74,1,1,42.9,0,Compensation
+Urban Infrastructure,Agricultural,68.21,183,406,R&R Implementation,197,Approved,0,0,0.94,1,1,9.8,0,Documentation/Survey
+Urban Infrastructure,Agricultural,27.66,45,83,Survey & Demarcation,125,Approved,0,1,1.0,1,1,13.5,0,Documentation/Survey
+Urban Infrastructure,Commercial,71.73,400,671,R&R Implementation,25,Approved,3,6,0.86,1,1,55.2,1,Legal
+Industrial,Agricultural,48.5,105,153,Preliminary Notification (Sec 11),106,Pending,0,1,0.54,0,1,75.3,1,Approval
+Irrigation,Agricultural,438.04,1144,2684,Physical Possession,22,Approved,1,4,0.9,1,1,16.0,0,Compensation
+Railways,Forest,55.51,25,28,Declaration of Acquisition (Sec 19),24,Pending,0,1,0.7,1,1,53.4,1,Approval
+Highways,Commercial,148.01,918,1919,Declaration of Acquisition (Sec 19),29,Pending,3,5,0.89,1,0,90.1,1,Legal
+Urban Infrastructure,Forest,46.68,15,26,Physical Possession,19,Rejected,1,6,0.75,1,1,95.5,1,Compensation
+Urban Infrastructure,Government/Barren,29.98,7,13,Hearing of Objections (Sec 15),134,Not Applicable,0,1,0.94,1,1,16.5,0,Rehabilitation & Resettlement
+Irrigation,Government/Barren,478.14,233,472,Preliminary Notification (Sec 11),43,Approved,3,2,0.83,1,0,74.3,1,Legal
+Irrigation,Government/Barren,226.54,76,129,Award & Compensation (Sec 23),122,Approved,0,2,0.9,1,0,11.6,0,Compensation
+Urban Infrastructure,Government/Barren,34.88,14,27,Survey & Demarcation,131,Pending,0,6,0.89,1,1,60.9,1,Approval
+Urban Infrastructure,Agricultural,74.9,186,257,Award & Compensation (Sec 23),27,Approved,0,0,1.0,1,1,5.0,0,Compensation
+Industrial,Forest,57.78,25,43,Award & Compensation (Sec 23),109,Pending,3,4,0.69,1,1,98.0,1,Legal
+Urban Infrastructure,Agricultural,57.88,159,275,Preliminary Notification (Sec 11),65,Approved,0,5,0.81,1,0,38.9,0,Rehabilitation & Resettlement
+Irrigation,Agricultural,124.19,152,334,Award & Compensation (Sec 23),338,Approved,0,6,0.97,1,1,31.4,0,Possession
+Railways,Agricultural,238.83,656,1561,Award & Compensation (Sec 23),49,Pending,0,1,0.97,1,1,27.4,0,Approval
+Urban Infrastructure,Forest,72.8,35,80,Hearing of Objections (Sec 15),110,Pending,0,4,0.57,1,1,82.8,1,Approval
+Highways,Forest,156.33,58,92,Survey & Demarcation,70,Pending,0,3,0.65,0,1,54.6,1,Approval
+Industrial,Government/Barren,55.91,16,23,Survey & Demarcation,64,Not Applicable,3,0,0.89,1,1,42.7,0,Legal
+Railways,Agricultural,158.54,440,652,Hearing of Objections (Sec 15),34,Not Applicable,0,5,0.92,1,1,5.0,0,Documentation/Survey
+Railways,Residential,186.22,661,1027,Declaration of Acquisition (Sec 19),52,Approved,1,3,0.96,1,0,21.3,0,Rehabilitation & Resettlement
+Industrial,Government/Barren,53.1,14,27,Preliminary Notification (Sec 11),33,Approved,0,2,0.8,1,1,8.1,0,Compensation
+Industrial,Agricultural,40.16,92,144,Award & Compensation (Sec 23),20,Approved,0,0,0.91,1,1,5.0,0,Compensation
+Industrial,Commercial,9.12,32,37,Preliminary Notification (Sec 11),94,Not Applicable,1,3,0.81,0,1,45.5,0,Approval
+Railways,Government/Barren,176.46,59,93,Physical Possession,53,Approved,1,1,1.0,1,0,20.8,0,Legal
+Urban Infrastructure,Government/Barren,58.66,18,37,Hearing of Objections (Sec 15),17,Pending,0,0,0.98,1,1,21.5,0,Approval
+Urban Infrastructure,Agricultural,67.99,128,274,Survey & Demarcation,134,Approved,0,2,0.8,0,1,23.1,0,Documentation/Survey
+Energy,Residential,65.65,335,565,Award & Compensation (Sec 23),103,Approved,0,5,0.9,1,1,7.0,0,Documentation/Survey
+Energy,Agricultural,43.51,87,107,Physical Possession,27,Approved,4,1,0.94,1,1,33.7,0,Legal
+Energy,Agricultural,52.08,117,191,Hearing of Objections (Sec 15),25,Not Applicable,0,0,1.0,1,1,5.0,0,Rehabilitation & Resettlement
+Irrigation,Agricultural,177.22,344,485,Declaration of Acquisition (Sec 19),165,Pending,0,0,0.69,1,1,53.8,1,Approval
+Irrigation,Forest,167.1,65,122,Survey & Demarcation,92,Rejected,0,4,0.82,1,1,82.1,1,Approval
+Highways,Government/Barren,118.14,50,65,R&R Implementation,138,Pending,2,1,0.91,1,1,59.1,1,Legal
+Railways,Commercial,102.23,477,974,Survey & Demarcation,48,Approved,1,3,0.73,1,0,63.9,1,Rehabilitation & Resettlement
+Irrigation,Agricultural,156.61,315,406,Declaration of Acquisition (Sec 19),39,Approved,2,4,0.97,1,0,41.7,0,Legal
+Highways,Forest,80.33,30,56,R&R Implementation,108,Rejected,0,1,0.86,1,1,75.9,1,Approval
+Highways,Agricultural,24.15,43,75,Hearing of Objections (Sec 15),38,Not Applicable,0,4,0.8,1,1,11.2,0,Compensation
+Irrigation,Agricultural,369.34,916,2097,Survey & Demarcation,68,Approved,2,3,0.74,1,1,48.2,0,Legal
+Urban Infrastructure,Agricultural,17.01,47,97,Preliminary Notification (Sec 11),237,Approved,0,0,0.9,1,1,20.2,0,Compensation
+Industrial,Agricultural,65.91,176,387,Award & Compensation (Sec 23),42,Pending,1,7,0.68,1,1,86.0,1,Compensation
+Energy,Agricultural,59.47,110,206,Hearing of Objections (Sec 15),33,Pending,0,0,0.88,1,1,30.0,0,Approval
+Industrial,Residential,28.61,89,206,Preliminary Notification (Sec 11),47,Pending,0,2,0.79,1,0,40.3,0,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,75.98,109,169,Preliminary Notification (Sec 11),28,Not Applicable,0,1,0.78,1,1,9.0,0,Compensation
+Irrigation,Residential,180.02,606,1201,Award & Compensation (Sec 23),24,Not Applicable,2,0,0.66,1,1,47.7,0,Legal
+Energy,Agricultural,27.15,66,87,Hearing of Objections (Sec 15),27,Approved,1,0,0.65,1,1,38.4,0,Legal
+Industrial,Agricultural,12.99,36,86,Physical Possession,24,Approved,0,1,0.69,1,1,20.5,0,Compensation
+Highways,Forest,114.43,29,33,Physical Possession,31,Approved,4,4,0.65,1,1,69.9,1,Legal
+Urban Infrastructure,Government/Barren,47.57,13,28,Preliminary Notification (Sec 11),69,Approved,4,7,0.84,1,1,65.0,1,Legal
+Energy,Government/Barren,37.07,19,28,Physical Possession,151,Approved,0,0,0.8,1,1,15.2,0,Compensation
+Industrial,Agricultural,10.87,29,41,R&R Implementation,231,Approved,0,1,0.95,1,1,25.3,0,Possession
+Urban Infrastructure,Commercial,27.67,95,183,Declaration of Acquisition (Sec 19),58,Pending,2,7,0.74,1,1,98.0,1,Legal
+Energy,Government/Barren,76.53,32,41,Declaration of Acquisition (Sec 19),21,Approved,0,0,0.91,1,1,5.0,0,Compensation
+Energy,Forest,24.34,7,15,Award & Compensation (Sec 23),43,Approved,0,5,0.92,1,1,5.0,0,Compensation
+Industrial,Residential,66.49,383,677,R&R Implementation,57,Approved,0,3,0.92,1,1,5.0,0,Documentation/Survey
+Railways,Government/Barren,247.96,102,237,Physical Possession,110,Approved,2,0,0.94,1,1,27.9,0,Legal
+Industrial,Agricultural,36.77,55,130,Preliminary Notification (Sec 11),231,Pending,3,1,0.91,1,1,76.3,1,Legal
+Irrigation,Government/Barren,221.24,95,165,Preliminary Notification (Sec 11),42,Approved,0,0,0.77,0,1,21.7,0,Approval
+Highways,Agricultural,243.21,377,639,Physical Possession,112,Approved,0,7,0.89,1,0,55.3,1,Rehabilitation & Resettlement
+Energy,Agricultural,6.19,14,34,Preliminary Notification (Sec 11),47,Not Applicable,0,3,0.78,0,1,25.2,0,Approval
+Energy,Forest,40.13,12,20,Declaration of Acquisition (Sec 19),23,Rejected,0,4,0.78,1,1,67.5,1,Approval
+Irrigation,Agricultural,287.47,413,659,R&R Implementation,400,Not Applicable,2,1,0.7,1,0,84.5,1,Legal
+Industrial,Agricultural,52.12,145,272,Preliminary Notification (Sec 11),93,Approved,4,0,0.82,1,0,71.8,1,Legal
+Irrigation,Commercial,182.72,851,1237,Award & Compensation (Sec 23),133,Pending,1,1,0.7,1,0,93.1,1,Rehabilitation & Resettlement
+Highways,Agricultural,160.33,369,802,Survey & Demarcation,106,Pending,0,0,0.94,0,1,32.6,0,Approval
+Irrigation,Agricultural,308.44,854,1857,Preliminary Notification (Sec 11),55,Approved,0,8,0.79,1,1,33.9,0,Compensation
+Highways,Agricultural,228.82,298,335,Hearing of Objections (Sec 15),98,Approved,2,1,0.6,1,0,75.5,1,Legal
+Energy,Agricultural,13.93,16,35,Survey & Demarcation,201,Pending,0,2,0.99,1,1,48.4,0,Approval
+Energy,Commercial,78.81,396,788,Preliminary Notification (Sec 11),39,Approved,0,2,0.96,0,1,15.3,0,Documentation/Survey
+Irrigation,Agricultural,298.47,442,511,Award & Compensation (Sec 23),36,Approved,2,6,0.67,1,0,82.9,1,Legal
+Urban Infrastructure,Commercial,18.36,115,161,Preliminary Notification (Sec 11),15,Not Applicable,0,1,0.8,1,0,25.2,0,Rehabilitation & Resettlement
+Highways,Residential,92.87,388,504,Physical Possession,94,Not Applicable,2,0,0.69,1,1,61.2,1,Legal
+Railways,Agricultural,63.2,114,208,Physical Possession,64,Pending,3,0,0.7,1,1,80.1,1,Legal
+Industrial,Agricultural,47.92,115,203,Physical Possession,165,Not Applicable,0,4,0.77,1,1,22.3,0,Possession
+Railways,Forest,166.04,89,205,R&R Implementation,63,Pending,0,5,0.97,1,0,33.5,0,Rehabilitation & Resettlement
+Industrial,Residential,63.64,243,499,Hearing of Objections (Sec 15),103,Pending,3,1,0.73,1,1,85.7,1,Legal
+Urban Infrastructure,Government/Barren,56.7,14,31,Survey & Demarcation,90,Approved,0,2,0.82,1,1,22.6,0,Documentation/Survey
+Railways,Government/Barren,92.52,41,90,Declaration of Acquisition (Sec 19),238,Approved,0,0,0.92,1,1,21.1,0,Documentation/Survey
+Railways,Agricultural,165.85,199,360,Survey & Demarcation,160,Approved,0,4,0.73,1,0,55.8,1,Rehabilitation & Resettlement
+Railways,Agricultural,88.69,201,314,Preliminary Notification (Sec 11),71,Approved,0,6,0.97,1,1,7.0,0,Compensation
+Urban Infrastructure,Agricultural,79.0,100,247,Declaration of Acquisition (Sec 19),27,Approved,0,0,0.83,1,0,9.1,0,Rehabilitation & Resettlement
+Railways,Forest,192.62,47,79,R&R Implementation,57,Pending,0,4,0.83,1,1,50.9,1,Approval
+Urban Infrastructure,Commercial,48.55,140,344,Hearing of Objections (Sec 15),31,Approved,3,4,0.8,1,0,63.5,1,Legal
+Highways,Forest,189.33,60,113,R&R Implementation,94,Approved,0,1,1.01,1,1,16.4,0,Documentation/Survey
+Industrial,Government/Barren,6.78,3,7,Declaration of Acquisition (Sec 19),25,Pending,2,6,0.91,1,1,64.3,1,Legal
+Energy,Residential,67.93,364,480,Physical Possession,51,Not Applicable,0,5,0.82,1,1,16.1,0,Documentation/Survey
+Irrigation,Residential,254.31,736,1104,Preliminary Notification (Sec 11),39,Approved,1,1,0.8,0,0,63.0,1,Documentation/Survey
+Energy,Forest,24.4,11,17,Hearing of Objections (Sec 15),205,Approved,2,1,0.84,1,1,74.2,1,Legal
+Railways,Agricultural,121.47,236,342,Preliminary Notification (Sec 11),15,Approved,0,3,0.76,1,1,14.3,0,Documentation/Survey
+Energy,Agricultural,44.18,109,140,Declaration of Acquisition (Sec 19),155,Pending,1,2,0.73,1,0,89.4,1,Approval
+Irrigation,Forest,407.7,107,243,Survey & Demarcation,102,Approved,0,2,1.01,0,0,42.9,0,Rehabilitation & Resettlement
+Irrigation,Commercial,309.56,931,1828,Survey & Demarcation,48,Pending,3,6,0.54,1,1,98.0,1,Legal
+Highways,Forest,28.68,8,13,Hearing of Objections (Sec 15),263,Pending,0,7,0.76,1,1,87.7,1,Compensation
+Energy,Residential,59.49,163,190,Survey & Demarcation,29,Approved,3,2,0.95,0,0,52.6,1,Legal
+Irrigation,Agricultural,353.5,794,1829,Declaration of Acquisition (Sec 19),16,Approved,4,3,0.87,1,1,46.0,0,Legal
+Industrial,Agricultural,7.95,19,38,Hearing of Objections (Sec 15),118,Approved,0,0,0.79,1,1,16.8,0,Compensation
+Industrial,Residential,62.53,169,311,Declaration of Acquisition (Sec 19),77,Approved,0,1,0.68,1,1,24.0,0,Documentation/Survey
+Railways,Agricultural,173.35,331,487,Survey & Demarcation,145,Approved,0,3,0.67,1,1,36.8,0,Compensation
+Industrial,Government/Barren,23.77,10,23,Award & Compensation (Sec 23),200,Pending,0,2,0.85,1,1,58.3,1,Approval
+Highways,Government/Barren,169.31,63,82,Preliminary Notification (Sec 11),100,Pending,0,0,0.63,1,1,69.9,1,Approval
+Highways,Government/Barren,81.25,44,64,Physical Possession,30,Pending,0,0,0.59,1,1,51.9,1,Approval
+Highways,Commercial,203.14,1002,2360,Hearing of Objections (Sec 15),310,Approved,0,2,0.85,1,0,55.7,1,Rehabilitation & Resettlement
+Highways,Government/Barren,184.68,78,161,Preliminary Notification (Sec 11),80,Approved,0,2,0.9,1,0,5.0,0,Compensation
+Energy,Agricultural,40.89,64,134,Hearing of Objections (Sec 15),21,Pending,0,0,0.68,1,0,48.8,0,Approval
+Urban Infrastructure,Agricultural,20.99,39,79,Survey & Demarcation,103,Not Applicable,0,1,0.64,1,1,28.3,0,Documentation/Survey
+Railways,Forest,141.8,70,165,Declaration of Acquisition (Sec 19),41,Pending,0,1,0.86,1,0,54.9,1,Approval
+Railways,Agricultural,235.46,627,1149,Survey & Demarcation,161,Approved,4,3,0.93,1,1,44.2,0,Legal
+Urban Infrastructure,Agricultural,10.94,16,32,Preliminary Notification (Sec 11),63,Not Applicable,0,1,0.58,1,1,24.9,0,Compensation
+Energy,Residential,30.34,133,244,Physical Possession,187,Pending,0,0,0.57,1,1,77.2,1,Approval
+Industrial,Residential,23.2,137,183,Declaration of Acquisition (Sec 19),189,Not Applicable,0,1,1.01,1,1,22.0,0,Possession
+Industrial,Commercial,46.31,261,583,Preliminary Notification (Sec 11),23,Not Applicable,2,1,0.79,1,1,31.0,0,Legal
+Urban Infrastructure,Agricultural,40.75,85,195,Declaration of Acquisition (Sec 19),129,Approved,0,1,0.9,1,1,5.0,0,Possession
+Industrial,Residential,60.96,210,440,Declaration of Acquisition (Sec 19),24,Pending,3,4,0.83,1,0,88.2,1,Legal
+Urban Infrastructure,Government/Barren,25.59,10,11,Declaration of Acquisition (Sec 19),196,Approved,0,3,0.82,1,1,27.6,0,Compensation
+Railways,Agricultural,144.19,185,434,Declaration of Acquisition (Sec 19),123,Approved,0,5,0.91,1,1,10.6,0,Documentation/Survey
+Urban Infrastructure,Government/Barren,50.61,22,35,Hearing of Objections (Sec 15),285,Pending,0,1,0.85,1,1,60.8,1,Approval
+Urban Infrastructure,Government/Barren,21.82,7,9,Award & Compensation (Sec 23),84,Approved,0,1,0.55,1,1,19.4,0,Compensation
+Urban Infrastructure,Commercial,41.86,220,340,Hearing of Objections (Sec 15),60,Approved,3,2,0.64,1,0,81.0,1,Legal
+Railways,Agricultural,199.66,475,711,Survey & Demarcation,183,Not Applicable,2,2,0.85,1,0,74.0,1,Legal
+Irrigation,Forest,305.68,142,212,Award & Compensation (Sec 23),75,Approved,0,4,0.82,1,0,47.1,0,Rehabilitation & Resettlement
+Industrial,Government/Barren,65.08,30,52,Hearing of Objections (Sec 15),25,Approved,0,1,0.9,1,1,5.0,0,Compensation
+Highways,Government/Barren,36.68,15,22,Survey & Demarcation,39,Approved,0,0,0.78,1,1,11.7,0,Documentation/Survey
+Energy,Agricultural,21.27,36,88,R&R Implementation,283,Pending,0,3,0.85,1,1,67.1,1,Approval
+Energy,Agricultural,64.49,126,144,Award & Compensation (Sec 23),18,Not Applicable,2,4,0.67,1,1,41.6,0,Legal
+Irrigation,Agricultural,372.0,716,1540,Physical Possession,40,Approved,0,4,0.78,1,0,34.0,0,Rehabilitation & Resettlement
+Highways,Agricultural,192.44,531,1305,R&R Implementation,63,Not Applicable,0,5,0.98,1,0,23.5,0,Rehabilitation & Resettlement
+Energy,Agricultural,15.27,37,52,R&R Implementation,187,Approved,2,4,0.88,1,1,52.7,1,Legal
+Irrigation,Agricultural,293.77,599,820,R&R Implementation,76,Not Applicable,0,6,0.85,1,1,30.8,0,Compensation
+Highways,Agricultural,41.87,88,148,Physical Possession,124,Approved,3,0,0.9,1,1,47.4,0,Legal
+Irrigation,Agricultural,283.5,527,1242,Hearing of Objections (Sec 15),19,Approved,0,0,0.96,1,1,9.7,0,Documentation/Survey
+Urban Infrastructure,Agricultural,5.37,7,15,Hearing of Objections (Sec 15),692,Approved,0,0,0.78,1,1,29.6,0,Compensation
+Railways,Agricultural,20.2,34,53,R&R Implementation,160,Pending,0,1,0.66,1,1,60.4,1,Approval
+Industrial,Agricultural,28.61,79,180,R&R Implementation,154,Approved,0,0,0.73,1,1,49.7,0,Compensation
+Industrial,Government/Barren,60.78,30,49,Declaration of Acquisition (Sec 19),79,Approved,0,0,0.94,1,1,5.0,0,Compensation
+Urban Infrastructure,Government/Barren,63.02,15,22,Physical Possession,47,Approved,0,2,0.88,1,1,12.5,0,Compensation
+Industrial,Agricultural,29.7,42,51,Award & Compensation (Sec 23),142,Pending,0,2,0.73,1,1,54.6,1,Approval
+Urban Infrastructure,Agricultural,54.67,90,193,Award & Compensation (Sec 23),84,Approved,0,1,0.77,1,1,11.8,0,Compensation
+Highways,Agricultural,161.4,357,561,R&R Implementation,16,Approved,0,0,0.84,1,0,32.2,0,Rehabilitation & Resettlement
+Railways,Agricultural,196.86,484,1133,Hearing of Objections (Sec 15),62,Not Applicable,4,3,0.76,1,1,51.6,1,Legal
+Industrial,Forest,11.21,4,5,Physical Possession,79,Approved,0,1,0.99,1,1,11.9,0,Compensation
+Industrial,Residential,79.95,462,664,Survey & Demarcation,75,Pending,4,0,0.82,1,1,70.4,1,Legal
+Industrial,Forest,9.24,3,7,Survey & Demarcation,20,Approved,0,1,0.88,1,1,22.3,0,Documentation/Survey
+Highways,Agricultural,99.74,234,323,Declaration of Acquisition (Sec 19),137,Not Applicable,0,3,0.87,1,0,47.2,0,Rehabilitation & Resettlement
+Highways,Agricultural,72.8,147,174,Physical Possession,47,Pending,0,2,0.78,1,1,43.0,0,Approval
+Energy,Agricultural,55.43,127,227,Preliminary Notification (Sec 11),40,Approved,0,2,0.94,1,1,5.0,0,Compensation
+Railways,Forest,249.51,81,143,Declaration of Acquisition (Sec 19),56,Pending,0,0,0.81,1,1,45.4,0,Approval
+Urban Infrastructure,Government/Barren,23.11,10,21,Preliminary Notification (Sec 11),41,Approved,0,1,0.83,1,1,9.4,0,Compensation
+Highways,Agricultural,99.17,252,351,Physical Possession,75,Pending,0,3,0.78,1,0,59.4,1,Rehabilitation & Resettlement
+Railways,Forest,58.77,28,38,Preliminary Notification (Sec 11),19,Pending,0,2,1.07,1,1,35.9,0,Approval
+Highways,Residential,223.5,1017,1878,Award & Compensation (Sec 23),103,Approved,0,0,0.79,1,0,51.6,1,Rehabilitation & Resettlement
+Highways,Forest,149.27,54,60,Declaration of Acquisition (Sec 19),20,Rejected,0,5,0.97,1,1,48.9,0,Approval
+Industrial,Commercial,53.58,335,651,Preliminary Notification (Sec 11),49,Approved,1,2,0.86,1,1,20.6,0,Documentation/Survey
+Railways,Agricultural,102.92,219,447,Award & Compensation (Sec 23),161,Not Applicable,0,2,0.82,1,1,22.3,0,Documentation/Survey
+Energy,Forest,37.14,10,19,Award & Compensation (Sec 23),154,Approved,1,0,0.95,1,1,31.8,0,Legal
+Irrigation,Agricultural,165.73,288,557,Award & Compensation (Sec 23),29,Approved,5,3,0.94,1,0,47.1,0,Legal
+Irrigation,Government/Barren,352.17,109,233,Declaration of Acquisition (Sec 19),124,Approved,0,1,0.87,1,1,24.1,0,Compensation
+Highways,Forest,156.75,52,95,Survey & Demarcation,61,Pending,0,4,0.74,1,1,64.9,1,Approval
+Urban Infrastructure,Agricultural,64.62,158,310,Declaration of Acquisition (Sec 19),52,Approved,1,3,0.72,1,1,33.7,0,Documentation/Survey
+Energy,Commercial,73.56,408,842,Hearing of Objections (Sec 15),148,Not Applicable,1,0,0.89,1,1,26.7,0,Legal
+Energy,Government/Barren,42.68,23,34,Award & Compensation (Sec 23),56,Not Applicable,0,1,0.84,1,1,26.2,0,Compensation
+Energy,Government/Barren,24.89,7,15,Preliminary Notification (Sec 11),57,Approved,0,1,0.64,1,1,26.2,0,Compensation
+Highways,Government/Barren,203.56,62,103,Award & Compensation (Sec 23),29,Approved,0,2,0.9,1,1,5.0,0,Compensation
+Urban Infrastructure,Forest,58.26,27,56,Declaration of Acquisition (Sec 19),159,Approved,0,3,0.95,1,1,23.9,0,Compensation
+Highways,Agricultural,199.57,393,866,Hearing of Objections (Sec 15),104,Approved,0,0,0.8,1,0,36.7,0,Rehabilitation & Resettlement
+Energy,Commercial,19.23,79,173,Survey & Demarcation,26,Approved,0,2,0.73,1,1,21.8,0,Documentation/Survey
+Energy,Government/Barren,68.56,38,42,Physical Possession,398,Not Applicable,0,0,0.84,1,1,32.7,0,Compensation
+Highways,Residential,65.1,380,456,Physical Possession,151,Not Applicable,3,6,0.82,1,0,87.1,1,Legal
+Highways,Government/Barren,249.21,89,107,Award & Compensation (Sec 23),242,Approved,0,4,0.9,1,1,8.1,0,Possession
+Highways,Agricultural,152.17,364,792,Hearing of Objections (Sec 15),31,Approved,0,4,0.81,1,1,10.8,0,Compensation
+Highways,Forest,217.14,55,82,Declaration of Acquisition (Sec 19),52,Pending,0,5,1.0,1,1,31.0,0,Approval
+Energy,Residential,50.84,303,442,R&R Implementation,26,Not Applicable,1,5,0.89,1,1,18.3,0,Documentation/Survey
+Irrigation,Agricultural,244.49,511,1051,Declaration of Acquisition (Sec 19),106,Pending,0,3,0.98,1,0,46.1,0,Approval
+Irrigation,Agricultural,135.74,328,605,Physical Possession,95,Approved,0,4,1.0,1,1,5.0,0,Documentation/Survey
+Energy,Government/Barren,77.46,42,68,Preliminary Notification (Sec 11),172,Pending,0,0,0.81,1,1,47.2,0,Approval
+Industrial,Government/Barren,35.98,16,20,R&R Implementation,89,Approved,2,1,1.0,1,1,25.4,0,Legal
+Industrial,Agricultural,5.05,8,18,Survey & Demarcation,90,Not Applicable,0,0,0.87,0,1,15.6,0,Documentation/Survey
+Energy,Agricultural,16.21,23,48,R&R Implementation,197,Pending,3,6,0.81,1,1,98.0,1,Legal
+Irrigation,Forest,362.6,179,246,Hearing of Objections (Sec 15),131,Approved,0,2,0.99,1,1,17.1,0,Possession
+Highways,Forest,18.64,4,8,R&R Implementation,48,Pending,0,6,0.81,1,1,63.0,1,Approval
+Industrial,Agricultural,76.28,109,234,Award & Compensation (Sec 23),56,Not Applicable,0,5,0.93,1,0,13.7,0,Rehabilitation & Resettlement
+Railways,Agricultural,69.14,164,223,Hearing of Objections (Sec 15),44,Not Applicable,4,1,0.8,1,0,64.5,1,Legal
+Railways,Residential,145.53,709,881,Declaration of Acquisition (Sec 19),101,Pending,0,3,0.71,1,0,70.0,1,Rehabilitation & Resettlement
+Urban Infrastructure,Government/Barren,15.68,7,13,Hearing of Objections (Sec 15),34,Not Applicable,0,1,0.86,1,1,14.5,0,Compensation
+Highways,Agricultural,190.38,469,714,Survey & Demarcation,285,Approved,2,2,0.93,1,0,63.7,1,Legal
+Railways,Agricultural,153.83,307,447,Award & Compensation (Sec 23),78,Approved,0,3,0.7,1,0,47.7,0,Rehabilitation & Resettlement
+Railways,Residential,186.98,1096,2552,Hearing of Objections (Sec 15),70,Approved,0,5,0.81,1,1,16.7,0,Compensation
+Railways,Agricultural,215.34,299,733,Award & Compensation (Sec 23),21,Pending,0,4,0.72,1,1,43.2,0,Approval
+Highways,Government/Barren,198.12,88,219,R&R Implementation,80,Approved,0,1,1.01,1,0,5.0,0,Rehabilitation & Resettlement
+Urban Infrastructure,Forest,11.87,6,12,Award & Compensation (Sec 23),90,Rejected,0,6,0.89,1,1,78.7,1,Approval
+Energy,Agricultural,35.81,62,98,R&R Implementation,71,Approved,0,2,0.95,1,1,5.0,0,Documentation/Survey
+Energy,Forest,34.98,13,23,Declaration of Acquisition (Sec 19),39,Pending,0,4,0.85,1,1,52.5,1,Approval
+Railways,Agricultural,157.63,360,642,Award & Compensation (Sec 23),78,Approved,4,1,0.67,1,0,64.6,1,Legal
+Urban Infrastructure,Government/Barren,5.96,1,2,Award & Compensation (Sec 23),136,Not Applicable,5,1,1.06,1,1,42.0,0,Legal
+Energy,Agricultural,22.34,42,103,R&R Implementation,40,Approved,0,6,0.87,1,1,28.1,0,Compensation
+Energy,Government/Barren,54.84,26,41,Survey & Demarcation,63,Not Applicable,0,6,0.94,0,1,13.5,0,Documentation/Survey
+Urban Infrastructure,Agricultural,56.59,146,300,Award & Compensation (Sec 23),190,Approved,2,2,0.9,1,1,39.0,0,Legal
+Railways,Government/Barren,79.34,41,48,Declaration of Acquisition (Sec 19),200,Approved,0,1,0.78,1,1,31.6,0,Compensation
+Irrigation,Residential,209.11,1037,2212,Hearing of Objections (Sec 15),212,Approved,1,3,0.75,1,0,66.5,1,Rehabilitation & Resettlement
+Energy,Agricultural,53.13,85,197,Preliminary Notification (Sec 11),189,Approved,0,2,0.91,1,1,20.7,0,Compensation
+Highways,Forest,64.12,35,81,Declaration of Acquisition (Sec 19),60,Pending,1,0,0.83,1,1,68.3,1,Approval
+Railways,Agricultural,232.26,452,907,Hearing of Objections (Sec 15),58,Approved,0,1,0.98,1,1,5.0,0,Documentation/Survey
+Energy,Agricultural,10.24,26,29,Physical Possession,237,Pending,0,2,0.77,1,1,64.3,1,Approval
+Highways,Agricultural,74.13,194,334,Hearing of Objections (Sec 15),144,Pending,0,2,1.04,1,1,31.0,0,Approval
+Irrigation,Agricultural,336.43,895,1663,Survey & Demarcation,78,Not Applicable,0,3,0.59,1,0,43.5,0,Rehabilitation & Resettlement
+Highways,Residential,228.67,821,1375,Preliminary Notification (Sec 11),66,Approved,0,2,0.82,1,1,21.0,0,Documentation/Survey
+Urban Infrastructure,Agricultural,25.17,69,153,R&R Implementation,280,Approved,0,1,0.82,1,1,26.0,0,Compensation
+Irrigation,Forest,277.72,137,301,Physical Possession,146,Approved,0,0,0.87,1,1,45.5,0,Documentation/Survey
+Railways,Government/Barren,123.37,64,109,Survey & Demarcation,43,Not Applicable,0,8,0.98,0,1,19.6,0,Approval
+Highways,Government/Barren,224.51,119,190,Physical Possession,27,Not Applicable,0,0,0.61,1,1,30.9,0,Compensation
+Railways,Agricultural,16.03,26,35,Hearing of Objections (Sec 15),82,Pending,0,2,1.01,1,1,25.2,0,Approval
+Energy,Agricultural,21.31,43,73,Declaration of Acquisition (Sec 19),43,Not Applicable,0,2,1.0,1,1,5.0,0,Possession
+Railways,Agricultural,215.21,460,1065,Hearing of Objections (Sec 15),16,Approved,1,1,0.78,1,0,53.4,1,Rehabilitation & Resettlement
+Industrial,Government/Barren,29.63,9,19,Award & Compensation (Sec 23),96,Approved,3,0,0.91,1,1,48.6,0,Legal
+Urban Infrastructure,Agricultural,35.97,96,152,Physical Possession,87,Approved,0,0,0.8,1,1,7.2,0,Compensation
+Irrigation,Government/Barren,217.45,112,181,Hearing of Objections (Sec 15),180,Not Applicable,2,4,0.75,1,1,46.3,0,Legal
+Urban Infrastructure,Forest,36.2,19,45,R&R Implementation,53,Approved,3,3,0.66,1,1,74.4,1,Legal
+Urban Infrastructure,Residential,6.56,24,52,Physical Possession,259,Not Applicable,0,2,0.72,1,1,44.8,0,Compensation
+Urban Infrastructure,Forest,26.73,9,22,Physical Possession,145,Approved,0,7,0.7,1,1,63.4,1,Compensation
+Energy,Agricultural,27.61,68,130,Survey & Demarcation,82,Approved,0,1,0.8,1,0,17.8,0,Documentation/Survey
+Energy,Residential,70.28,358,604,Preliminary Notification (Sec 11),27,Approved,0,2,0.89,1,1,19.9,0,Documentation/Survey
+Energy,Residential,55.84,198,277,R&R Implementation,95,Approved,2,4,0.86,1,1,53.1,1,Legal
+Irrigation,Commercial,231.88,1250,1852,Declaration of Acquisition (Sec 19),127,Not Applicable,2,3,0.93,1,1,31.1,0,Legal
+Irrigation,Residential,394.92,2153,4663,Preliminary Notification (Sec 11),17,Approved,2,2,0.85,1,1,40.4,0,Legal
+Irrigation,Commercial,492.24,2337,4871,Preliminary Notification (Sec 11),22,Approved,0,5,0.94,0,0,29.8,0,Rehabilitation & Resettlement
+Urban Infrastructure,Commercial,34.15,143,356,Award & Compensation (Sec 23),152,Approved,0,7,0.87,1,1,38.1,0,Possession
+Energy,Commercial,78.59,403,479,Survey & Demarcation,38,Approved,2,2,0.97,0,0,38.9,0,Legal
+Industrial,Agricultural,54.96,135,218,Physical Possession,177,Not Applicable,0,0,0.87,1,1,17.8,0,Compensation
+Highways,Agricultural,75.01,142,194,Survey & Demarcation,55,Approved,0,4,0.73,1,1,28.7,0,Documentation/Survey
+Energy,Agricultural,6.63,11,17,R&R Implementation,22,Approved,2,2,0.76,1,1,36.5,0,Legal
+Energy,Residential,63.46,200,277,Survey & Demarcation,70,Approved,1,2,1.02,0,1,6.3,0,Documentation/Survey
+Urban Infrastructure,Forest,35.48,15,16,Physical Possession,162,Approved,0,1,0.94,1,1,17.2,0,Compensation
+Highways,Agricultural,50.99,133,172,Physical Possession,322,Approved,0,2,0.92,1,1,27.3,0,Compensation
+Railways,Agricultural,97.58,250,336,Declaration of Acquisition (Sec 19),88,Approved,1,4,0.83,1,0,47.3,0,Rehabilitation & Resettlement
+Irrigation,Residential,53.47,315,503,Survey & Demarcation,143,Pending,0,2,0.83,0,0,69.5,1,Approval
+Railways,Agricultural,59.09,146,315,Physical Possession,141,Not Applicable,2,1,0.78,1,1,45.3,0,Legal
+Urban Infrastructure,Agricultural,24.88,59,129,R&R Implementation,33,Pending,0,2,0.69,1,0,52.3,1,Approval
+Urban Infrastructure,Agricultural,59.26,92,154,Hearing of Objections (Sec 15),92,Pending,0,1,0.86,1,1,50.6,1,Approval
+Industrial,Agricultural,13.35,19,39,Survey & Demarcation,54,Not Applicable,2,0,0.9,1,1,23.8,0,Legal
+Highways,Agricultural,130.99,312,765,Survey & Demarcation,64,Pending,1,0,0.86,1,1,50.1,1,Approval
+Industrial,Commercial,27.5,112,233,R&R Implementation,22,Not Applicable,1,1,0.96,1,1,19.2,0,Legal
+Railways,Government/Barren,141.43,63,106,Declaration of Acquisition (Sec 19),125,Pending,0,2,0.9,1,0,23.9,0,Approval
+Highways,Forest,153.55,78,86,Survey & Demarcation,242,Approved,0,6,0.93,0,0,48.9,0,Possession
+Irrigation,Commercial,174.89,842,1084,Survey & Demarcation,114,Approved,2,0,0.8,1,0,70.7,1,Legal
+Energy,Commercial,7.77,45,106,Preliminary Notification (Sec 11),34,Approved,2,2,0.87,1,1,39.0,0,Legal
+Industrial,Forest,40.47,14,17,R&R Implementation,58,Pending,3,1,0.9,1,1,65.7,1,Legal
+Energy,Forest,14.31,5,10,Physical Possession,41,Approved,0,7,0.77,1,1,38.9,0,Compensation
+Highways,Agricultural,72.65,151,283,Survey & Demarcation,27,Approved,0,6,0.74,0,1,46.3,0,Compensation
+Highways,Agricultural,52.05,111,225,Award & Compensation (Sec 23),24,Approved,0,5,0.86,1,1,20.9,0,Compensation
+Irrigation,Agricultural,339.88,438,681,Physical Possession,61,Approved,0,2,0.89,1,0,30.0,0,Rehabilitation & Resettlement
+Railways,Government/Barren,52.11,22,40,Declaration of Acquisition (Sec 19),74,Pending,2,1,0.85,1,1,66.2,1,Legal
+Energy,Agricultural,34.98,84,119,Survey & Demarcation,163,Not Applicable,0,4,0.65,1,0,38.6,0,Rehabilitation & Resettlement
+Energy,Agricultural,53.11,81,106,Award & Compensation (Sec 23),113,Not Applicable,0,5,0.92,1,1,6.6,0,Compensation
+Highways,Residential,244.75,1023,2330,Physical Possession,68,Not Applicable,4,5,0.96,1,1,44.1,0,Legal
+Energy,Agricultural,67.74,90,155,Declaration of Acquisition (Sec 19),195,Pending,1,0,0.78,1,1,65.7,1,Approval
+Highways,Agricultural,248.87,440,724,Award & Compensation (Sec 23),39,Approved,1,2,0.94,1,0,19.2,0,Rehabilitation & Resettlement
+Highways,Agricultural,61.31,112,237,R&R Implementation,91,Approved,0,2,0.81,1,1,22.0,0,Compensation
+Urban Infrastructure,Forest,11.42,4,5,Preliminary Notification (Sec 11),67,Approved,0,6,0.85,1,1,42.3,0,Compensation
+Railways,Agricultural,16.34,22,29,Preliminary Notification (Sec 11),27,Pending,2,0,0.74,1,1,81.9,1,Legal
+Energy,Agricultural,75.46,162,234,Preliminary Notification (Sec 11),20,Approved,0,3,0.88,1,1,27.0,0,Compensation
+Highways,Forest,66.17,23,51,Preliminary Notification (Sec 11),87,Pending,2,1,0.89,1,1,73.7,1,Legal
+Highways,Government/Barren,73.02,37,79,Hearing of Objections (Sec 15),194,Approved,2,0,1.05,1,1,37.9,0,Legal
+Irrigation,Government/Barren,73.31,30,69,Hearing of Objections (Sec 15),56,Not Applicable,0,2,0.77,1,1,8.2,0,Compensation
+Energy,Residential,77.49,249,552,Declaration of Acquisition (Sec 19),155,Not Applicable,1,7,0.98,1,1,35.3,0,Documentation/Survey
+Energy,Agricultural,21.46,48,106,Preliminary Notification (Sec 11),138,Approved,0,1,0.83,1,1,17.1,0,Compensation
+Railways,Agricultural,196.72,308,563,Declaration of Acquisition (Sec 19),57,Pending,1,6,0.67,1,0,97.0,1,Rehabilitation & Resettlement
+Irrigation,Agricultural,301.37,804,1900,R&R Implementation,126,Approved,0,4,0.82,1,1,30.8,0,Possession
+Urban Infrastructure,Agricultural,66.74,139,296,Physical Possession,38,Approved,2,2,0.68,1,1,48.5,0,Legal
+Highways,Agricultural,132.0,230,469,Declaration of Acquisition (Sec 19),173,Not Applicable,0,3,0.78,1,0,38.0,0,Rehabilitation & Resettlement
+Irrigation,Government/Barren,429.48,211,369,Declaration of Acquisition (Sec 19),23,Not Applicable,3,2,0.73,1,0,82.6,1,Legal
+Industrial,Residential,29.01,92,206,R&R Implementation,258,Approved,1,2,0.82,1,0,38.1,0,Rehabilitation & Resettlement
+Irrigation,Agricultural,74.23,140,304,Preliminary Notification (Sec 11),89,Pending,0,1,0.91,1,0,49.6,0,Rehabilitation & Resettlement
+Highways,Forest,25.7,10,24,Declaration of Acquisition (Sec 19),39,Pending,0,2,0.92,1,1,33.6,0,Approval
+Industrial,Agricultural,24.19,57,87,Declaration of Acquisition (Sec 19),90,Approved,4,0,0.93,1,0,38.3,0,Legal
+Railways,Residential,174.57,846,1353,Preliminary Notification (Sec 11),459,Pending,0,4,0.87,1,1,59.1,1,Approval
+Industrial,Agricultural,69.86,108,191,Hearing of Objections (Sec 15),15,Pending,4,2,0.82,1,1,78.7,1,Legal
+Energy,Commercial,53.39,296,668,Survey & Demarcation,45,Approved,3,4,0.79,0,1,50.5,1,Legal
+Energy,Agricultural,52.82,83,136,Award & Compensation (Sec 23),31,Approved,0,5,0.88,1,1,13.9,0,Compensation
+Irrigation,Government/Barren,395.48,119,224,Survey & Demarcation,54,Approved,2,1,0.92,1,0,54.0,1,Legal
+Irrigation,Forest,443.54,182,404,Award & Compensation (Sec 23),132,Rejected,6,2,0.89,1,1,98.0,1,Legal
+Highways,Commercial,109.6,567,915,Hearing of Objections (Sec 15),60,Approved,0,1,0.52,1,1,33.7,0,Compensation
+Urban Infrastructure,Commercial,9.45,34,63,Declaration of Acquisition (Sec 19),49,Approved,1,3,0.63,1,1,43.9,0,Compensation
+Irrigation,Commercial,496.34,2903,5864,Award & Compensation (Sec 23),20,Approved,0,2,1.03,1,1,5.0,0,Documentation/Survey
+Urban Infrastructure,Agricultural,17.06,33,49,Award & Compensation (Sec 23),66,Approved,3,0,0.6,1,1,62.6,1,Legal
+Irrigation,Agricultural,172.05,455,793,Preliminary Notification (Sec 11),49,Approved,0,2,0.87,1,1,18.7,0,Documentation/Survey
+Highways,Commercial,40.67,119,229,Hearing of Objections (Sec 15),157,Not Applicable,1,8,0.89,1,0,82.9,1,Compensation
+Irrigation,Residential,386.72,1553,2143,Preliminary Notification (Sec 11),164,Approved,1,0,0.64,1,0,69.1,1,Rehabilitation & Resettlement
+Irrigation,Commercial,290.89,946,1742,Hearing of Objections (Sec 15),116,Pending,0,3,0.69,1,0,79.8,1,Rehabilitation & Resettlement
+Industrial,Residential,29.99,150,271,R&R Implementation,240,Approved,1,1,0.62,1,1,55.4,1,Compensation
+Urban Infrastructure,Agricultural,57.59,114,202,R&R Implementation,56,Approved,0,1,0.95,1,1,5.0,0,Documentation/Survey
+Urban Infrastructure,Commercial,20.59,89,126,Physical Possession,101,Not Applicable,0,2,0.96,1,0,13.0,0,Rehabilitation & Resettlement
+Railways,Residential,36.76,156,296,Survey & Demarcation,30,Not Applicable,0,0,0.93,0,1,5.0,0,Documentation/Survey
+Railways,Agricultural,208.93,501,1237,R&R Implementation,324,Pending,1,1,0.93,1,1,63.1,1,Approval
+Urban Infrastructure,Forest,24.69,13,19,R&R Implementation,231,Approved,0,1,0.86,1,1,39.8,0,Compensation
+Urban Infrastructure,Government/Barren,21.0,11,18,Preliminary Notification (Sec 11),34,Pending,2,1,0.75,1,1,52.9,1,Legal
+Energy,Agricultural,77.36,136,328,Survey & Demarcation,21,Pending,0,2,0.7,1,1,55.1,1,Approval
+Urban Infrastructure,Agricultural,20.76,48,67,Award & Compensation (Sec 23),38,Pending,0,1,0.68,1,1,40.8,0,Approval
+Highways,Forest,53.81,17,39,Physical Possession,256,Approved,0,2,0.76,1,1,45.2,0,Compensation
+Energy,Forest,46.71,14,28,Survey & Demarcation,50,Approved,0,4,0.78,0,1,31.7,0,Compensation
+Urban Infrastructure,Agricultural,16.99,39,79,Physical Possession,230,Not Applicable,0,2,0.81,1,1,30.5,0,Compensation
+Railways,Forest,179.42,75,163,R&R Implementation,299,Pending,0,2,0.94,1,1,52.5,1,Approval
+Energy,Agricultural,69.78,182,272,Declaration of Acquisition (Sec 19),83,Approved,0,3,0.69,1,1,22.4,0,Compensation
+Highways,Forest,191.97,64,74,Award & Compensation (Sec 23),300,Approved,0,3,0.84,1,1,42.3,0,Compensation
+Railways,Residential,194.88,753,876,Hearing of Objections (Sec 15),189,Not Applicable,1,4,0.8,1,1,50.8,1,Documentation/Survey
+Highways,Agricultural,146.54,381,642,R&R Implementation,49,Approved,0,1,0.81,1,1,5.6,0,Documentation/Survey
+Irrigation,Residential,310.58,1440,3383,R&R Implementation,71,Approved,3,5,0.66,1,1,69.4,1,Legal
+Irrigation,Residential,225.04,662,1199,Preliminary Notification (Sec 11),75,Approved,2,3,0.58,1,1,60.5,1,Legal
+Irrigation,Government/Barren,119.43,38,43,Survey & Demarcation,18,Pending,0,2,0.84,1,1,37.2,0,Approval
+Energy,Agricultural,50.43,116,160,R&R Implementation,107,Approved,0,1,0.96,1,1,9.6,0,Rehabilitation & Resettlement
+Irrigation,Commercial,381.37,2129,3612,Survey & Demarcation,38,Approved,3,3,0.98,1,1,34.8,0,Legal
+Highways,Residential,209.09,1244,1783,R&R Implementation,32,Not Applicable,3,2,0.7,1,0,79.0,1,Legal
+Energy,Residential,10.03,33,59,Hearing of Objections (Sec 15),90,Not Applicable,0,2,0.89,1,1,12.1,0,Compensation
+Railways,Agricultural,199.59,244,507,Award & Compensation (Sec 23),109,Approved,0,3,0.94,1,1,8.1,0,Documentation/Survey
+Irrigation,Residential,225.76,850,1432,Declaration of Acquisition (Sec 19),65,Approved,0,5,0.63,1,1,29.7,0,Compensation
+Urban Infrastructure,Forest,8.52,3,3,Declaration of Acquisition (Sec 19),165,Approved,0,0,0.7,1,1,41.8,0,Compensation
+Railways,Forest,188.99,53,58,Hearing of Objections (Sec 15),196,Pending,0,2,0.78,1,1,64.8,1,Approval
+Irrigation,Agricultural,160.59,398,486,Survey & Demarcation,144,Approved,0,2,0.58,1,1,32.8,0,Compensation
+Industrial,Agricultural,47.71,65,78,Preliminary Notification (Sec 11),140,Approved,0,1,0.92,1,1,5.0,0,Compensation
+Energy,Agricultural,54.28,82,186,Preliminary Notification (Sec 11),72,Pending,0,2,0.99,1,0,21.9,0,Approval
+Industrial,Agricultural,69.55,187,285,Hearing of Objections (Sec 15),68,Approved,0,0,0.7,1,1,26.4,0,Compensation
+Highways,Agricultural,45.81,127,284,Survey & Demarcation,169,Approved,2,2,0.78,1,1,48.9,0,Legal
+Urban Infrastructure,Residential,8.11,29,46,Award & Compensation (Sec 23),124,Pending,4,2,0.91,1,1,65.5,1,Legal
+Railways,Agricultural,141.54,385,431,R&R Implementation,46,Approved,0,5,0.98,1,0,15.3,0,Rehabilitation & Resettlement
+Industrial,Residential,70.03,426,776,R&R Implementation,20,Not Applicable,0,2,0.64,1,0,42.4,0,Rehabilitation & Resettlement
+Urban Infrastructure,Agricultural,34.84,66,113,Declaration of Acquisition (Sec 19),62,Approved,3,2,0.86,1,1,55.7,1,Legal

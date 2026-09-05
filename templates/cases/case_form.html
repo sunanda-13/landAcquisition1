@@ -1,0 +1,164 @@
+{% extends 'base.html' %}
+
+{% block title %}{% if object %}Edit Case: {{ object.project_name }}{% else %}Register New Land Acquisition Case{% endif %} | LandRisk AI{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-lg-10">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <div>
+                <a href="{% if object %}{% url 'case_detail' object.pk %}{% else %}{% url 'case_list' %}{% endif %}" class="text-decoration-none text-muted small">
+                    <i class="bi bi-arrow-left"></i> Back
+                </a>
+                <h3 class="fw-bold mb-1 mt-1">{% if object %}Edit Case: {{ object.project_name }}{% else %}Register Land Acquisition Case{% endif %}</h3>
+                <p class="text-muted small mb-0">Input land acquisition parameters. The AI pipeline will automatically assess delay probability and bottleneck stages upon submission.</p>
+            </div>
+            {% if object %}
+            <span class="badge bg-light text-secondary border px-3 py-2">Case No: {{ object.case_number }}</span>
+            {% endif %}
+        </div>
+
+        <div class="card border-0 shadow-sm rounded-4">
+            <div class="card-body p-4 p-md-5">
+                <form method="POST">
+                    {% csrf_token %}
+
+                    <!-- Section 1: Project Identity & Location -->
+                    <div class="d-flex align-items-center mb-3">
+                        <div class="bg-primary text-white rounded-circle p-2 me-2 d-flex align-items-center justify-content-center" style="width: 32px; height: 32px; font-weight: bold;">1</div>
+                        <h5 class="fw-bold mb-0">Project & Location Details</h5>
+                    </div>
+                    <div class="row g-3 mb-4">
+                        <div class="col-md-8">
+                            <label class="form-label fw-semibold small">Project / Stretch Title <span class="text-danger">*</span></label>
+                            {{ form.project_name }}
+                            {% if form.project_name.errors %}<div class="text-danger small">{{ form.project_name.errors }}</div>{% endif %}
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label fw-semibold small">Infrastructure Sector <span class="text-danger">*</span></label>
+                            {{ form.sector }}
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label fw-semibold small">State</label>
+                            {{ form.state }}
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label fw-semibold small">District <span class="text-danger">*</span></label>
+                            {{ form.district }}
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label fw-semibold small">Taluk / Tehsil / Villages</label>
+                            {{ form.taluk_village }}
+                        </div>
+                    </div>
+
+                    <hr class="my-4 text-secondary opacity-25">
+
+                    <!-- Section 2: Land Scope & Demographics -->
+                    <div class="d-flex align-items-center mb-3">
+                        <div class="bg-primary text-white rounded-circle p-2 me-2 d-flex align-items-center justify-content-center" style="width: 32px; height: 32px; font-weight: bold;">2</div>
+                        <h5 class="fw-bold mb-0">Land Scope & Demographic Profile</h5>
+                    </div>
+                    <div class="row g-3 mb-4">
+                        <div class="col-md-3">
+                            <label class="form-label fw-semibold small">Total Area (Hectares) <span class="text-danger">*</span></label>
+                            {{ form.total_area_hectares }}
+                        </div>
+                        <div class="col-md-3">
+                            <label class="form-label fw-semibold small">Predominant Land Type <span class="text-danger">*</span></label>
+                            {{ form.land_type }}
+                        </div>
+                        <div class="col-md-3">
+                            <label class="form-label fw-semibold small">Affected Landowners <span class="text-danger">*</span></label>
+                            {{ form.affected_landowners_count }}
+                        </div>
+                        <div class="col-md-3">
+                            <label class="form-label fw-semibold small">Survey Plots Count <span class="text-danger">*</span></label>
+                            {{ form.plots_count }}
+                        </div>
+                    </div>
+
+                    <hr class="my-4 text-secondary opacity-25">
+
+                    <!-- Section 3: Process Stage & Current Timelines -->
+                    <div class="d-flex align-items-center mb-3">
+                        <div class="bg-primary text-white rounded-circle p-2 me-2 d-flex align-items-center justify-content-center" style="width: 32px; height: 32px; font-weight: bold;">3</div>
+                        <h5 class="fw-bold mb-0">Process Stage & Timeline Tracking</h5>
+                    </div>
+                    <div class="row g-3 mb-4">
+                        <div class="col-md-5">
+                            <label class="form-label fw-semibold small">Current Statutory Stage <span class="text-danger">*</span></label>
+                            {{ form.current_stage }}
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label fw-semibold small">Days in Current Stage <span class="text-danger">*</span></label>
+                            {{ form.days_in_current_stage }}
+                            <div class="form-text small">Number of calendar days spent in this stage.</div>
+                        </div>
+                        <div class="col-md-3 d-flex align-items-center">
+                            <div class="form-check mt-3">
+                                {{ form.is_delayed }}
+                                <label class="form-check-label fw-semibold small text-danger" for="{{ form.is_delayed.id_for_label }}">
+                                    Case has already breached timeline
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <hr class="my-4 text-secondary opacity-25">
+
+                    <!-- Section 4: Critical Risk & Friction Indicators -->
+                    <div class="d-flex align-items-center mb-3">
+                        <div class="bg-primary text-white rounded-circle p-2 me-2 d-flex align-items-center justify-content-center" style="width: 32px; height: 32px; font-weight: bold;">4</div>
+                        <h5 class="fw-bold mb-0">Risk & Dispute Friction Parameters (Key AI Inputs)</h5>
+                    </div>
+                    <div class="row g-3 mb-4">
+                        <div class="col-md-4">
+                            <label class="form-label fw-semibold small">Env / Forest Clearance Status <span class="text-danger">*</span></label>
+                            {{ form.env_forest_clearance_status }}
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label fw-semibold small">Active Court Litigations / Stays</label>
+                            {{ form.litigation_cases_count }}
+                            <div class="form-text small">Number of pending writ petitions / civil suits.</div>
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label fw-semibold small">Public / Gram Sabha Objections</label>
+                            {{ form.public_objections_count }}
+                            <div class="form-text small">Formal objections recorded in Sec 15 hearings.</div>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label fw-semibold small">Compensation Disparity Ratio (Offered vs Market)</label>
+                            {{ form.compensation_disparity_ratio }}
+                            <div class="form-text small">1.0 = Market parity. Values below 0.85 indicate severe dispute probability.</div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="p-3 bg-light rounded-3 border mt-1">
+                                <div class="form-check mb-2">
+                                    {{ form.sia_completed }}
+                                    <label class="form-check-label small fw-semibold" for="{{ form.sia_completed.id_for_label }}">
+                                        Social Impact Assessment (SIA) Study Successfully Completed
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    {{ form.rr_plan_approved }}
+                                    <label class="form-check-label small fw-semibold" for="{{ form.rr_plan_approved.id_for_label }}">
+                                        R&R Scheme Approved under Section 16
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="d-flex justify-content-end gap-2 pt-3 border-top">
+                        <a href="{% if object %}{% url 'case_detail' object.pk %}{% else %}{% url 'case_list' %}{% endif %}" class="btn btn-light px-4">Cancel</a>
+                        <button type="submit" class="btn btn-primary px-4 fw-semibold">
+                            <i class="bi bi-cpu me-1"></i> Save & Compute Risk Intelligence
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

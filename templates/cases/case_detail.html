@@ -1,0 +1,365 @@
+{% extends 'base.html' %}
+
+{% block title %}Intelligence Assessment: {{ case.project_name }} | LandRisk AI{% endblock %}
+
+{% block content %}
+<!-- Top Header & Actions -->
+<div class="d-flex justify-content-between align-items-center mb-4 flex-wrap gap-2">
+    <div>
+        <div class="d-flex align-items-center gap-2 mb-1">
+            <a href="{% url 'case_list' %}" class="text-decoration-none text-muted small"><i class="bi bi-arrow-left"></i> Cases Roster</a>
+            <span class="text-muted small">&bull;</span>
+            <span class="badge bg-secondary-subtle text-secondary-emphasis">{{ case.sector }}</span>
+            <span class="badge bg-light text-secondary border"><code>{{ case.case_number }}</code></span>
+        </div>
+        <h3 class="fw-bold mb-0 text-dark">{{ case.project_name }}</h3>
+        <p class="text-muted small mb-0">{{ case.taluk_village }}, {{ case.district }}, {{ case.state }}</p>
+    </div>
+    <div class="d-flex gap-2">
+        <form method="POST" action="{% url 'case_recalculate' case.pk %}" class="d-inline">
+            {% csrf_token %}
+            <button type="submit" class="btn btn-outline-dark btn-sm">
+                <i class="bi bi-arrow-repeat me-1"></i> Re-assess Risk
+            </button>
+        </form>
+        <a href="{% url 'case_update' case.pk %}" class="btn btn-outline-primary btn-sm">
+            <i class="bi bi-pencil me-1"></i> Edit Parameters
+        </a>
+        <a href="{% url 'case_delete' case.pk %}" class="btn btn-outline-danger btn-sm">
+            <i class="bi bi-trash"></i>
+        </a>
+    </div>
+</div>
+
+<!-- Warning Severity Banner if High or Critical -->
+{% if case.warning_severity == 'CRITICAL' %}
+<div class="alert alert-danger border-0 shadow-sm rounded-4 mb-4 d-flex align-items-center gap-3">
+    <div class="bg-danger text-white rounded-circle p-2 d-flex align-items-center justify-content-center" style="width: 42px; height: 42px;">
+        <i class="bi bi-shield-fill-x fs-4"></i>
+    </div>
+    <div class="flex-grow-1">
+        <div class="fw-bold text-danger">CRITICAL EARLY WARNING: IMMEDIATE EXECUTIVE INTERVENTION REQUIRED</div>
+        <div class="small">Multiple compounding friction drivers detected. Project is predicted to suffer severe timeline stagnation without administrative mediation.</div>
+    </div>
+</div>
+{% elif case.warning_severity == 'HIGH' %}
+<div class="alert alert-warning border-0 shadow-sm rounded-4 mb-4 d-flex align-items-center gap-3">
+    <div class="bg-warning text-dark rounded-circle p-2 d-flex align-items-center justify-content-center" style="width: 42px; height: 42px;">
+        <i class="bi bi-exclamation-triangle-fill fs-4"></i>
+    </div>
+    <div class="flex-grow-1">
+        <div class="fw-bold text-dark">HIGH RISK ALERT: ACTIVE DELAY DRIVERS IDENTIFIED</div>
+        <div class="small">This case has high likelihood of timeline breach. Review the AI-recommended mitigations below.</div>
+    </div>
+</div>
+{% endif %}
+
+<!-- Key Metrics Row: AI Risk Gauge, Bottleneck Stage, Timeline Status -->
+<div class="row g-3 mb-4">
+    <!-- Card 1: Risk Gauge & Score -->
+    <div class="col-lg-4 col-md-6">
+        <div class="card border-0 shadow-sm rounded-4 h-100 p-3">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+                <span class="text-uppercase small fw-bold text-muted">AI Risk Classification</span>
+                {% if case.risk_level == 'High' %}
+                    <span class="badge-risk-high">High Risk</span>
+                {% elif case.risk_level == 'Medium' %}
+                    <span class="badge-risk-medium">Medium Risk</span>
+                {% else %}
+                    <span class="badge-risk-low">Low Risk</span>
+                {% endif %}
+            </div>
+            <div class="text-center my-3">
+                <div class="risk-gauge-circle {% if case.risk_level == 'High' %}risk-gauge-high{% elif case.risk_level == 'Medium' %}risk-gauge-medium{% else %}risk-gauge-low{% endif %}">
+                    <span class="fs-2 lh-1">{{ case.risk_score }}</span>
+                    <span style="font-size: 0.65rem;" class="text-uppercase text-secondary">Risk Score</span>
+                </div>
+            </div>
+            <div class="mt-auto pt-2 border-top text-center">
+                <div class="small text-muted mb-1">Delay Likelihood: <strong class="text-dark">{{ case.delay_probability }}%</strong></div>
+                <div class="progress" style="height: 6px;">
+                    <div class="progress-bar {% if case.delay_probability >= 70 %}bg-danger{% elif case.delay_probability >= 35 %}bg-warning{% else %}bg-success{% endif %}" style="width: {{ case.delay_probability }}%;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Card 2: Delay Stage Bottleneck -->
+    <div class="col-lg-4 col-md-6">
+        <div class="card border-0 shadow-sm rounded-4 h-100 p-3">
+            <div class="text-uppercase small fw-bold text-muted mb-2">Predicted Delay Bottleneck Stage</div>
+            <div class="d-flex align-items-center gap-3 my-3">
+                <div class="rounded-3 p-3 bg-primary-subtle text-primary fs-2">
+                    <i class="bi bi-signpost-split-fill"></i>
+                </div>
+                <div>
+                    <h4 class="fw-bold mb-1 text-dark">{{ case.predicted_delay_stage|default:"Approval" }}</h4>
+                    <span class="badge bg-light text-secondary border">Vulnerable Milestone</span>
+                </div>
+            </div>
+            <p class="small text-muted mb-0 mt-auto pt-2 border-top">
+                The ML multi-class classification model pinpoints <strong>{{ case.predicted_delay_stage }}</strong> as the primary node where this project faces maximum resistance.
+            </p>
+        </div>
+    </div>
+
+    <!-- Card 3: Process Stage & Current Velocity -->
+    <div class="col-lg-4 col-md-12">
+        <div class="card border-0 shadow-sm rounded-4 h-100 p-3">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+                <span class="text-uppercase small fw-bold text-muted">Current Process Stage</span>
+                {% if case.is_delayed %}
+                    <span class="badge bg-danger-subtle text-danger border border-danger-subtle">Timeline Breached</span>
+                {% else %}
+                    <span class="badge bg-success-subtle text-success border border-success-subtle">On Track</span>
+                {% endif %}
+            </div>
+            <div class="my-2">
+                <h5 class="fw-bold mb-1 text-dark">{{ case.current_stage }}</h5>
+                <div class="d-flex align-items-center gap-2 text-muted small">
+                    <i class="bi bi-hourglass-split text-warning"></i>
+                    <span><strong>{{ case.days_in_current_stage }}</strong> days spent in this stage</span>
+                </div>
+            </div>
+            <div class="row g-2 mt-auto pt-2 border-top text-center small">
+                <div class="col-4 border-end">
+                    <div class="text-muted">Landowners</div>
+                    <div class="fw-bold">{{ case.affected_landowners_count }}</div>
+                </div>
+                <div class="col-4 border-end">
+                    <div class="text-muted">Litigations</div>
+                    <div class="fw-bold {% if case.litigation_cases_count > 0 %}text-danger{% endif %}">{{ case.litigation_cases_count }}</div>
+                </div>
+                <div class="col-4">
+                    <div class="text-muted">Comp. Ratio</div>
+                    <div class="fw-bold {% if case.compensation_disparity_ratio < 0.85 %}text-danger{% else %}text-success{% endif %}">{{ case.compensation_disparity_ratio }}x</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Middle Row: Explainable AI (XAI) & Actionable Recommendations -->
+<div class="row g-3 mb-4">
+    <!-- Explainable AI (XAI) Column -->
+    <div class="col-lg-6">
+        <div class="card border-0 shadow-sm rounded-4 h-100 p-4">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <div>
+                    <h5 class="fw-bold mb-0">Explainable AI (XAI) Root Cause Breakdown</h5>
+                    <p class="text-muted small mb-0">Transparent explanation of the key factors driving this case's risk score.</p>
+                </div>
+                <span class="badge bg-light text-primary border"><i class="bi bi-diagram-3"></i> Feature Attribution</span>
+            </div>
+
+            <div class="xai-factors-list">
+                {% if case.top_risk_factors %}
+                    {% for factor in case.top_risk_factors %}
+                        <div class="xai-factor-card {% if 'Critical' in factor.impact_type %}factor-critical{% elif 'High' in factor.impact_type %}factor-high{% elif 'Low Risk (-)' in factor.impact_type %}factor-positive{% else %}factor-moderate{% endif %}">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="fw-bold text-dark small">
+                                    {% if 'Low Risk (-)' in factor.impact_type %}
+                                        <i class="bi bi-check-circle text-success me-1"></i>
+                                    {% else %}
+                                        <i class="bi bi-exclamation-octagon text-danger me-1"></i>
+                                    {% endif %}
+                                    {{ factor.factor }}
+                                </div>
+                                <span class="badge {% if factor.impact_score > 0 %}bg-danger-subtle text-danger{% else %}bg-success-subtle text-success{% endif %} small">
+                                    {% if factor.impact_score > 0 %}+{{ factor.impact_score }} Risk Impact{% else %}{{ factor.impact_score }} Mitigating{% endif %}
+                                </span>
+                            </div>
+                            <div class="small text-muted mt-1">{{ factor.description }}</div>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <p class="text-muted small">No significant negative risk factors identified for this project.</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <!-- Early Warning & Actionable Recommendations Column -->
+    <div class="col-lg-6">
+        <div class="card border-0 shadow-sm rounded-4 h-100 p-4">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <div>
+                    <h5 class="fw-bold mb-0">Early Warning Mitigations & Action Plan</h5>
+                    <p class="text-muted small mb-0">Tailored administrative interventions mapped to detected risk drivers.</p>
+                </div>
+                <span class="badge bg-light text-dark border"><i class="bi bi-check2-square"></i> Action Items</span>
+            </div>
+
+            <div class="recommendations-list">
+                {% if case.recommendations %}
+                    {% for rec in case.recommendations %}
+                        <div class="rec-item">
+                            <div class="d-flex justify-content-between align-items-start mb-1">
+                                <span class="badge bg-dark-subtle text-dark fw-semibold small">{{ rec.category }}</span>
+                                <span class="badge {% if rec.urgency == 'Immediate' %}bg-danger text-white{% elif rec.urgency == 'High Priority' %}bg-warning text-dark{% else %}bg-light text-secondary border{% endif %} small">
+                                    {{ rec.urgency }}
+                                </span>
+                            </div>
+                            <div class="fw-semibold text-dark small mb-1">{{ rec.action }}</div>
+                            <div class="text-muted small">
+                                <i class="bi bi-person-badge me-1"></i> Responsible: <strong>{{ rec.authority }}</strong>
+                            </div>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <div class="p-3 bg-light rounded-3 text-muted small">
+                        Case status is optimal. Standard monitoring advised.
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bottom Row: Interactive "What-If" Simulation Sandbox & Parameters Reference -->
+<div class="row g-3">
+    <!-- What-If Sandbox -->
+    <div class="col-lg-7">
+        <div class="card border-0 shadow-sm rounded-4 p-4">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <div>
+                    <h5 class="fw-bold mb-0"><i class="bi bi-sliders text-primary me-2"></i>Interactive "What-If" Sensitivity Simulator</h5>
+                    <p class="text-muted small mb-0">Test risk mitigation strategies dynamically without altering stored database records.</p>
+                </div>
+            </div>
+
+            <form id="whatIfForm" class="row g-3">
+                <div class="col-md-6">
+                    <label class="form-label small fw-semibold">Env/Forest Clearance</label>
+                    <select id="simClearance" class="form-select form-select-sm">
+                        <option value="Approved" {% if case.env_forest_clearance_status == 'Approved' %}selected{% endif %}>Approved / Secured</option>
+                        <option value="Pending" {% if case.env_forest_clearance_status == 'Pending' %}selected{% endif %}>Pending</option>
+                        <option value="Rejected" {% if case.env_forest_clearance_status == 'Rejected' %}selected{% endif %}>Rejected</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label small fw-semibold">Active Court Stays / Litigations</label>
+                    <input type="number" id="simLitigation" class="form-control form-control-sm" min="0" value="{{ case.litigation_cases_count }}">
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label small fw-semibold">Compensation Ratio (Multiplier)</label>
+                    <input type="number" id="simCompRatio" step="0.05" class="form-control form-control-sm" min="0.4" max="2.0" value="{{ case.compensation_disparity_ratio }}">
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label small fw-semibold">Public / Gram Sabha Objections</label>
+                    <input type="number" id="simObjections" class="form-control form-control-sm" min="0" value="{{ case.public_objections_count }}">
+                </div>
+                <div class="col-12 text-end pt-2">
+                    <button type="button" class="btn btn-primary btn-sm px-3 fw-semibold" onclick="runWhatIfSimulation()">
+                        <i class="bi bi-play-circle me-1"></i> Simulate Scenario
+                    </button>
+                </div>
+            </form>
+
+            <!-- Simulation Result Container (Hidden until run) -->
+            <div id="simResultContainer" class="d-none mt-3 p-3 bg-light rounded-3 border">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <span class="small text-muted">Original Risk: <strong>{{ case.risk_score }}/100</strong></span>
+                        <span class="mx-2">&rarr;</span>
+                        <span class="small fw-bold">Simulated Risk: <span id="simScore" class="fs-5">--</span>/100</span>
+                    </div>
+                    <div id="simDeltaBadge"></div>
+                </div>
+                <div id="simMessage" class="small text-muted mt-2"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Complete Case Parameters Reference Card -->
+    <div class="col-lg-5">
+        <div class="card border-0 shadow-sm rounded-4 p-4 h-100">
+            <h5 class="fw-bold mb-3 text-dark">Technical Parameters Dossier</h5>
+            <table class="table table-sm small mb-0">
+                <tbody>
+                    <tr>
+                        <td class="text-muted">Sector / Category</td>
+                        <td class="fw-bold text-end">{{ case.sector }}</td>
+                    </tr>
+                    <tr>
+                        <td class="text-muted">Land Classification</td>
+                        <td class="fw-bold text-end">{{ case.land_type }}</td>
+                    </tr>
+                    <tr>
+                        <td class="text-muted">Total Land Area</td>
+                        <td class="fw-bold text-end">{{ case.total_area_hectares }} Hectares</td>
+                    </tr>
+                    <tr>
+                        <td class="text-muted">Number of Survey Plots</td>
+                        <td class="fw-bold text-end">{{ case.plots_count }}</td>
+                    </tr>
+                    <tr>
+                        <td class="text-muted">Env / Forest Clearance</td>
+                        <td class="fw-bold text-end">
+                            <span class="badge {% if case.env_forest_clearance_status == 'Approved' %}bg-success-subtle text-success{% elif case.env_forest_clearance_status == 'Pending' %}bg-warning-subtle text-warning{% else %}bg-danger-subtle text-danger{% endif %}">
+                                {{ case.env_forest_clearance_status }}
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="text-muted">Social Impact Assessment (SIA)</td>
+                        <td class="fw-bold text-end">{% if case.sia_completed %}<span class="text-success">&check; Completed</span>{% else %}<span class="text-danger">&cross; Pending</span>{% endif %}</td>
+                    </tr>
+                    <tr>
+                        <td class="text-muted">Section 16 R&R Scheme</td>
+                        <td class="fw-bold text-end">{% if case.rr_plan_approved %}<span class="text-success">&check; Approved</span>{% else %}<span class="text-danger">&cross; Pending</span>{% endif %}</td>
+                    </tr>
+                    <tr>
+                        <td class="text-muted">Last ML Assessment</td>
+                        <td class="text-end text-secondary">{{ case.last_assessed_at|date:"M d, Y H:i" }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+function runWhatIfSimulation() {
+    const payload = {
+        env_forest_clearance_status: document.getElementById('simClearance').value,
+        litigation_cases_count: parseInt(document.getElementById('simLitigation').value || 0),
+        compensation_disparity_ratio: parseFloat(document.getElementById('simCompRatio').value || 1.0),
+        public_objections_count: parseInt(document.getElementById('simObjections').value || 0)
+    };
+
+    fetch("{% url 'api_simulate_case' case.pk %}", {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'X-CSRFToken': '{{ csrf_token }}'
+        },
+        body: JSON.stringify(payload)
+    })
+    .then(res => res.json())
+    .then(data => {
+        const container = document.getElementById('simResultContainer');
+        container.classList.remove('d-none');
+        document.getElementById('simScore').textContent = data.simulated_risk_score;
+        
+        const delta = data.delta;
+        const deltaBadge = document.getElementById('simDeltaBadge');
+        if (delta < 0) {
+            deltaBadge.innerHTML = `<span class="badge bg-success-subtle text-success fs-6"><i class="bi bi-arrow-down"></i> ${Math.abs(delta)} pts Reduced</span>`;
+            document.getElementById('simMessage').innerHTML = `Simulated scenario reduces risk from <strong>${data.original_risk_score}</strong> to <strong>${data.simulated_risk_score}</strong> (${data.simulated_result.risk_level} Risk). Bottleneck shifts to: <strong>${data.simulated_result.predicted_delay_stage}</strong>.`;
+        } else if (delta > 0) {
+            deltaBadge.innerHTML = `<span class="badge bg-danger-subtle text-danger fs-6"><i class="bi bi-arrow-up"></i> +${delta} pts Increased</span>`;
+            document.getElementById('simMessage').innerHTML = `Simulated scenario increases risk to <strong>${data.simulated_risk_score}</strong> (${data.simulated_result.risk_level} Risk).`;
+        } else {
+            deltaBadge.innerHTML = `<span class="badge bg-secondary-subtle text-secondary fs-6">No change</span>`;
+            document.getElementById('simMessage').innerHTML = `Simulated adjustments have negligible net impact on the predicted score.`;
+        }
+    })
+    .catch(err => {
+        alert('Simulation failed: ' + err);
+    });
+}
+</script>
+{% endblock %}
